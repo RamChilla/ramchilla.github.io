@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{{ page.hunclass }}">
+{% include head.html %}
+<body class="{{ page.hunclass }}">
+	{% include header.html %}
+	{{ content }}
+	{% include footer.html %}
+	<!--<script src="/assets/js/anime.min.js"></script>
+	<script src="/assets/js/app.js"></script>-->
+</body>
+</html>
