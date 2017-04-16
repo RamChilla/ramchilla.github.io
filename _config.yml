@@ -26,7 +26,8 @@ permalink: /:categories/:title/
 # google_analytics: UA-31875443-3
 # Build settings
 markdown: kramdown
-#theme: minima
+sass:
+  style: compressed
 gems:
   - jekyll-feed
   - jekyll-sitemap
