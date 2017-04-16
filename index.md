@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Rami On Github
 description: Ramchilla's Github Pages
 hunclass: h-100
 ---
