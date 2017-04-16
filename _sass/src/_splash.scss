@@ -1,9 +1,13 @@
 .splash {
-    width: 90%;
+    width: 65%;
     display: flex;
     align-items: center;
     margin: 0 auto;
     height: 100%;
+
+    @media screen and (max-width: $break-tablet-max) {
+        width: 90%;
+    }
 
     .splash-inner {
         display: flex;
@@ -11,6 +15,7 @@
         padding: 4.8rem;
 
         @media screen and (max-width: $break-tablet-max) {
+            padding: 3.2rem;
             flex-direction: column;
         }
     }
