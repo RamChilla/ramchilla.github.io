@@ -28,7 +28,7 @@ permalink: /:categories/:title/
 markdown: kramdown
 sass:
   style: compressed
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
