@@ -3,6 +3,13 @@ layout: default
 ---
 <div class="splash">
     <main class="splash-inner" aria-label="Welcome">
+        <div class="left">
+                <!-- <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla"> -->
+                <video muted autoplay loop poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
+                    <source src="{{ "/assets/img/longboard-nose-vide.mp4" | relative_url }}" type="video/mp4"></source>
+                    <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
+                </video>
+            </div>
         <div class="right">
             {{ content }}
             <div class="button-group">
