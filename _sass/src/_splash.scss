@@ -29,6 +29,7 @@
         @media screen and (max-width: $break-tablet-max){
             flex-direction: column;
             margin: 0 0 3.2rem 0;
+            display: block;
         }
         
         img,
