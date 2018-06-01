@@ -36,6 +36,10 @@
         video {
             border-radius: 50% 50% 0 50%;
             width: 25.6rem;
+
+            @media screen and (max-width: $break-tablet-max) {
+                margin: 0 auto;
+            }
         }
 
         video {
