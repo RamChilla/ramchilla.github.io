@@ -1,4 +1,9 @@
 @charset "utf-8";
-@import "src/vars",
-        "src/scaffold",
-        "src/splash";
+// @import "src/vars",
+//         "src/scaffold",
+//         "src/splash";
+
+@import "bulma/sass/utilities/all",
+        "bulma/sass/base/all",
+        "bulma/sass/components/navbar",
+        "bulma/sass/layout/hero";
