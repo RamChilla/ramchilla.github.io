@@ -1,26 +1,18 @@
 ---
 layout: default
 ---
-<div class="splash">
-    <main class="splash-inner" aria-label="Welcome">
-        <div class="left">
-            <!-- <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla"> -->
-            <video muted autoplay loop playsinline poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
-                <source src="{{ "/assets/img/longboard-nose-video.mp4" | relative_url }}" type="video/mp4"></source>
-                <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
-            </video>
-        </div>
-        <div class="right">
+<section class="hero is-large is-primary is-bold">
+    <div class="hero-body">
+        <div class="container">
             {{ content }}
-            <div class="button-group">
-                <a href="http://ramihassan.net" class="btn btn-link"><i class="fa fa-globe"></i> Web</a>
-                <a href="//dribbble.com/ramchilla" class="btn btn-link"><i class="fa fa-dribbble"></i> Dribbble</a>
-                <a href="//twitter.com/realramchilla" class="btn btn-link"><i class="fa fa-twitter"></i> Twitter</a>
+        </div>
+    </div>
+    <div class="hero-foot">
+        <div class="container">
+            <div class="columns">
+                <div class="column">Foo</div>
+                <div class="column">Bar</div>
             </div>
         </div>
-    </main>
-    <aside class="umbraco-cd">
-        <img src="{{ "/assets/img/ucd.png" | relative_url }}" alt="Umbraco Certified Professional">
-        <p><small><a href="https://umbraco.com/training/certified-developers/umbraco-7-certified-developers/certifieddeveloperdetails/?id=61ae09be-c32a-4392-926c-53ba182c1386" target="_blank">Rami is an Umbraco Certified Professional</a></small></p>
-    </aside>
-</div>
+    </div>
+</section>

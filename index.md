@@ -2,8 +2,6 @@
 layout: home
 title: Rami On Github
 description: Ramchilla's Github Pages
-hunclass: h-100
 ---
-# Hi.
-## Thanks for visiting.
-{{ site.tagline }}
+<h1 class="title">Hi.</h1>
+<p class="subtitle">{{ site.tagline }}</p>

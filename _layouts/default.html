@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{{ page.hunclass }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{{ page.hunclass }} has-navbar-fixed-top">
 {% include head.html %}
 <body class="{{ page.hunclass }}">
-{{ content }}
-<script defer src="https://use.fontawesome.com/24796bde0a.js"></script>
-<script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script>
+  {% include nav.html %}
+  {{ content }}
+  <script defer src="https://use.fontawesome.com/24796bde0a.js"></script>
+  <!-- <script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script> -->
+  <script defer src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </body>
 </html>
