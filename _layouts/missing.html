@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-<div class="splash">
-    <main class="splash-inner" aria-label="Welcome">
-        <div class="left">
-                <!-- <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla"> -->
-                <!-- <video muted autoplay loop playsinline poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
-                    <source src="{{ "/assets/img/longboard-nose-video.mp4" | relative_url }}" type="video/mp4"></source>
-                    <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
-                </video> -->
+<section class="hero is-medium is-info is-bold">
+    <div class="hero-body">
+        <div class="container">
+
+            <div class="columns is-vcentered is-1">
+                <div class="column">
+                    {{ content }}
+                </div>
+                <div class="column is-2 content has-text-centered">
+                    <p class="title">404</p>
+                </div>
             </div>
-        <div class="right">
-            {{ content }}
-            <div class="button-group">
-                <a href="/" class="btn btn-link"><i class="fa fa-home"></i> Home</a>
-            </div>
+            
         </div>
-    </main>
-</div>
+    </div>
+</section>

@@ -6,4 +6,10 @@
 @import "bulma/sass/utilities/all",
         "bulma/sass/base/all",
         "bulma/sass/components/navbar",
-        "bulma/sass/layout/hero";
+        "bulma/sass/layout/hero",
+        "bulma/sass/elements/container",
+        "bulma/sass/elements/box",
+        "bulma/sass/elements/content",
+        "bulma/sass/grid/columns";
+
+@import "site/shapes";

@@ -1,0 +1,8 @@
+.circle {
+    border-radius: 50%;
+
+    &.circle-br { border-bottom-right-radius: 0;}
+    &.circle-bl { border-bottom-left-radius: 0;}
+    &.circle-tr { border-top-right-radius: 0;}
+    &.circle-tl { border-top-left-radius: 0;}
+}
