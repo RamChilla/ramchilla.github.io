@@ -1,3 +1,15 @@
 // body {
 //     background: #AAA;
 // }
+
+.container-mini {
+    max-width: 960px;
+}
+
+.m {
+
+    &t-auto { margin-top: auto; }
+    &b-auto { margin-bottom: auto; }
+    &l-auto { margin-left: auto; }
+    &r-auto { margin-right: auto; }
+}

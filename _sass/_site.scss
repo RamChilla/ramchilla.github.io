@@ -15,6 +15,12 @@
 @import "bulma/sass/utilities/derived-variables";
 // 4. Set your own custom derived vars
 @import "site/vars/derived";
+@import "animate/animate";
+.fadeInDown {
+    @include fadeInDown(
+        $duration: 220ms
+    );
+}
 // 5. Import the rest of Bulma
 @import "bulma/bulma.sass";
 // 7. Import site files

@@ -7,9 +7,11 @@
         "bulma/sass/base/all",
         "bulma/sass/components/navbar",
         "bulma/sass/layout/hero",
+        "bulma/sass/layout/section",
         "bulma/sass/elements/container",
         "bulma/sass/elements/box",
         "bulma/sass/elements/content",
         "bulma/sass/grid/columns";
 
-@import "site/shapes";
+@import "site/scaffold",
+        "site/shapes";
