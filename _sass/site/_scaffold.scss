@@ -12,4 +12,17 @@
     &b-auto { margin-bottom: auto; }
     &l-auto { margin-left: auto; }
     &r-auto { margin-right: auto; }
+
+    &t-none { margin-top: 0 !important; }
+    &b-none { margin-bottom: 0 !important; }
+    &l-none { margin-left: 0 !important; }
+    &r-none { margin-right: 0 !important; }
+
+}
+
+svg {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
 }

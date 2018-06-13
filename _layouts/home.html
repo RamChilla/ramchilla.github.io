@@ -6,10 +6,14 @@ layout: default
         <div class="container content">
 
             <div class="columns is-mobile is-1">
-                <div class="column is-3-tablet is-4-mobile">
-                    <video class="box circle circle-br" muted autoplay loop playsinline poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
-                        <source src="{{ "/assets/img/longboard-nose-video.mp4" | relative_url }}" type="video/mp4"></source>
-                        <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
+                <div class="column is-3-tablet is-4-mobile mt-auto">
+                    <div id="preloader" class="box circle circle-br has-background-primary has-text-centered mb-none">
+                        {% include loaderSvg.html %}
+                    </div>
+                    <video id="video" class="box circle circle-br" style="display: none;" muted autoplay loop playsinline poster="{{ "/assets/img/longboard-nose-video.jpg" | relative_url }}">
+                        <source src="{{ "/assets/img/longboard-nose-video-web.mp4" | relative_url }}" type="video/mp4"></source>
+                        <source src="{{ "/assets/img/longboard-nose-video-web.webm" | relative_url }}" type="video/webm"></source>
+                        <source src="{{ "/assets/img/longboard-nose-video-web.ogv" | relative_url }}" type="video/ogg"></source>
                     </video>
                 </div>
                 <div class="column is-9-tablet mt-auto">
