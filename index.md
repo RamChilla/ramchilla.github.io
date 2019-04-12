@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Rami On Github
+title: A web developer and designer in Toledo, Ohio.
 description: Ramchilla's Github Pages
 ---
 
