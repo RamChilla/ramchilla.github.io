@@ -6,3 +6,23 @@
     &.circle-tr { border-top-right-radius: 0;}
     &.circle-tl { border-top-left-radius: 0;}
 }
+.box {
+    box-shadow: none;
+    @media screen and (max-width: $tablet) {
+        padding: 0.75rem;
+    }
+}
+
+.navbar-circle {
+    $circle-diameter: 76px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 2rem;
+    width: $circle-diameter;
+    height: $circle-diameter;
+    line-height: $circle-diameter;
+    position: absolute;
+    top: .25rem;
+    justify-content: center;
+    z-index: 9;
+}

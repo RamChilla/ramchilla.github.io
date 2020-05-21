@@ -1,44 +1,33 @@
 ---
 layout: default
 ---
-<section class="hero is-info is-bold">
+
+<section class="hero is-{{ page.colorclass }} is-bold">
     <div class="hero-body">
-        <div class="container content">
-
-            <div class="columns is-mobile is-1">
-                <div class="column is-3-tablet is-4-mobile mt-auto">
-                    <div id="preloader" class="box circle circle-br has-background-primary has-text-centered mb-none">
-                        {% include loaderSvg.html %}
+        <div class="content container">
+    
+            <div class="columns is-mobile is-vcentered is-1">
+                <div class="column is-3-tablet is-4-mobile">
+                    <!-- <video class="box circle circle-br has-background-{{ page.colorclass }}" muted autoplay loop playsinline poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
+                        <source src="{{ "/assets/img/longboard-nose-video.mp4" | relative_url }}" type="video/mp4"></source>
+                        <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
+                    </video> -->
+                    <div class="box circle circle-br has-background-{{ page.colorclass }}"">
+                        <img class="circle" src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
                     </div>
-                    <video id="video" class="box circle circle-br" style="display: none;" muted autoplay loop playsinline poster="{{ "/assets/img/longboard-nose-video.jpg" | relative_url }}">
-                        <source src="{{ "/assets/img/longboard-nose-video-web.mp4" | relative_url }}" type="video/mp4"></source>
-                        <source src="{{ "/assets/img/longboard-nose-video-web.webm" | relative_url }}" type="video/webm"></source>
-                        <source src="{{ "/assets/img/longboard-nose-video-web.ogv" | relative_url }}" type="video/ogg"></source>
-                    </video>
                 </div>
-                <div class="column is-9-tablet mt-auto">
+            </div>
+
+            <div class="columns is-mobile">
+                <div class="column is-8-mobile is-offset-4-mobile is-7-tablet is-offset-3-tablet is-6-desktop">
                     <h1 class="title">Hi, I'm Rami.</h1>
-                    <p class="subtitle">I contribute to a better, logical web<br>through information architecture and content&nbsp;planning.</p>
+                    <p class="subtitle">I contribute to a better, logical web through information architecture and content&nbsp;planning.</p>
                 </div>
             </div>
-
+    
         </div>
     </div>
 </section>
-
-
-
-<section style="display: block;" class="section">
-    <div class="container content">
-        <div class="columns">
-            <div class="column is-6 is-offset-3">
-                {{ content }}
-            </div>
-        </div>
-    </div>
-</section>
-
-
 
 <section class="section">
     <div class="container content">
@@ -52,29 +41,5 @@ layout: default
             </div>
         </div>
 
-    </div>
-</section>
-
-<section class="hero is-warning is-bold">
-    <div class="hero-body">
-        <div class="container">
-    
-            <div class="columns is-mobile is-vcentered is-1">
-                <div class="column is-3-tablet is-4-mobile">
-                    <video class="box circle circle-br" muted autoplay loop playsinline poster="{{ "/assets/img/rami-headshot.jpg" | relative_url }}">
-                        <source src="{{ "/assets/img/longboard-nose-video.mp4" | relative_url }}" type="video/mp4"></source>
-                        <img src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
-                    </video>
-                </div>
-            </div>
-
-            <div class="columns is-mobile">
-                <div class="column is-9-tablet is-offset-3-tablet is-8-mobile is-offset-4-mobile">
-                    <h1 class="title">Hi, I'm Rami.</h1>
-                    <p class="subtitle">I contribute to a better, logical web<br>through information architecture and content&nbsp;planning.</p>
-                </div>
-            </div>
-    
-        </div>
     </div>
 </section>

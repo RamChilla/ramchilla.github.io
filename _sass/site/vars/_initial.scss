@@ -1,7 +1,7 @@
 $family-sans-serif: "Open Sans", BlinkMacSystemFont, -apple-system, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $weight-heavy: 900;
 
-$content-heading-weight: $weight-heavy;
+// $content-heading-weight: $weight-heavy;
 
 // 4. Setup your Custom Colors
 $linkedin: #0077b5;
@@ -10,3 +10,7 @@ $twitter: #55acee;
 $twitter-invert: findColorInvert($twitter);
 $github: #333;
 $github-invert: findColorInvert($github);
+
+$box-shadow: none;
+
+$navbar-background-color: inherit;
