@@ -7,12 +7,12 @@
 //         "src/splash";
 
 // 1. Import the initial variables
-@import "bulma-0-7-4/sass/utilities/initial-variables";
-@import "bulma-0-7-4/sass/utilities/functions";
+@import "bulma-0_9_1/sass/utilities/initial-variables.sass";
+@import "bulma-0_9_1/sass/utilities/functions";
 // 2. Set your own initial variables
 @import "site/vars/initial";
 // 3. Add new color variables to the color map.
-@import "bulma-0-7-4/sass/utilities/derived-variables";
+@import "bulma-0_9_1/sass/utilities/derived-variables";
 // 4. Set your own custom derived vars
 @import "site/vars/derived";
 @import "animate/animate";
@@ -22,7 +22,7 @@
     );
 }
 // 5. Import the rest of Bulma
-@import "bulma-0-7-4/bulma.sass";
+@import "bulma-0_9_1/bulma.sass";
 // 7. Import site files
 @import "site/scaffold",
         "site/type",
