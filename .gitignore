@@ -1,6 +1,12 @@
-_site
-.sass-cache
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+.ruby-version
+
 .vscode
 .DS_Store
 CNAME
+
+.bundle/
+vendor/
