@@ -4,6 +4,8 @@ title: Projects | ramchilla.github.io
 description: Some projects
 colorclass: info
 ---
-
+{:.title}
 # Projects
-knick knacks &amp; paddy whacks
+
+{:.subtitle}
+Knick knacks &amp; paddy whacks

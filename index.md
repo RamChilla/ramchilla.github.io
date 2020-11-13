@@ -9,4 +9,5 @@ colorclass: warning
 
 <!-- Rami is a web developer and designer in Toledo, Ohio who contributes to bettering websites through logical information architecture and content planning. -->
 
+{:.subtitle}
 Rami configures and develops websites on content management systems such as Umbraco and WordPress.
