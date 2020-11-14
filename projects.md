@@ -8,4 +8,4 @@ colorclass: info
 # Projects
 
 {:.subtitle}
-Knick knacks &amp; paddy whacks
+Knick knacks &amp; paddy whacks, 'cause why not?

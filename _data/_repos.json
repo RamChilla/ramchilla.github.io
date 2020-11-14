@@ -1,0 +1,20 @@
+[
+  {
+    "name": "jQuery Simple Google Map",
+    "blurb": "A lightweight jQuery Plugin that easily and quickly implements a simple Google Map on your website.",
+    "pages_url": "https://ramchilla.github.io/jquery-simple-google-map/",
+    "repo": "https://github.com/RamChilla/jquery-simple-google-map",
+    "image": {
+      "url": "assets/media/repos/jquery-sgm.png"
+    }
+  },
+  {
+    "name": "Vue Bingo Picker",
+    "blurb": "A bingo number picker made with Vue.js and Vuetify. Useful for virtual bingo games with you and yours during this pandemic.",
+    "pages_url": "https://ramchilla.github.io/vue-bingopicker/",
+    "repo": "https://github.com/RamChilla/vue-bingopicker",
+    "image": {
+      "url": "assets/media/repos/vue-bingopicker.png"
+    }
+  }
+]

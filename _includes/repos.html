@@ -1,0 +1,29 @@
+<div class="columns">
+  {% for repo in site.data._repos %}
+  <div class="column">
+    <div class="card">
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <a href="{{ repo.pages_url | relative_url }}" target="_blank">
+            <img src="{{ repo.image.url | relative_url }}" alt="{{ repo.name }}">
+          </a>
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="content">
+          <h3 class="title is-spaced"><a href="{{ repo.pages_url | relative_url }}" target="_blank">{{ repo.name }}</a></h3>
+          <p class="subtitle">{{ repo.blurb }}</p>
+        </div>
+      </div>
+      <footer class="card-footer has-background-primary-light">
+        <a href="{{ repo.repo | relative_url }}" class="card-footer-item">
+          <span class="icon is-size-4 mr-2"><i class="fab fa-github"></i></span> Github
+        </a>
+        <a href="{{ repo.pages_url | relative_url }}" class="card-footer-item">
+          <span class="icon is-size-4 mr-2"><i class="fas fa-info-circle"></i></span> More Info
+        </a>
+      </footer>
+    </div>
+  </div>
+  {% endfor %}
+</div>

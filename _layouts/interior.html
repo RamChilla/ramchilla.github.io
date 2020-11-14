@@ -2,7 +2,13 @@
 layout: default
 ---
     <section class="section">
-			<main class="container content" aria-label="Content">
+			<main class="container content pt-6" aria-label="Content">
 				{{ content }}
 			</main>
-    </section>
+		</section>
+		
+		<section class="section">
+			<div class="container">
+				{% include repos.html %}
+			</div>
+		</section>
