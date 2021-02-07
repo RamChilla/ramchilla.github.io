@@ -9,7 +9,7 @@ layout: default
             <div class="columns is-mobile is-vcentered is-1">
                 <div class="column is-3-tablet is-4-mobile">
                     <div class="box circle circle-br has-background-{{ page.colorclass }}">
-                        <img class="circle" src="{{ "/assets/img/rami-walker.jpg" | relative_url }}" alt="Ramchilla">
+                        <img class="circle" src="{{ "/assets/img/ramchilla.svg" | relative_url }}" alt="Ramchilla">
                     </div>
                 </div>
             </div>
@@ -17,9 +17,8 @@ layout: default
             <div class="columns is-mobile">
                 <div class="column is-8-mobile is-offset-4-mobile is-7-tablet is-offset-3-tablet is-6-desktop">
                     <h1 class="title">Hi, I'm Rami.</h1>
-                    <p class="subtitle">Developer. Student of Life. Rubber Duck.</p>
-                    <p>I contribute to a better, logical web through information architecture and content&nbsp;planning.
-                        Occasionally, I make cool stuff.</p>
+                    <p class="subtitle" style="display:none;">Developer. Student of Life. Rubber Duck.</p>
+                    <p>I contribute to a better, logical web through information architecture and content&nbsp;planning.</p>
                 </div>
             </div>
 
@@ -28,7 +27,7 @@ layout: default
 </section>
 <section class="section hero is-bold is-primary">
     <div class="container">
-        {% include repos.html %}
+        {% include repos.html colorclass="primary" %}
     </div>
 </section>
 <section class="section">

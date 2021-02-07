@@ -5,4 +5,4 @@ $addColors: (
 );
 $colors: map-merge($colors, $addColors);
 
-$link: $primary;
+$link: inherit; // $primary;

@@ -2,10 +2,10 @@
 layout: interior
 title: Projects | ramchilla.github.io
 description: Some projects
-colorclass: info
+colorclass: primary
 ---
 {:.title}
 # Projects
 
 {:.subtitle}
-Knick knacks &amp; paddy whacks, 'cause why not?
+I don't normally get a ton of extra time, but when I do&hellip;

@@ -11,11 +11,11 @@
       </div>
       <div class="card-content">
         <div class="content">
-          <h3 class="title is-spaced"><a href="{{ repo.pages_url | relative_url }}" target="_blank">{{ repo.name }}</a></h3>
+          <h3 class="title is-spaced has-text-{{ include.colorclass }}"><a href="{{ repo.pages_url | relative_url }}" target="_blank">{{ repo.name }}</a></h3>
           <p class="subtitle">{{ repo.blurb }}</p>
         </div>
       </div>
-      <footer class="card-footer has-background-primary-light">
+      <footer class="card-footer has-background-{{ include.colorclass }}-light">
         <a href="{{ repo.repo | relative_url }}" class="card-footer-item">
           <span class="icon is-size-4 mr-2"><i class="fab fa-github"></i></span> Github
         </a>
