@@ -1,15 +1,22 @@
-.circle {
-    border-radius: 50%;
+$short-border-radius: 6px;
 
-    &.circle-br { border-bottom-right-radius: 0;}
-    &.circle-bl { border-bottom-left-radius: 0;}
-    &.circle-tr { border-top-right-radius: 0;}
-    &.circle-tl { border-top-left-radius: 0;}
+.circle {
+    border-radius: 1000px;
+
+    &.circle-br { border-bottom-right-radius: $short-border-radius;}
+    &.circle-bl { border-bottom-left-radius: $short-border-radius;}
+    &.circle-tr { border-top-right-radius: $short-border-radius;}
+    &.circle-tl { border-top-left-radius: $short-border-radius;}
 }
 .box {
     box-shadow: none;
+    transform: rotate(45deg);
     @media screen and (max-width: $tablet) {
         padding: 0.75rem;
+    }
+
+    img {
+        transform: rotate(-45deg);
     }
 }
 
