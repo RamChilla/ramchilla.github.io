@@ -1,0 +1,20 @@
+.xbl {
+	&__image {
+		position: relative;
+	}
+
+	&__caption {
+		position: absolute;
+		bottom: 24px;
+		right: 24px;
+		font-family: "Montserrat", "Open Sans", sans-serif;
+		font-size: 48px;
+		color: white;
+	}
+
+	&__latest-activity {
+		border-left: 3px solid $primary;
+		padding-left: 5px;
+		align-items: center;
+	}
+}

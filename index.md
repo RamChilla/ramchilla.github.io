@@ -6,7 +6,7 @@ colorclass: warning
 ---
 
 {:.title}
-# Ramchilla
+# Rami
 
 {:.subtitle}
 Developer. Student. Rubber Duck.
