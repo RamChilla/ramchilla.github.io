@@ -5,7 +5,11 @@
 		"pages_url": "https://ramchilla.github.io/jquery-simple-google-map/",
 		"repo": "https://github.com/RamChilla/jquery-simple-google-map",
 		"image": {
-			"url": "assets/media/repos/jquery-sgm.png"
+			"url": "assets/media/repos/maps.jpg",
+			"credits": {
+				"name": "Andrew Neel",
+				"url": "https://unsplash.com/@andrewtneel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+			}
 		}
 	},
 	{
@@ -14,20 +18,23 @@
 		"pages_url": "https://ramchilla.github.io/vue-bingopicker/",
 		"repo": "https://github.com/RamChilla/vue-bingopicker",
 		"image": {
-			"url": "assets/media/repos/vue-bingopicker.png"
+			"url": "assets/media/repos/bingo.jpg",
+			"credits": {
+				"name": "Dylan Nolte",
+				"url": "https://unsplash.com/@dylan_nolte?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+			}
 		}
 	},
 	{
 		"name": "Burnt.js",
-		"blurb": "Coming soon: A tool for easy toast notifications.",
+		"blurb": "Coming soon: A tool for easy toast notifications. Register slices to create a loaf, then burn it.",
 		"pages_url": "",
 		"repo": "",
 		"image": {
 			"url": "assets/media/repos/toast.jpg",
 			"credits": {
 				"name": "Mishaal Zahed",
-				"url": "https://unsplash.com/@mishaalzahed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText",
-				"photoUrl": "https://unsplash.com/s/photos/burned-toast?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+				"url": "https://unsplash.com/@mishaalzahed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
 			}
 		}
 	}
