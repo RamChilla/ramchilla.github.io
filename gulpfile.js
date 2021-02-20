@@ -22,7 +22,8 @@ var paths = {
 	input: 'src/',
 	output: 'dist/',
 	scripts: {
-		input: 'assets/js/*',
+		// input: 'assets/js/*',
+		input: '_src/*',
 		polyfills: '.polyfill.js',
 		output: 'dist/js/'
 	},
