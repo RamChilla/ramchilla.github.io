@@ -11,11 +11,14 @@ layout: default
 </section>
 
 <section class="section hero is-bold is-primary">
-	<div class="container">{% include _partials/repos.html colorclass="primary" %}</div>
+	<div class="container">
+		{% include _partials/repos.html colorclass="primary" %}
+	</div>
 </section>
 
 {% include _partials/xbl.html colorclass="white" %}
 
+{% if False %}
 <section class="section">
 	<div class="container content">
 		<div class="columns is-mobile">
@@ -23,3 +26,4 @@ layout: default
 		</div>
 	</div>
 </section>
+{% endif %}

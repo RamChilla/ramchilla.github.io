@@ -16,7 +16,7 @@
 title: Ramchilla
 email: rami@ramihassan.net
 description: > # this means to ignore newlines until "baseurl:"
-  Making the web a better, more logical place.
+    Making the web a better, more logical place.
 tagline: I contribute to a better, logical web through information architecture and content planning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,10 +27,14 @@ permalink: /:categories/:title/
 # Build settings
 markdown: kramdown
 sass:
-  style: compressed
+    style: compressed
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-sitemap
 exclude:
-  - Gemfile
-  - Gemfile.lock
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - gulpfile.js
+    - package-lock.json
+    - package.json
