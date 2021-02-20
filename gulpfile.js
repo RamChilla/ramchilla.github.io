@@ -289,7 +289,8 @@ exports.default = series(
 exports.buildJs = series(
 	cleanDist,
 	buildScripts
-)
+);
+exports.cleanDist = cleanDist;
 
 // Watch and reload
 // gulp watch
