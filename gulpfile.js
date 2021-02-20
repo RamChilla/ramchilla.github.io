@@ -286,7 +286,10 @@ exports.default = series(
 	)
 );
 
-exports.buildJs = buildScripts;
+exports.buildJs = series(
+	cleanDist,
+	buildScripts
+)
 
 // Watch and reload
 // gulp watch
