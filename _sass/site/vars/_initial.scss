@@ -2,9 +2,13 @@ $family-sans-serif: "Open Sans", BlinkMacSystemFont, -apple-system,
 	"Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $weight-heavy: 900;
 
-// $content-heading-weight: $weight-heavy;
+// 4. Setup Custom Colors
+$primary: $turquoise;
+$info: $cyan;
+$success: $green;
+$warning: $yellow;
+$danger: $red;
 
-// 4. Setup your Custom Colors
 $linkedin: #0077b5;
 $linkedin-invert: findColorInvert($linkedin);
 $twitter: #55acee;

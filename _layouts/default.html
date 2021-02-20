@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{{ page.hunclass }} has-navbar-fixed-top">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="has-navbar-fixed-top">
 {% include head.html %}
-<body class="{{ page.hunclass }}">
+<body class="{{ page.layout }}">
   {% include nav.html %}
   {{ content }}
 

@@ -1,7 +1,16 @@
 $addColors: (
-  "twitter":($twitter, $twitter-invert),
-  "linkedin": ($linkedin, $linkedin-invert),
-  "github": ($github, $github-invert)
+	"twitter": (
+		$twitter,
+		$twitter-invert,
+	),
+	"linkedin": (
+		$linkedin,
+		$linkedin-invert,
+	),
+	"github": (
+		$github,
+		$github-invert,
+	),
 );
 $colors: map-merge($colors, $addColors);
 

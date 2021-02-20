@@ -2,13 +2,16 @@
 <p class="subtitle">Some tools and fun things.</p>
 <div class="columns is-multiline is-justify-content-center">
   {% for repo in site.data._repos %}
-  <div class="column is-half-tablet">
+  <div class="column is-half-tablet is-one-third-desktop is-flex-grow-1">
     <div class="card">
       <div class="card-image">
         <figure class="image is-16by9">
           <a href="{{ repo.pages_url | relative_url }}" target="_blank">
             <img src="{{ repo.image.url | relative_url }}" alt="{{ repo.name }}">
           </a>
+          {% if repo.image.credits %}
+            {% include _partials/photo-credits.html credits=repo.image.credits %}
+          {% endif %}
         </figure>
       </div>
       <div class="card-content">

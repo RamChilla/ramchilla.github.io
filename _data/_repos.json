@@ -1,6 +1,6 @@
 [
 	{
-		"name": "jQuery Simple Google Map",
+		"name": "jQuery Simple Google&nbsp;Map",
 		"blurb": "A lightweight jQuery Plugin that easily and quickly implements a simple Google Map on your website.",
 		"pages_url": "https://ramchilla.github.io/jquery-simple-google-map/",
 		"repo": "https://github.com/RamChilla/jquery-simple-google-map",
@@ -19,11 +19,16 @@
 	},
 	{
 		"name": "Burnt.js",
-		"blurb": "A tool for easy toast notifications.",
+		"blurb": "Coming soon: A tool for easy toast notifications.",
 		"pages_url": "",
 		"repo": "",
 		"image": {
-			"url": ""
+			"url": "assets/media/repos/toast.jpg",
+			"credits": {
+				"name": "Mishaal Zahed",
+				"url": "https://unsplash.com/@mishaalzahed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText",
+				"photoUrl": "https://unsplash.com/s/photos/burned-toast?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+			}
 		}
 	}
 ]
