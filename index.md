@@ -14,4 +14,7 @@ trailing: Toledo, Ohio
 During his undergraduate studies, Rami worked as a web designer and developer; a career path that continued after graduation.
 
 {:.subtitle}
-Now, after thirteen years servicing websites, content management systems, and related technologies, Rami is pursuing an MBA in Information Systems from the University of Toledo College of Business and Innovation. Additionally, he contributes part-time to an Ann Arbor based web and content strategy firm, 3.7 Designs.
+Now, after thirteen years servicing websites, content management systems, and related technologies, Rami is pursuing an MBA in Information Systems. 
+
+{:.subtitle}
+Additionally, he contributes part-time to an Ann Arbor based web and content strategy firm, 3.7 Designs.
