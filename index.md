@@ -7,12 +7,11 @@ heading: Rami
 subheading: Developer. Student. Rubber Duck.
 trailing: Toledo, Ohio
 ---
-
 {:.title}
-# Rami
+## A little about Rami&hellip;
 
 {:.subtitle}
-Developer. Student. Rubber Duck.
+During his undergraduate studies, Rami worked as a web designer and developer; a career path that continued after graduation.
 
-{:.is-size-6}
-Toledo, Ohio
+{:.subtitle}
+Now, after thirteen years servicing websites, content management systems, and related technologies, Rami is pursuing an MBA in Information Systems from the University of Toledo College of Business and Innovation. Additionally, he contributes part-time to an Ann Arbor based web and content strategy firm, 3.7 Designs.
