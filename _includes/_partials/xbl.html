@@ -22,7 +22,7 @@
                 <div class="xbl__activity-overlay">
                     <h3>Latest Activity</h3>
                     {% for recent in recents limit: 3 %}
-                    {% include recents.html recent = recent %}
+                    {% include recent-xbl.html recent = recent %}
                     {% endfor %}
                 </div>
 
