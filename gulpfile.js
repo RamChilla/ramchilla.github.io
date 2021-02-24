@@ -1,4 +1,5 @@
 /**
+ * Gulpfile boilerplate
  * Settings
  * Turn on/off build features
  */
