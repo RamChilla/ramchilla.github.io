@@ -3,11 +3,18 @@ layout: home
 title: A web developer and designer in Toledo, Ohio.
 description: Ramchilla's Github Pages
 colorclass: warning
+heading: Rami
+subheading: Developer. Student. Rubber Duck.
+trailing: Toledo, Ohio
 ---
 {:.title}
-## A Web Designer in Toledo, Ohio.
-
-<!-- Rami is a web developer and designer in Toledo, Ohio who contributes to bettering websites through logical information architecture and content planning. -->
+## A little about Rami&hellip;
 
 {:.subtitle}
-Rami configures and develops websites on content management systems such as Umbraco and WordPress.
+During his undergraduate studies, Rami worked as a web designer and developer; a career path that continued after graduation.
+
+{:.subtitle}
+Now, after thirteen years servicing websites, content management systems, and related technologies, Rami is pursuing an MBA in Information Systems. 
+
+{:.subtitle}
+Additionally, he contributes part-time to an Ann Arbor based web and content strategy firm, 3.7 Designs.

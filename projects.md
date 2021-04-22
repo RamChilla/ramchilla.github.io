@@ -2,10 +2,16 @@
 layout: interior
 title: Projects | ramchilla.github.io
 description: Some projects
-colorclass: primary
+colorclass: warning
+heading: Projects
+subheading: I don't normally have a ton of exta time,
+trailing: but when I do &hellip;
 ---
+
 {:.title}
 # Projects
 
 {:.subtitle}
-I don't normally get a ton of extra time, but when I do&hellip;
+I don't normally have a ton of extra time,
+
+but when I do&hellip;

@@ -3,42 +3,70 @@
 // }
 
 .container-mini {
-    max-width: 960px;
+	max-width: 960px;
 }
 
 .m {
+	&t-auto {
+		margin-top: auto;
+	}
+	&b-auto {
+		margin-bottom: auto;
+	}
+	&l-auto {
+		margin-left: auto;
+	}
+	&r-auto {
+		margin-right: auto;
+	}
 
-    &t-auto { margin-top: auto; }
-    &b-auto { margin-bottom: auto; }
-    &l-auto { margin-left: auto; }
-    &r-auto { margin-right: auto; }
-
-    &t-none { margin-top: 0 !important; }
-    &b-none { margin-bottom: 0 !important; }
-    &l-none { margin-left: 0 !important; }
-    &r-none { margin-right: 0 !important; }
-
+	&t-none {
+		margin-top: 0 !important;
+	}
+	&b-none {
+		margin-bottom: 0 !important;
+	}
+	&l-none {
+		margin-left: 0 !important;
+	}
+	&r-none {
+		margin-right: 0 !important;
+	}
 }
 
 svg {
-    display: block;
-    width: 100%;
-    max-width: 100%;
-    height: auto;
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
 }
 
 .card {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    .content {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	.content {
+		.subtitle {
+			color: $dark;
+		}
+	}
 
-        .subtitle {
-            color: $dark;
-        }
-    }
+	.card-footer {
+		margin-top: auto;
+	}
+}
 
-    .card-footer {
-        margin-top: auto;
-    }
+figure.is-16by9 {
+	figcaption {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		color: $warning;
+		background: $grey-darker;
+		padding: 0.25rem;
+
+		a:hover {
+			color: #fff;
+		}
+	}
 }

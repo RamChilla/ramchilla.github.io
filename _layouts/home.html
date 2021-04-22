@@ -1,44 +1,21 @@
 ---
 layout: default
 ---
+{% include _partials/page-header.html %}
 
-<section class="hero is-{{ page.colorclass }} is-bold">
-    <div class="hero-body">
-        <div class="content container">
-
-            <div class="columns is-mobile is-centered is-vcentered">
-                <div class="column is-3-tablet is-4-mobile">
-                    <div class="box circle circle-br has-background-{{ page.colorclass }}">
-                        <img class="circle" src="{{ "/assets/img/ramchilla.svg" | relative_url }}" alt="Ramchilla">
-                    </div>
-                </div>
-            </div>
-
-            <div class="columns is-mobile">
-                <div class="column is-8-mobile is-offset-4-mobile is-7-tablet is-offset-3-tablet is-6-desktop">
-                    <h1 class="title">Hi, I'm Rami.</h1>
-                    <p class="subtitle" style="display:none;">Developer. Student of Life. Rubber Duck.</p>
-                    <p>I contribute to a better, logical web through information architecture and content&nbsp;planning.</p>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<section class="section hero is-bold is-primary">
-    <div class="container">
-        {% include repos.html colorclass="primary" %}
-    </div>
-</section>
 <section class="section">
-    <div class="container content">
-        <div class="columns is-mobile">
-            <!-- <div class="column is-3-tablet is-4-mobile">
-                <img class="box circle circle-tr" src="{{ "/assets/img/rami-and-muddonna.jpg" | relative_url }}" alt="Rami and Toledo Mud Hen Muddonna.">
-            </div> -->
-            <div class="column is-6-tablet is-8-mobile">
-                {{ content }}
-            </div>
-        </div>
-    </div>
+	<div class="container content">
+		<div class="columns is-centered">
+			<div class="column is-6-tablet">{{ content }}</div>
+		</div>
+	</div>
 </section>
+
+<section class="section">
+	<div class="container">
+		{% include _partials/repos.html colorclass="warning" %}
+	</div>
+</section>
+
+{% include _partials/xbl.html colorclass="white" %}
+

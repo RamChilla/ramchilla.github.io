@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-    	<section class="section">
-			<main class="container content pt-6" aria-label="Content">
-				{{ content }}
-			</main>
-		</section>
-		
-		<section class="section">
-			<div class="container">
-				{% include repos.html colorclass=page.colorclass %}
-			</div>
-		</section>
+{% include _partials/page-header.html %}
+
+<section class="section">
+	<div class="container">
+		{% include _partials/repos.html colorclass=page.colorclass %}
+	</div>
+</section>

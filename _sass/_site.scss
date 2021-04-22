@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:900|Open+Sans:400,700');
+@import url("https://fonts.googleapis.com/css?family=Montserrat:900|Open+Sans:400,700");
 // @import "src/vars",
 //         "src/normalize",
 //         "src/scaffold",
@@ -17,13 +17,9 @@
 @import "site/vars/derived";
 @import "animate/animate";
 .fadeInDown {
-    @include fadeInDown(
-        $duration: 220ms
-    );
+	@include fadeInDown($duration: 220ms);
 }
 // 5. Import the rest of Bulma
 @import "bulma-0_9_1/bulma.sass";
 // 7. Import site files
-@import "site/scaffold",
-        "site/type",
-        "site/shapes";
+@import "site/scaffold", "site/type", "site/shapes", "site/xbl";
