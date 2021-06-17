@@ -10,3 +10,4 @@ CNAME
 
 .bundle/
 vendor/
+node_modules
