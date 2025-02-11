@@ -38,3 +38,4 @@ exclude:
     - gulpfile.js
     - package-lock.json
     - package.json
+    - vendor
