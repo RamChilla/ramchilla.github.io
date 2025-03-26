@@ -1,15 +1,16 @@
 <article class="media xbl__latest-activity">
 	<figure class="media-left">
-		<p class="image is-64x64">
-			<img src="{{ recent.contentImageUri }}" alt="{{recent.contentTitle }}"/>
+		<p class="image is-64x64" style="background-color: #a21025;">
+			<img src="{{ recent.displayImage }}" alt="{{recent.name }}"/>
 		</p>
 	</figure>
 	<div class="media-content">
 		<div class="content">
 			<p>
-				<i class="fas fa-gamepad"></i>
-				<strong>{{recent.gamerscore }} - {{ recent.achievementName }}</strong><br>
-				{{ recent.achievementDescription }}
+				<strong>{{ recent.name }}</strong><br>
+				<i class="fas fa-trophy"></i>
+				<strong>{{recent.achievement.currentGamerscore }}/{{recent.achievement.totalGamerscore }}</strong> - 
+				<small><strong>Last seen: {{ recent.titleHistory.lastTimePlayed | date: "%a, %b %d, %Y" }}</strong></small>
 			</p>
 		</div>
 	</div>

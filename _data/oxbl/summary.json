@@ -1,0 +1,53 @@
+{
+  "people": [
+    {
+      "xuid": "2533274804693417",
+      "isFavorite": false,
+      "isFollowingCaller": false,
+      "isFollowedByCaller": false,
+      "isIdentityShared": false,
+      "addedDateTimeUtc": null,
+      "displayName": "Ramchilla101",
+      "realName": "",
+      "displayPicRaw": "https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW8ke8ralOdP9BGd4wzwl0MJ9z6QzuGwZjtvbE7sSsMVWKoyLEe8jrgQZHHCic7W_Bwu0_6tGsrlDBxjUnCH.RYxWHRnkVZ8fLx7nCbYKu78e1DUMA0wK15_17P7C9a2uOePIyUCDbyJCdKdzhXVmjNk-&format=png",
+      "useAvatar": true,
+      "gamertag": "Ramchilla101",
+      "gamerScore": "54174",
+      "xboxOneRep": "GoodPlayer",
+      "presenceState": "Offline",
+      "presenceText": "Last seen 1d ago: Online",
+      "presenceDevices": null,
+      "isBroadcasting": false,
+      "isCloaked": null,
+      "isQuarantined": false,
+      "suggestion": null,
+      "recommendation": null,
+      "titleHistory": null,
+      "multiplayerSummary": {
+        "InMultiplayerSession": 0,
+        "InParty": 0
+      },
+      "recentPlayer": null,
+      "follower": null,
+      "preferredColor": {
+        "primaryColor": "a21025",
+        "secondaryColor": "450710",
+        "tertiaryColor": "691117"
+      },
+      "presenceDetails": null,
+      "titlePresence": null,
+      "titleSummaries": null,
+      "presenceTitleIds": null,
+      "detail": null,
+      "communityManagerTitles": null,
+      "socialManager": {
+        "titleIds": []
+      },
+      "broadcast": [],
+      "tournamentSummary": null,
+      "avatar": null
+    }
+  ],
+  "recommendationSummary": null,
+  "friendFinderState": null
+}

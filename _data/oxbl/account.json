@@ -1,0 +1,47 @@
+{
+  "profileUsers": [
+    {
+      "id": "2533274804693417",
+      "hostId": "2533274804693417",
+      "settings": [
+        {
+          "id": "GameDisplayPicRaw",
+          "value": "https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW8ke8ralOdP9BGd4wzwl0MJ9z6QzuGwZjtvbE7sSsMVWKoyLEe8jrgQZHHCic7W_Bwu0_6tGsrlDBxjUnCH.RYxWHRnkVZ8fLx7nCbYKu78e1DUMA0wK15_17P7C9a2uOePIyUCDbyJCdKdzhXVmjNk-&format=png"
+        },
+        {
+          "id": "Gamerscore",
+          "value": "54174"
+        },
+        {
+          "id": "Gamertag",
+          "value": "Ramchilla101"
+        },
+        {
+          "id": "AccountTier",
+          "value": "Gold"
+        },
+        {
+          "id": "XboxOneRep",
+          "value": "GoodPlayer"
+        },
+        {
+          "id": "PreferredColor",
+          "value": "https://dlassets-ssl.xboxlive.com/public/content/ppl/colors/00007.json"
+        },
+        {
+          "id": "RealName",
+          "value": ""
+        },
+        {
+          "id": "Bio",
+          "value": ""
+        },
+        {
+          "id": "Location",
+          "value": ""
+        }
+      ],
+      "isSponsoredUser": false
+    }
+  ]
+}

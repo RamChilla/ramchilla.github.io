@@ -1,27 +1,25 @@
-{% assign gc = site.data.xbl.gamercard %}
-{% assign profile = site.data.xbl.profile %}
-{% assign recents = site.data.xbl.activity %}
+{% assign oxbl_summary = site.data.oxbl.summary.people[0] %}
+{% assign oxbl_history = site.data.oxbl.history.titles | where_exp: "item", "item.devices.first != 'Win32'" %}
 
 <section class="section xbl">
-    <div class="container">
+    <div class="container is-max-desktop">
         <div class="columns is-vcentered">
             <div class="column">
                 <h2 class="title">
                     <i class="fab fa-xbox"></i>
-                    {{ gc.gamertag }}
+                    {{ oxbl_summary.gamertag }}
                 </h2>
                 <p class="subtitle">Gamer. Squadmate. Reviver.</p>
-                <p>{{ gc.bio }}</p>
             </div>
             <div class="column xbl__image">
-                <img src="{{ profile.displayPicRaw }}" alt="{{ profile.gamertag }}"/>
+                <img src="{{ oxbl_summary.displayPicRaw }}" alt="{{ oxbl_summary.gamertag }}"/>
                 <p class="xbl__caption">
-                    <i class="fas fa-gamepad fa-sm"></i>
-                    {{ gc.gamerscore }}
+                    <i class="fas fa-trophy fa-xs"></i>
+                    {{ oxbl_summary.gamerScore }}
                 </p>
                 <div class="xbl__activity-overlay">
                     <h3>Latest Activity</h3>
-                    {% for recent in recents limit: 3 %}
+                    {% for recent in oxbl_history limit: 3 %}
                     {% include recent-xbl.html recent = recent %}
                     {% endfor %}
                 </div>

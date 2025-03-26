@@ -1,6 +1,40 @@
 .xbl {
 	&__image {
 		position: relative;
+		border-radius: 8px;
+		padding: 0;
+		overflow: hidden;
+		box-shadow: 0 2px 20px -2px #3e394d;
+
+		// &:before {
+		// 	content: 'Hover me!';
+		// 	position: absolute;
+		// 	left: 0;
+		// 	right: 0;
+		// 	bottom: 15vh;
+		// 	color: #ffffff99;
+		// 	font: 10vw arial;
+		// 	text-align: center;
+		//   }
+		
+		&:before {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			// opacity: 0;
+			// background-image: radial-gradient(transparent 50%, rgba(35,35,35, .4) 80%);
+			backdrop-filter: blur(20px);
+			mask: radial-gradient(transparent 50%, black 75%);
+			transition: 1s;
+		}
+		//   &:hover:after {opacity: 1;}
+
+		img {
+			display: block;
+		}
 	}
 
 	&__activity-overlay {
@@ -25,11 +59,16 @@
 		font-family: "Montserrat", "Open Sans", sans-serif;
 		font-size: 48px;
 		color: white;
+		text-shadow: 0 0 5px #3e394d;
 	}
 
 	&__latest-activity {
 		border-left: 3px solid $primary;
 		padding-left: 5px;
 		align-items: center;
+		
+		.image {
+			border-radius: 4px;
+		}
 	}
 }

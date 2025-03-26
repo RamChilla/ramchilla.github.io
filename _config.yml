@@ -39,3 +39,5 @@ exclude:
     - package-lock.json
     - package.json
     - vendor
+    - oxbl
+    - _oxbl
