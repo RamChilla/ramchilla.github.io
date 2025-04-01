@@ -1,32 +1,53 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="has-navbar-fixed-top">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}" class="has-navbar-fixed-top">
 {% include head.html %}
-<body class="{{ page.layout }}">
-  {% include nav.html %}
-  
-  {{ content }}
 
-  <footer class="footer">
+<body class="{{ page.layout }}">
+	{% include nav.html %}
+
+	{{ content }}
+
+	<footer class="footer">
 		<div class="container">
 			<div class="columns">
 				<div class="column">
-					<h4 class="title is-size-6">rami <a role="button" id="muchlove" data-id="1079"><span class="fas fa-heart" aria-hidden="true"></span></a> made</h4>
+					<h4 class="title is-size-6">rami <a role="button" id="muchlove" data-id="1079"><span
+								class="fas fa-heart" aria-hidden="true"></span></a> made</h4>
 				</div>
 			</div>
 			<section>
 				<div class="container">
-					<a href="https://dribbble.com/ramchilla" target="_blank"><span class="fab fa-dribbble" aria-hidden="true"></span></a>
-					| <a href="https://www.linkedin.com/in/ramihassan419/" target="_blank"><span class="fab fa-linkedin" aria-hidden="true"></span></a>
+					<a href="https://dribbble.com/ramchilla" target="_blank"><span class="fab fa-dribbble"
+							aria-hidden="true"></span></a>
+					| <a href="https://www.linkedin.com/in/ramihassan419/" target="_blank"><span class="fab fa-linkedin"
+							aria-hidden="true"></span></a>
 					| <a href="https://unsplash.com/ramchilla" target="_blank">Unsplash</a>
 					<br>
-					<span class=" is-size-7">© ramchilla {{ "now" | date: "%Y" }}</span>
+					<span class=" is-size-7">© rami h. {{ "now" | date: "%Y" }}</span>
 				</div>
 			</section>
 		</div>
 	</footer>
 
-  <script defer src="https://kit.fontawesome.com/935e8d675c.js" crossorigin="anonymous"></script>
-  <!-- <script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script> -->
-  <script defer src="{{ "/assets/js/main.js" | relative_url }}"></script>
+	<script defer src="https://kit.fontawesome.com/935e8d675c.js" crossorigin="anonymous"></script>
+	<!-- <script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script> -->
+	<script defer src="{{ "/assets/js/main.js" | relative_url }}"></script>
+	{% if layout.enableSplide %}
+	<script defer src="{{ "/assets/lib/splide/js/splide.min.js" | relative_url }}"></script>
+	<script defer>
+		document.addEventListener('DOMContentLoaded', function () {
+			var ul = document.querySelector('ul.testimonials__list');
+			for (var i = ul.children.length; i >= 0; i--) {
+				ul.appendChild(ul.children[Math.random() * i | 0]);
+			}
+
+			var elms = document.getElementsByClassName('splide');
+			for (var i = 0; i < elms.length; i++) {
+				new Splide(elms[i]).mount();
+			};
+		});
+	</script>
+	{% endif %}
 </body>
+
 </html>

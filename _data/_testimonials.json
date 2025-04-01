@@ -1,0 +1,34 @@
+{
+    "testimonials": [
+        {
+            "content": "What makes Rami special (and much more than just a technician) is his ability to see the big picture, articulate responses, intuitively understand business needs, and educate his clients along the way.",
+            "name": "Paul",
+            "lastname": "Vuocolo",
+            "title": "Web Director & Support Client"
+        },
+        {
+            "content": "I have worked with Ram on three different websites and his professionalism and creativity in the process as well as organization along the way were keys in making the projects successful.",
+            "name": "Dustin",
+            "lastname": "Sonnenberg",
+            "title": "Client"
+        },
+        {
+            "content": "He makes the production process comfortable and easy going while at the same time staying focused and detail oriented. His honest approach, great attitude and vast web/graphic design skillset makes him a valuable asset in whatever project he does.",
+            "name": "Charles",
+            "lastname": "Hobbs",
+            "title": "Director of Communications"
+        },
+        {
+            "content": "Rami is a consummate professional, and a highly skilled front end HTML & CSS developer ... When it comes to accurate and lean language, there is none more proficient and precise than Rami.",
+            "name": "Christopher",
+            "lastname": "Hatfield",
+            "title": "Director of UX Design | Colleague"
+        },
+        {
+            "content": "The code for this site is extremely clean.  I very rarely see sites in this space that look like they were written by a software engineer, but this one does. We would save a great deal of time if all of our customers had sites that were as easy to work with as this one is.",
+            "name": "David",
+            "lastname": "Begin",
+            "title": "Senior Lead Software and Database Engineer"
+        }
+    ]
+}

@@ -10,6 +10,10 @@
     <style>{{ styles | scssify }}</style>
     <link rel="preload" href="{{ "/assets/css/site.css" | relative_url }}" as="style" onload="this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}"></noscript>
+    {% if layout.enableSplide %}
+    <link rel="preload" href="{{ "/assets/lib/splide/css/splide.min.css" | relative_url }}" as="style" onload="this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ "/assets/lib/splide/css/splide.min.css" | relative_url }}"></noscript>
+    {% endif %}
     {% if jekyll.environment == "surgebuild" %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
     {% else %}

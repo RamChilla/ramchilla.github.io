@@ -1,0 +1,43 @@
+.testimonials {
+
+    &__container {
+        border-radius: 12px;
+        box-shadow: 0 0 12px rgb(185, 174, 191);
+        background-color: #fff;;
+    }
+
+    cite {
+        font-style: normal;
+    }
+
+    // &__list {
+    // }
+
+    &__item {
+        padding: 2rem 3.2rem;
+        text-align: center;
+        
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        align-items: center;
+        justify-content: center;
+        
+        @media screen and (min-width: 768px) {
+            padding: 2rem 6.4rem;
+        }
+
+        .subtitle:first-of-type {
+            font-weight: 700;
+            font-size: 1.125rem;
+        }
+    }
+
+    .splide__pagination__page {
+
+        &.is-active {
+            box-shadow: 0 0 0 2px #ccc;
+            transform: scale(1.1);
+        }
+    }
+}

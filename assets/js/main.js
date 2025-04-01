@@ -38,19 +38,19 @@
     window.addEventListener('load', function() {
       var video = document.querySelector('#video');
       var preloader = document.querySelector('#preloader');
-      function checkLoad() {
-          if (video.readyState === 4) {
+      function checkLoad(vid) {
+          if (vid && vid.readyState === 4) {
               // preloader.parentNode.removeChild(preloader);
               $(preloader).fadeOut(330).promise().done(function(){
-                $(video).fadeIn(330);
+                $(vid).fadeIn(330);
                 preloader.parentNode.removeChild(preloader);
               });
-              // video.style.display = 'block';
+              // vid.style.display = 'block';
           } else {
               setTimeout(checkLoad, 100);
           }
       }
-      checkLoad();
+      checkLoad(video);
   }, false);
 
 })();
