@@ -11,6 +11,10 @@ $addColors: (
 		$github,
 		$github-invert,
 	),
+	"cream": (
+		$cream,
+		findColorInvert($cream)
+	)
 );
 $colors: map-merge($colors, $addColors);
 

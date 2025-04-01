@@ -2,8 +2,9 @@
 
     &__container {
         border-radius: 12px;
-        box-shadow: 0 0 12px rgb(185, 174, 191);
-        background-color: #fff;;
+        box-shadow: 0 0 12px rgb(227, 236, 233);
+        background-color: #fff;
+        border: 1px solid rgb(227, 236, 233);
     }
 
     cite {
@@ -14,7 +15,7 @@
     // }
 
     &__item {
-        padding: 2rem 3.2rem;
+        padding: 2rem 3.2rem 2.4rem;
         text-align: center;
         
         display: flex;
@@ -27,8 +28,13 @@
             padding: 2rem 6.4rem;
         }
 
-        .subtitle:first-of-type {
+        .subtitle:first-child {
+            font-family: 'Montserrat', sans-serif;
             font-weight: 700;
+            font-size: 1.25rem;
+        }
+        .subtitle:nth-child(2) {
+            // font-weight: 700;
             font-size: 1.125rem;
         }
     }

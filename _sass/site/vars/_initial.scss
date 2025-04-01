@@ -3,11 +3,14 @@ $family-sans-serif: "Open Sans", BlinkMacSystemFont, -apple-system,
 $weight-heavy: 900;
 
 // 4. Setup Custom Colors
-$primary: $turquoise;
+// $primary: $turquoise;
+$primary: #63baaa;
 $info: $cyan;
 $success: $green;
 $warning: #a21025;
 $danger: $red;
+
+$cream: #f2e9d9;
 
 $footer-color: #fff;
 $footer-background-color: #63baaa;

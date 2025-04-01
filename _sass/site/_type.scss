@@ -37,3 +37,15 @@ h2.title {
 .content .subtitle {
 	line-height: 1.6;
 }
+
+.hero.is-primary .title,
+.hero.is-primary .subtitle,
+.hero.is-primary {
+	color: $cream;
+}
+
+.navbar.is-primary .navbar-brand > .navbar-item,
+.navbar.is-primary .navbar-end > .navbar-item,
+.footer {
+	color: $cream;
+}

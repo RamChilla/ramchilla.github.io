@@ -2,6 +2,45 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "1653768775",
+      "pfn": null,
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Cities: Skylines",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKIXkv6D.ilHvAbWh.RaVqRrb.xDci7cAfmvkzEVBqXY8EYa7oUQar6kA296JjYZvuVwq.9BRKSX1lPNMbmbPOCQ--",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-03-27T02:19:29.034451Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "None"
+    },
+    {
       "titleId": "85494077",
       "pfn": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe",
       "bingId": null,
@@ -40,45 +79,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
-    },
-    {
-      "titleId": "1653768775",
-      "pfn": null,
-      "bingId": null,
-      "windowsPhoneProductId": null,
-      "name": "Cities: Skylines",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKIXkv6D.ilHvAbWh.RaVqRrb.xDci7cAfmvkzEVBqXY8EYa7oUQar6kA296JjYZvuVwq.9BRKSX1lPNMbmbPOCQ--",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-03-25T03:29:28.2923439Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "None"
     },
     {
       "titleId": "2001700854",
@@ -4335,7 +4335,7 @@
         "currentAchievements": 7,
         "totalAchievements": 0,
         "currentGamerscore": 65,
-        "totalGamerscore": 5640,
+        "totalGamerscore": 5660,
         "progressPercentage": 1,
         "sourceVersion": 2
       },
@@ -4395,8 +4395,7 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
+      "xboxLiveTier": "Full"
     },
     {
       "titleId": "311896559",
@@ -6292,7 +6291,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": null,
+      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
       "name": "DUET",
       "type": "Game",
       "devices": [
