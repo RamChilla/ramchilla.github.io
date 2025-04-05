@@ -9,27 +9,24 @@
     <div class="columns">
         <div class="column is-two-thirds">
             {% for sum in summary %}
-            <section class="resume-section">
-                <h2 class="resume-title">{{ sum.title }}</h2>
-                <p>{{ sum.text }}</p>
-            </section>
+                {% include _partials/resume/section.html section = sum %}
             {% endfor %}
             
             {% for exp in experience %}
-                {% include _partials/resume/experience.html prop = exp %}
+                {% include _partials/resume/section.html section = exp %}
             {% endfor %}
         </div>
         <div class="column">
             {% for skill in skills %}
-                {% include _partials/resume/section-tags-list.html prop = skill %}
+                {% include _partials/resume/section.html section = skill %}
             {% endfor %}
 
             {% for tech in technology %}
-                {% include _partials/resume/section-tags-list.html prop = tech %}
+                {% include _partials/resume/section.html section = tech %}
             {% endfor %}
 
             {% for edu in education %}
-                {% include _partials/resume/education.html prop = edu %}
+                {% include _partials/resume/section.html section = edu %}
             {% endfor %}
         </div>
     </div>

@@ -2,7 +2,7 @@
     <h3>{{ include.item.school }} - <small>{{ include.item.location }}</small></h3>
     <ul>
         {% for degree in include.item.degrees %}
-        <li>{{ degree.title }} - {{ degree.date }}</li>
+        <li>{{ degree.title }} - <small>{{ degree.date }}</small></li>
         {% endfor %}
     </ul>
 </div>

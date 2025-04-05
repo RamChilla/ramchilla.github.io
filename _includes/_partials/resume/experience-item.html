@@ -4,7 +4,7 @@
         {% unless include.item.blurb == empty %}{{ include.item.blurb }}<br>{% endunless %}
         <small>{{ include.item.beginDate }} - {{ include.item.endDate }}</small>
     </p>
-    <ul>
+    <ul style="list-style:disc; padding-left: 1rem;">
         {% for highlight in include.item.highlights %}
         <li>{{ highlight }}</li>
         {% endfor %}
