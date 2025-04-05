@@ -1,0 +1,8 @@
+<div class="resume-education">
+    <h3>{{ include.item.school }} - <small>{{ include.item.location }}</small></h3>
+    <ul>
+        {% for degree in include.item.degrees %}
+        <li>{{ degree.title }} - {{ degree.date }}</li>
+        {% endfor %}
+    </ul>
+</div>

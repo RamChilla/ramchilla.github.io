@@ -13,4 +13,4 @@ trailing: Toledo, Ohio
 {:.subtitle}
 I contribute to a better, logical web through information architecture and content planning.
 
-After eighteen years servicing websites, content management systems, and related technologies, Rami has set his sights on something more. 
+After eighteen years servicing websites, content management systems, and related technologies, Rami has started his own firm offering web products for fast management. 

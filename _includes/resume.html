@@ -1,0 +1,31 @@
+{% assign sections = site.data._resume.sections %}
+{% assign summary = sections | where: "name", "summary" %}
+{% assign skills = sections | where: "name", "skills" %}
+{% assign technology = sections | where: "name", "technology" %}
+{% assign experience = sections | where: "name", "experience" %}
+{% assign education = sections | where: "name", "education" %}
+
+<article class="resume">
+    {% for sum in summary %}
+    <section class="resume-section">
+        <h2 class="resume-title">{{ sum.title }}</h2>
+        <p>{{ sum.text }}</p>
+    </section>
+    {% endfor %}
+
+    {% for skill in skills %}
+        {% include _partials/resume/section-tags-list.html prop = skill %}
+    {% endfor %}
+
+    {% for tech in technology %}
+        {% include _partials/resume/section-tags-list.html prop = tech %}
+    {% endfor %}
+
+    {% for exp in experience %}
+        {% include _partials/resume/experience.html prop = exp %}
+    {% endfor %}
+        
+    {% for edu in education %}
+        {% include _partials/resume/education.html prop = edu %}
+    {% endfor %}
+</article>

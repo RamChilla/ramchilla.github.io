@@ -15,3 +15,5 @@ trailing: but when I do &hellip;
 I don't normally have a ton of extra time, testrh
 
 but when I do&hellip;
+
+{% include _partials/repos.html colorclass=page.colorclass %}

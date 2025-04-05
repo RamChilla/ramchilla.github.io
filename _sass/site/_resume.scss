@@ -1,0 +1,11 @@
+.resume {
+
+    &-section {
+        margin: 1.5rem 0;
+    }
+
+    &-experience:not(:first-of-type),
+    &-education:not(:first-of-type) {
+        margin: 1rem 0;
+    }
+}

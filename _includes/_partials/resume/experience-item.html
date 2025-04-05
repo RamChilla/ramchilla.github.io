@@ -1,0 +1,12 @@
+<div class="resume-experience">
+    <h3>{{ include.item.title }} - <small>{{ include.item.position }}</small></h3>
+    <p>
+        {% unless include.item.blurb == empty %}{{ include.item.blurb }}<br>{% endunless %}
+        <small>{{ include.item.beginDate }} - {{ include.item.endDate }}</small>
+    </p>
+    <ul>
+        {% for highlight in include.item.highlights %}
+        <li>{{ highlight }}</li>
+        {% endfor %}
+    </ul>
+</div>
