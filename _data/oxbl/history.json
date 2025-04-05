@@ -99,7 +99,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.38824.13966330883349940.2113c190-459d-4aaa-b549-356aff0c015c.a246edfd-7271-4ed1-af36-73e294dfab11",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.43184.13966330883349940.02c6381c-ddb8-4ca0-b51b-e79e4f69f796.c86f917a-e11e-41d5-a116-3dcde86a23a4",
       "mediaItemType": "Application",
       "modernTitleId": "2001700854",
       "isBundle": false,
@@ -6754,7 +6754,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
+      "windowsPhoneProductId": null,
       "name": "DUET",
       "type": "Game",
       "devices": [
@@ -9177,7 +9177,7 @@
       "titleId": "1297287263",
       "pfn": null,
       "bingId": "66acd000-77fe-1000-9115-d8024d53085f",
-      "serviceConfigId": "33020100-9da7-492d-886e-df92039db380",
+      "serviceConfigId": "04770100-5a23-440b-8035-300a2895d5f4",
       "windowsPhoneProductId": null,
       "name": "Viva Piñata: TIP",
       "type": "Game",
