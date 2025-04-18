@@ -19,3 +19,13 @@ $addColors: (
 $colors: map-merge($colors, $addColors);
 
 $link: inherit; // $primary;
+
+$text: #0a392e;
+
+$title-color: $text;
+$title-family: false;
+$title-size: $size-3;
+$title-weight: $weight-bold;
+
+$content-heading-color: $text;
+$content-heading-weight: 700;

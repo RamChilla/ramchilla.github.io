@@ -31,6 +31,7 @@ $short-border-radius: 6px;
 #navMenu {
 	z-index: 10;
 }
+
 .navbar-circle {
 	$circle-diameter: 76px;
 	border-radius: 50%;
@@ -43,4 +44,13 @@ $short-border-radius: 6px;
 	top: 0.25rem;
 	justify-content: center;
 	z-index: 39;
+
+	// border: 10px solid #fff;
+	// box-shadow: 0 0 0 10px #fff;
+	
+	&:hover {
+		transition: all linear 90ms;
+		box-shadow: 0 0 0 8px #fff;
+
+	}
 }

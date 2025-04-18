@@ -4,19 +4,19 @@
 //         "src/splash";
 
 // 1. Import the initial variables
-@import "bulma-0_9_1/sass/utilities/initial-variables.sass";
-@import "bulma-0_9_1/sass/utilities/functions";
+@import "bulma/sass/utilities/initial-variables.sass";
+@import "bulma/sass/utilities/functions";
 // 2. Set your own initial variables
 @import "site/vars/initial";
 // 3. Add new color variables to the color map.
-@import "bulma-0_9_1/sass/utilities/derived-variables";
+@import "bulma/sass/utilities/derived-variables";
 // 4. Set your own custom derived vars
 @import "site/vars/derived";
 
-@import "bulma-0_9_1/sass/utilities/all", "bulma-0_9_1/sass/base/all",
-	"bulma-0_9_1/sass/components/navbar", "bulma-0_9_1/sass/helpers/spacing",
-	"bulma-0_9_1/sass/layout/hero", "bulma-0_9_1/sass/layout/section",
-	"bulma-0_9_1/sass/elements/container", "bulma-0_9_1/sass/elements/title",
-	"bulma-0_9_1/sass/elements/content", "bulma-0_9_1/sass/grid/columns";
+@import "bulma/sass/utilities/all", "bulma/sass/base/all",
+	"bulma/sass/components/navbar", "bulma/sass/helpers/spacing",
+	"bulma/sass/layout/hero", "bulma/sass/layout/section",
+	"bulma/sass/elements/container", "bulma/sass/elements/title",
+	"bulma/sass/elements/content", "bulma/sass/grid/columns";
 
 @import "site/type", "site/scaffold", "site/shapes";

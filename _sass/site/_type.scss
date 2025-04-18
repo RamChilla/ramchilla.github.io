@@ -1,5 +1,5 @@
 %title-font {
-	font-family: "Montserrat", "Open Sans", sans-serif;
+	font-family: $heading-font-family; // "Montserrat", "Open Sans", sans-serif;
 }
 
 h1,
@@ -30,9 +30,9 @@ h2 {
 	// margin: 0 0 3.2rem 0;
 }
 
-h2.title {
-	font-size: 1.75em;
-}
+// h2.title {
+// 	font-size: 1.75em;
+// }
 
 .content .subtitle {
 	line-height: 1.6;

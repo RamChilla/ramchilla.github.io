@@ -2,6 +2,94 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "848717329",
+      "pfn": "ElectronicArtsMobile.Peggle2_q5ha1ztykcgvj",
+      "bingId": "efd011ea-47b6-4b61-9e86-08063a3e1cfa",
+      "serviceConfigId": "9e9c0100-e67b-41f2-86b7-158632966611",
+      "windowsPhoneProductId": null,
+      "name": "Peggle 2",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.63323.67897516232762656.798d5423-ae25-4369-b9f2-33205af62a6f.a1c62ace-b09e-417f-913e-528d6f4ca5e6",
+      "mediaItemType": "Application",
+      "modernTitleId": "848717329",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 7,
+        "totalAchievements": 0,
+        "currentGamerscore": 210,
+        "totalGamerscore": 1450,
+        "progressPercentage": 14,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-04-06T04:45:46.0480959Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "308654313",
+      "pfn": "Team17DigitalLimited.Overcooked2_j5x4vj4y67jhc",
+      "bingId": null,
+      "serviceConfigId": "d5040100-22ea-4540-9702-9d9f1265b0e9",
+      "windowsPhoneProductId": null,
+      "name": "Overcooked! 2",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.60458.70952388438497888.9a8a7127-1933-427d-b864-f4857d4c02fd.734afa54-8396-4590-8a61-9565e4eeca71",
+      "mediaItemType": "Application",
+      "modernTitleId": "308654313",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 4,
+        "totalAchievements": 0,
+        "currentGamerscore": 90,
+        "totalGamerscore": 3000,
+        "progressPercentage": 3,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-04-06T01:47:22.8693305Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
       "titleId": "1653768775",
       "pfn": null,
       "bingId": null,
@@ -1430,50 +1518,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
-    },
-    {
-      "titleId": "848717329",
-      "pfn": "ElectronicArtsMobile.Peggle2_q5ha1ztykcgvj",
-      "bingId": "efd011ea-47b6-4b61-9e86-08063a3e1cfa",
-      "serviceConfigId": "9e9c0100-e67b-41f2-86b7-158632966611",
-      "windowsPhoneProductId": null,
-      "name": "Peggle 2",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.63323.67897516232762656.798d5423-ae25-4369-b9f2-33205af62a6f.a1c62ace-b09e-417f-913e-528d6f4ca5e6",
-      "mediaItemType": "Application",
-      "modernTitleId": "848717329",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 7,
-        "totalAchievements": 0,
-        "currentGamerscore": 210,
-        "totalGamerscore": 1450,
-        "progressPercentage": 14,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2024-02-21T03:27:12.8313908Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
     },
     {
       "titleId": "791545701",
@@ -9177,7 +9221,7 @@
       "titleId": "1297287263",
       "pfn": null,
       "bingId": "66acd000-77fe-1000-9115-d8024d53085f",
-      "serviceConfigId": "04770100-5a23-440b-8035-300a2895d5f4",
+      "serviceConfigId": "33020100-9da7-492d-886e-df92039db380",
       "windowsPhoneProductId": null,
       "name": "Viva Piñata: TIP",
       "type": "Game",

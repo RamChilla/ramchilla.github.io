@@ -29,8 +29,8 @@
         }
 
         .subtitle:first-child {
-            font-family: 'Montserrat', sans-serif;
-            font-weight: 700;
+            font-family: $heading-font-family; // 'Montserrat', sans-serif;
+            font-weight: 600;
             font-size: 1.25rem;
         }
         .subtitle:nth-child(2) {
