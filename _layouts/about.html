@@ -7,14 +7,23 @@ layout: default
 {% include stats.html push=true %}
 {% endif %}
 
-<section class="section">
+{% include _partials/linkedin-connect.html view_resume=true padding_class='py-6' %}
+
+<section class="section pt-0">
 	<div class="container">
         <div class="columns is-centered">
-            <div class="column is-7-tablet">
+            <div class="column is-7-tablet content">
                 {{ content }}
             </div>
         </div>
+        {% include _partials/linkedin-connect.html view_resume=true %}
 	</div>
 </section>
 
-{% include xbox-live.html colorclass="white" %}
+{% comment %}
+<section class="section">
+    <div class="container">
+        {% include xbox-live.html colorclass="white" %}
+    </div>
+</section>
+{% endcomment %}

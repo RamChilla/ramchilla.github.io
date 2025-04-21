@@ -9,18 +9,25 @@ trailing: Developing proven content management strategies for individuals and&nb
 # trailing: And moreso, a person. I enjoy spending time with the people that share their lives with me as well as playing video games and longboarding.
 is_center_hero_text: true
 ---
-{:.subtitle.has-text-centered.mb-6}
-A business oriented designer, developer, and problem solver.
+{:.subtitle.has-text-centered}
+## A business oriented problem solver.
 
-Helping meet business needs throughout content management and web staging needs. From simple directories and searches, to complex data structures and relationships. 
+I enjoy helping to meet web business rules through smarter content management systems. The proper content management tools can greatly empower content editors without losing sight of larger contexts.
+
+{:.subtitle.has-text-centered}
+## A lover of the visual arts.
+
+I admire photographers with a great eye for capturing intriguing moments and geometric landscapes. I also enjoy the urban art scene and thankful that Toledo has so many great murals around the city.
+
+{:.subtitle.has-text-centered}
+## A PC builder, gamer &amp; squadmate.
+
+I enjoy working with PC hardware and like to build my own computers as well as those of friends. Gaming on PC/console is a part of my life and I typically enjoy simulators and first-person shooters. Hanging out with friends online can be quite the social hour.
+
+{% include xbox-live.html colorclass="white" %}
 
 {:.title.has-text-centered}
 ## What else can I say?
 
-Lorem Ipsum...
-
 {:.subtitle.has-text-centered}
-I enjoy spending time with the people that share their lives with me as well as playing video games and longboarding.
-
-{:.has-text-centered}
-Check out my Xbox profile below, scraped and saved periodically.
+## Most of all, I enjoy spending time and getting into shenanigans with the people that share their lives with&nbsp;me.

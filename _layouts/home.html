@@ -5,12 +5,26 @@ enableSplide: true
 
 {% include _partials/page-header.html %}
 
-{%include testimonials.html push=true %}
+{% include testimonials.html push = true %}
 
-<div class="container has-text-centered pb-6">
-	<p><a href="https://www.linkedin.com/in/ramihassan419/" target="_blank" class="button is-linkedin mb-2">Link With Me &nbsp;<span class="fa fa-linkedin-square is-size-5"></span></a></p>
-	<p class="is-size-6">&hellip;or <a href="/about/" class="is-underlined">learn more about Rami</a> first.</p>
-</div>
+{% include _partials/linkedin-connect.html learn_more = true padding_class = 'py-6' %}
+
+{% comment %}
+<section class="section">
+	<div class="container">
+		<div class="columns is-centered is-vcentered is-mobile has-text-centered">
+			<div class="column">
+				<img src="{{ site.baseurl }}/assets/img/cms/zendesk.svg" alt="Zendesk" style="max-width: 200px; display: inline-block;">
+			</div>
+			<div class="column">
+				<img src="{{ site.baseurl }}/assets/img/cms/wordpress.svg" alt="Wordpress" style="max-width: 200px; display: inline-block;">
+			</div>
+			<div class="column">
+				<img src="{{ site.baseurl }}/assets/img/cms/umbraco.svg" alt="Umbraco" style="max-width: 200px; display: inline-block;">
+			</div>
+		</div>
+	</div>
+</section>
 
 <section class="section">
 	<div class="container">
@@ -20,7 +34,6 @@ enableSplide: true
 	</div>
 </section>
 
-{% comment %}
 <section class="section">
 	<div class="container">
 		{% include _partials/repos.html colorclass=page.colorclass %}

@@ -10,3 +10,5 @@ is_center_hero_text: false
 ---
 
 {% include resume.html %}
+
+{% include _partials/linkedin-connect.html padding_class = 'py-3' %}

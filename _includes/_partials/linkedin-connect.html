@@ -1,0 +1,9 @@
+<div class="container has-text-centered{% unless include.padding_class == empty %} {{ include.padding_class }}{% endunless %}">
+	<p><a href="https://www.linkedin.com/in/ramihassan419/" target="_blank" class="button is-linkedin mb-2">Link With Me &nbsp;<span class="fa fa-linkedin-square is-size-5"></span></a></p>
+    {% if include.learn_more == true %}
+	<p class="is-size-6">&hellip;or <a href="{% link about.md %}" class="is-underlined">learn more about Rami</a> first.</p>
+    {% endif %}
+    {% if include.view_resume == true %}
+	<p class="is-size-6">&hellip;or <a href="{% link work-experience.md %}" class="is-underlined">look at the résumé.</a></p>
+    {% endif %}
+</div>

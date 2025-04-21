@@ -5,8 +5,8 @@ description: Ramchilla's Github Pages
 colorclass: primary
 heading: My name is Rami.
 # subheading: A web designer, developer, and engineer.
-subheading: I develop proven content management strategies for individuals and businesses.
-trailing: Contributing to a more logical web with information architecture planning and content management system development.
+subheading: I develop reliable content management strategies for individuals and businesses.
+trailing: Benefit from a logical content presence with information architecture planning and content management system development.
 is_center_hero_text: true
 ---
 {:.title}
