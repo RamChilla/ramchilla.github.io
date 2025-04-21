@@ -1,20 +1,22 @@
+{% assign section_name = include.section.name %}
+
 <section class="resume-section">
-    <h2 class="resume-title">{{ include.section.title }}</h2>
+    <h2 class="resume-section__title">{{ include.section.title }}</h2>
     
-    {% if include.section.name == 'summary' %}
+    {% if section_name == 'summary' %}
         <p>{{ include.section.text }}</p>
     {% endif %}
 
-    {% if include.section.name == 'experience' or include.section.name == 'education' %}
+    {% if section_name == 'experience' or section_name == 'education' or section_name == 'related' %}
         {% for item in include.section.items %}
-            {% include _partials/resume/{{include.section.name}}-item.html item = item %}
+            {% include _partials/resume/{{section_name}}-item.html item = item %}
         {% endfor %}
     {% endif %}
     
-    {% if include.section.name == 'skills' or include.section.name == 'technology' %}
-        <p class="tags">
+    {% if section_name == 'skills' or section_name == 'technology' %}
+        <p class="tags resume__tags">
             {% for item in include.section.items %}
-            <span class="tag">{{ item }}</span>
+            <span class="tag resume__tag">{{ item }}</span>
             {% endfor %}
         </p>
     {% endif %}

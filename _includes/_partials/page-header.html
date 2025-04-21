@@ -1,9 +1,13 @@
-<section class="hero is-{{ page.colorclass }} is-bold pt-6">
+<section class="hero is-{{ page.colorclass }} is-bold pt-6{% if page.is_center_hero_text %} has-text-centered{% endif %}">
 	<div class="hero-body">
-		<div class="container">
+		<div class="container is-6-tablet">
 			<h1 class="title">{{ page.heading }}</h1>
+			{% if page.subheading %}
 			<p class="subtitle">{{ page.subheading }}</p>
-			<p>{{ page.trailing }}</p>
+			{% endif %}
+			{% if page.trailing %}
+			<p class="hero-trailing">{{ page.trailing }}</p>
+			{% endif %}
 		</div>
 	</div>
 </section>

@@ -25,19 +25,19 @@
                     "degrees": [
                         {
                             "title": "MBA Information Systems and Administration",
-                            "date": "May 2022"
+                            "date": "2022"
                         },
                         {
-                            "title": "Advanced Leadership Academy",
-                            "date": "Spring 2020"
+                            "title": "Advanced Leadership Academy Graduate",
+                            "date": "2020"
                         },
                         {
                             "title": "BA Communication",
-                            "date": "Spring 2011"
+                            "date": "2011"
                         },
                         {
                             "title": "BA Psychology",
-                            "date": "Fall 2010"
+                            "date": "2010"
                         }
                     ]
                 },
@@ -46,8 +46,8 @@
                     "location": "Chicago, IL",
                     "degrees": [
                         {
-                            "title": "Certified Umbraco Expert",
-                            "date": "Fall 2017"
+                            "title": "Umbraco Expert Certification",
+                            "date": "2017"
                         }
                     ]
                 }
@@ -88,7 +88,7 @@
                     "highlights": [
                         "Applied, studied, and passed GMAT within 2-week preparation window.",
                         "Planned and provisioned financial resources and tuition.",
-                        "Received nomination to attend Advanced Leadership Academy seminars and scored in the 97th percentile on the business capstone."
+                        "Received Advanced Leadership Academy nomination and scored in the 98th percentile for the businsess simulation capstone."
                     ]
                 },
                 {
@@ -114,6 +114,26 @@
                         "Created website graphics and featured material for national video game tournaments including Ubisoft’s ShootMania, TrackMania, and Rayman Legends.",
                         "Designed and coded MVC views and HTML email templates for match notifications, challenges, and schedules."
                     ]
+                }
+            ]
+        },
+        {
+            "name": "related",
+            "title": "Related",
+            "items": [
+                {
+                    "title": "Girl Develop It, Toledo Chapter",
+                    "beginDate": "2016",
+                    "endDate": "2019",
+                    "position": "Instructor",
+                    "blurb": "Instructed community courses covering aspects of web development."
+                },
+                {
+                    "title": "Notre Dame Academy Summer Camps",
+                    "beginDate": "2016",
+                    "endDate": "2017",
+                    "position": "Instructor",
+                    "blurb": "Created curriculum and instructed two-week summer camps for adolescence and teenagers."
                 }
             ]
         }

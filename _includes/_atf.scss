@@ -1,7 +1,4 @@
 @charset "utf-8";
-// @import "src/vars",
-//         "src/scaffold",
-//         "src/splash";
 
 // 1. Import the initial variables
 @import "bulma/sass/utilities/initial-variables.sass";
@@ -13,10 +10,18 @@
 // 4. Set your own custom derived vars
 @import "site/vars/derived";
 
-@import "bulma/sass/utilities/all", "bulma/sass/base/all",
-	"bulma/sass/components/navbar", "bulma/sass/helpers/spacing",
-	"bulma/sass/layout/hero", "bulma/sass/layout/section",
-	"bulma/sass/elements/container", "bulma/sass/elements/title",
-	"bulma/sass/elements/content", "bulma/sass/grid/columns";
+@import "bulma/sass/utilities/all",
+		"bulma/sass/base/all",
+		"bulma/sass/components/navbar",
+		"bulma/sass/helpers/spacing",
+		"bulma/sass/helpers/typography",
+		"bulma/sass/layout/hero",
+		"bulma/sass/layout/section",
+		"bulma/sass/elements/container",
+		"bulma/sass/elements/title",
+		"bulma/sass/elements/content",
+		"bulma/sass/grid/columns";
 
-@import "site/type", "site/scaffold", "site/shapes";
+@import "site/type",
+		"site/scaffold",
+		"site/shapes";

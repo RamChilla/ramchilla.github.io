@@ -20,12 +20,21 @@ $colors: map-merge($colors, $addColors);
 
 $link: inherit; // $primary;
 
-$text: #0a392e;
+$text: #4a5956;
+
+$body-weight: $weight-semibold;
+// $body-size: 18px;
+$body-font-size: 18px;
 
 $title-color: $text;
-$title-family: false;
-$title-size: $size-3;
-$title-weight: $weight-bold;
+$title-family: $heading-font-family; // false;
+$title-size: $size-1;
+$title-weight: $weight-heavy;
+
+$subtitle-family: $heading-font-family;
+$subtitle-size: $size-2;
+$subtitle-weight: $weight-bold;
+$subtitle-line-height: 1.2;
 
 $content-heading-color: $text;
 $content-heading-weight: 700;

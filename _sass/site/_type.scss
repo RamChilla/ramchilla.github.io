@@ -1,5 +1,5 @@
 %title-font {
-	font-family: $heading-font-family; // "Montserrat", "Open Sans", sans-serif;
+	font-family: $heading-font-family; 
 }
 
 h1,
@@ -8,34 +8,9 @@ h3,
 h4,
 h5,
 h6 {
-	// font-family: "Montserrat", "Open Sans", sans-serif;
 	@extend %title-font;
-}
-
-// .title,
-// .subtitle {
-// 	@extend %title-font;
-// }
-
-// h1 {
-//     // font-family: "Montserrat", "Open Sans", sans-serif;
-//     font-weight: 900;
-//     // font-size: 6.4rem;
-//     // margin-top: 0;
-// }
-h2 {
-	// font-family: "Open Sans", sans-serif;
+	font-size: revert;
 	font-weight: 700;
-	// font-size: 1.8rem;
-	// margin: 0 0 3.2rem 0;
-}
-
-// h2.title {
-// 	font-size: 1.75em;
-// }
-
-.content .subtitle {
-	line-height: 1.6;
 }
 
 .hero.is-primary .title,
@@ -44,9 +19,24 @@ h2 {
 	color: $cream;
 }
 
+.hero-trailing {
+	max-width: 768px;
+	margin: auto;
+	font-weight: 700;
+	font-size: 20px;
+}
+
 .navbar.is-primary .navbar-brand > .navbar-item,
 .navbar.is-primary .navbar-end > .navbar-item,
 .footer,
 .footer .title {
 	color: $cream;
+}
+
+.footer {
+	font-size: 16px;
+}
+
+.footer .copyright {
+	font-weight: 700;
 }

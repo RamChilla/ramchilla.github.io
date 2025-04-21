@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% include _partials/page-header.html %}
+
+{% if site.data._stats %}
+{% include stats.html push=true %}
+{% endif %}
+
+<section class="section">
+	<div class="container">
+        <div class="columns is-centered">
+            <div class="column is-7-tablet">
+                {{ content }}
+            </div>
+        </div>
+	</div>
+</section>
+
+{% include xbox-live.html colorclass="white" %}

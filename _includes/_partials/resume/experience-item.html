@@ -1,9 +1,9 @@
 <div class="resume-experience">
-    <h3>{{ include.item.position }} - <small>{{ include.item.title }}</small></h3>
-    <p>
-        {% unless include.item.blurb == empty %}{{ include.item.blurb }}<br>{% endunless %}
-        <small>{{ include.item.beginDate }} - {{ include.item.endDate }}</small>
-    </p>
+    <h3 class="resume-experience__position is-underlined">{{ include.item.position }} - <small>{{ include.item.title }}</small></h3>
+    {% unless include.item.blurb == empty %}
+    <p>{{ include.item.blurb }}</p>
+    {% endunless %}
+    <p class="is-size-6 is-italic mb-2">{{ include.item.beginDate }} - {{ include.item.endDate }}</p>
     <ul style="list-style:disc; padding-left: 1rem;">
         {% for highlight in include.item.highlights %}
         <li>{{ highlight }}</li>

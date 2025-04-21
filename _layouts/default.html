@@ -3,31 +3,15 @@
 {% include head.html %}
 
 <body class="{{ page.layout }}">
-	{% include nav.html %}
+	<header>
+		{% include nav.html %}
+	</header>
 
-	{{ content }}
+	<main>
+		{{ content }}
+	</main>
 
-	<footer class="footer">
-		<div class="container">
-			<div class="columns">
-				<div class="column">
-					<h4 class="title is-size-6">rami made <a role="button" id="muchlove" data-id="1079"><span
-								class="fas fa-heart" aria-hidden="true"></span></a></h4>
-				</div>
-			</div>
-			<section>
-				<div class="container">
-					<a href="https://dribbble.com/ramchilla" target="_blank"><span class="fab fa-dribbble"
-							aria-hidden="true"></span></a>
-					| <a href="https://www.linkedin.com/in/ramihassan419/" target="_blank"><span class="fab fa-linkedin"
-							aria-hidden="true"></span></a>
-					| <a href="https://unsplash.com/ramchilla" target="_blank">Unsplash</a>
-					<br>
-					<span class=" is-size-7">© rami h. {{ "now" | date: "%Y" }}</span>
-				</div>
-			</section>
-		</div>
-	</footer>
+	{% include footer.html %}
 
 	<script defer src="https://kit.fontawesome.com/935e8d675c.js" crossorigin="anonymous"></script>
 	<!-- <script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script> -->

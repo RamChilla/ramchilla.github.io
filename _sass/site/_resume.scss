@@ -6,10 +6,43 @@
         &:first-of-type {
             margin-top: 0;
         }
+
+        &__title {
+            font-size: 32px;
+        }
     }
 
     &-experience:not(:first-of-type),
-    &-education:not(:first-of-type) {
+    &-education:not(:first-of-type),
+    &-related:not(:first-of-type) {
         margin: 1rem 0;
+    }
+
+    &-experience {
+
+        &__position {
+            font-family: $family-sans-serif;
+            font-weight: 700;
+        }
+    }
+    
+    &-education {
+
+        &__school {
+            font-family: $family-sans-serif;
+            font-weight: 700;
+            font-size: 18px;
+        }
+    }
+
+    &-related {
+
+        &__pos {
+            @extend .resume-education__school;
+        }
+    }
+
+    &__tag {
+        font-weight: 700;
     }
 }

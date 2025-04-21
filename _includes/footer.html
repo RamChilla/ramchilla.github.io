@@ -1,38 +1,26 @@
-<footer class="site-footer">
-	<!--<div class="wrapper">
-		<h2 class="footer-heading">{{ site.title | escape }}</h2>
-		<div class="footer-col-wrapper">
-			<div class="footer-col footer-col-1">
-				<ul class="contact-list">
-					<li>
-						{% if site.author %}
-						{{ site.author | escape }}
-						{% else %}
-						{{ site.title | escape }}
-						{% endif %}
-					</li>
-					{% if site.email %}
-					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-					{% endif %}
-				</ul>
-			</div>
-			<div class="footer-col footer-col-2">
-				<ul class="social-media-list">
-					{% if site.github_username %}
-					<li>
-					{% include icon-github.html username=site.github_username %}
-					</li>
-					{% endif %}
-					{% if site.twitter_username %}
-					<li>
-					{% include icon-twitter.html username=site.twitter_username %}
-					</li>
-					{% endif %}
-				</ul>
-			</div>
-			<div class="footer-col footer-col-3">
-				<p>{{ site.description | escape }}</p>
+<footer class="footer">
+	<div class="container">
+		{% comment %}
+		<div class="columns">
+			<div class="column">
+				<h4 class="title is-size-6">made real by rami <a role="button" id="muchlove" data-id="1079"><span
+							class="fas fa-heart" aria-hidden="true"></span></a></h4>
 			</div>
 		</div>
-	</div>-->
+		{% endcomment %}
+		<section class="columns">
+			<div class="column has-text-centered-mobile ">
+				<a href="https://dribbble.com/ramchilla" target="_blank"><span class="fab fa-dribbble"
+						aria-hidden="true"></span></a>
+				<a href="https://www.linkedin.com/in/ramihassan419/" target="_blank"><span class="fab fa-linkedin"
+						aria-hidden="true"></span></a>
+				<a href="https://unsplash.com/ramchilla" target="_blank">Unsplash</a>
+			</div>
+			<div class="column has-text-centered-mobile has-text-right-tablet">
+				<p class="is-size-7">made real by rami <a role="button" id="muchlove" data-id="1079"><span
+					class="fas fa-heart" aria-hidden="true"></span></a></p>
+				<span class="copyright is-size-7">&copy; rami h. {{ "now" | date: "%Y" }}</span>
+			</div>
+		</section>
+	</div>
 </footer>

@@ -1,12 +1,4 @@
-// @import url("https://fonts.googleapis.com/css?family=Montserrat:900|Open+Sans:400,700");
-// @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wdth,wght@0,62.5,100..900;1,62.5,100..900&family=Quicksand:wght@300..700&display=swap');
-// @import "src/vars",
-//         "src/normalize",
-//         "src/scaffold",
-//         "src/type",
-//         "src/buttons",
-//         "src/splash";
 
 // 1. Import the initial variables
 @import "bulma/sass/utilities/initial-variables.sass";
@@ -18,16 +10,19 @@
 // 4. Set your own custom derived vars
 @import "site/vars/derived";
 @import "animate/animate";
+
 .fadeInDown {
 	@include fadeInDown($duration: 220ms);
 }
+
 // 5. Import the rest of Bulma
 @import "bulma/bulma.sass";
 // 7. Import site files
 @import "site/scaffold",
-"site/type",
-"site/shapes",
-// "site/xbl",
-"site/xbl2",
-"site/testimonials",
-"site/resume";
+	"site/type",
+	"site/shapes",
+	// "site/xbl",
+	"site/stats",
+	"site/xbl2",
+	"site/testimonials",
+	"site/resume";

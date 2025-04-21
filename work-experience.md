@@ -4,8 +4,9 @@ title: Work Experience & Résumé | ramchilla.github.io
 description: Some projects
 colorclass: primary
 heading: Work Experience & Résumé
-# subheading: I don't normally have a ton of exta time,
+subheading: Rami H.
 # trailing: but when I do &hellip;
+is_center_hero_text: false
 ---
 
 {% include resume.html %}

@@ -1,10 +1,15 @@
 .testimonials {
 
+    &--pushed {
+        @extend .testimonials;
+        margin-top: -1.25rem;
+    }
+
     &__container {
-        border-radius: 12px;
-        box-shadow: 0 0 12px rgb(227, 236, 233);
+        border-radius: 8px;
+        box-shadow: 0 0 5px #d5d5d5;
         background-color: #fff;
-        border: 1px solid rgb(227, 236, 233);
+        border: 1px solid #d5d5d5;
     }
 
     cite {
@@ -15,7 +20,7 @@
     // }
 
     &__item {
-        padding: 2rem 3.2rem 2.4rem;
+        padding: 1.25rem 3.2rem 2.4rem;
         text-align: center;
         
         display: flex;
@@ -25,17 +30,26 @@
         justify-content: center;
         
         @media screen and (min-width: 768px) {
-            padding: 2rem 6.4rem;
+            padding: 1.25rem 6.4rem 2rem;
         }
 
         .subtitle:first-child {
-            font-family: $heading-font-family; // 'Montserrat', sans-serif;
-            font-weight: 600;
-            font-size: 1.25rem;
+            font-family: $family-sans-serif; // 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 1.125rem;
+
+            @media screen and (min-width: 768px) {
+                font-size: 1.25rem;
+            }
         }
         .subtitle:nth-child(2) {
             // font-weight: 700;
-            font-size: 1.125rem;
+            font-family: $family-sans-serif; 
+            font-size: 1rem;
+            
+            @media screen and (min-width: 768px) {
+                font-size: 1.125rem;
+            }
         }
     }
 
@@ -44,6 +58,26 @@
         &.is-active {
             box-shadow: 0 0 0 2px #ccc;
             transform: scale(1.1);
+        }
+    }
+
+    .splide {
+
+        &__arrow {
+            background-color: $primary;
+            
+            svg {
+                fill: #fff;
+            }
+        }
+
+        &__pagination__page {
+
+            &.is-active {
+                background-color: $primary;
+                border-color: $primary;
+                box-shadow: 0 0 0 2px $primary;
+            }
         }
     }
 }

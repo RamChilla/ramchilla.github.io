@@ -4,30 +4,33 @@
 {% assign technology = sections | where: "name", "technology" %}
 {% assign experience = sections | where: "name", "experience" %}
 {% assign education = sections | where: "name", "education" %}
+{% assign related = sections | where: "name", "related" %}
 
-<article class="resume">
-    <div class="columns">
-        <div class="column is-two-thirds">
-            {% for sum in summary %}
-                {% include _partials/resume/section.html section = sum %}
-            {% endfor %}
-            
-            {% for exp in experience %}
-                {% include _partials/resume/section.html section = exp %}
-            {% endfor %}
-        </div>
-        <div class="column">
-            {% for skill in skills %}
-                {% include _partials/resume/section.html section = skill %}
-            {% endfor %}
+<article class="resume columns">
+    <div class="column is-three-fifths">
+        {% for sum in summary %}
+            {% include _partials/resume/section.html section = sum %}
+        {% endfor %}
+        
+        {% for exp in experience %}
+            {% include _partials/resume/section.html section = exp %}
+        {% endfor %}
+    </div>
+    <div class="column">
+        {% for skill in skills %}
+            {% include _partials/resume/section.html section = skill %}
+        {% endfor %}
 
-            {% for tech in technology %}
-                {% include _partials/resume/section.html section = tech %}
-            {% endfor %}
+        {% for tech in technology %}
+            {% include _partials/resume/section.html section = tech %}
+        {% endfor %}
 
-            {% for edu in education %}
-                {% include _partials/resume/section.html section = edu %}
-            {% endfor %}
-        </div>
+        {% for edu in education %}
+            {% include _partials/resume/section.html section = edu %}
+        {% endfor %}
+
+        {% for rel in related %}
+            {% include _partials/resume/section.html section = rel %}
+        {% endfor %}
     </div>
 </article>
