@@ -1,7 +1,7 @@
 .stats {
     border-radius: 8px;
     background-color: #fff;
-    box-shadow: 0 0 5px #d5d5d5;
+    box-shadow: $box-shadow-stats;
     padding: 1.25rem 0;
 
     @media screen and (min-width: 540px), print {

@@ -70,3 +70,17 @@ figure.is-16by9 {
 		}
 	}
 }
+
+picture {
+	border-radius: 8px;
+	display: inline-block;
+	overflow: hidden;
+
+	img {
+		display: block;
+
+		@at-root .content & {
+			display: block;
+		}
+	}
+}

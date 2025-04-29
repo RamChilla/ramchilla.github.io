@@ -23,7 +23,7 @@ axios
     // console.log("Fetched Data:", response.data);
     fs.writeFile(
       `${dataDir}/account.json`,
-      JSON.stringify(response.data, null, 2).replaceAll("boot", "--boot"),
+      JSON.stringify(response.data, null, 2).replaceAll("boot", "--boot").replaceAll("=png", "=webp"),
       "utf8",
       (err) => console.log(err)
     );

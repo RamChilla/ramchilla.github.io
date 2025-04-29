@@ -4,24 +4,31 @@
 <aside class="xbl columns is-vcentered">
     
     <div class="column">
+        {% comment %}
         <h2 class="title">
             <i class="fab fa-xbox"></i>
             {{ oxbl_summary.gamertag }}
         </h2>
         <p class="subtitle">Gamer &amp; Squadmate.</p>
+        {% endcomment %}
+
+        <h3>Latest Activity</h3>
+        {% for recent in oxbl_history limit: 5 %}
+        {% include _partials/xbl-recent.html recent=recent %}
+        {% endfor %}
     </div>
 
     <div class="column xbl__image">
         <img src="{{ oxbl_summary.displayPicRaw }}" alt="{{ oxbl_summary.gamertag }}" />
         <p class="xbl__caption">
-            <i class="fas fa-trophy fa-xs"></i>
-            {{ oxbl_summary.gamerScore }}
+            <i class="fas fa-trophy fa-xs" role="presentation"></i>
+            <span title="My gamerscore" >{{ oxbl_summary.gamerScore }}</span>
         </p>
-        <div class="xbl__activity-overlay">
-            <h3>Latest Activity</h3>
-            {% for recent in oxbl_history limit: 3 %}
-            {% include _partials/xbl-recent.html recent = recent %}
-            {% endfor %}
+        <div class="xbl__overlay">
+            <h2 class="title" title="My gamertag">
+                <i class="fab fa-xbox"></i>
+                {{ oxbl_summary.gamertag }}
+            </h2>
         </div>
     </div>
     

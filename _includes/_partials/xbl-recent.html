@@ -1,17 +1,9 @@
-<article class="media xbl__latest-activity">
-	<figure class="media-left">
-		<p class="image is-64x64" style="background-color: #a21025;">
-			<img src="{{ recent.displayImage }}" alt="{{recent.name }}"/>
-		</p>
-	</figure>
-	<div class="media-content">
-		<div class="content">
-			<p>
-				<strong>{{ recent.name }}</strong><br>
-				<i class="fas fa-trophy"></i>
-				<strong>{{recent.achievement.currentGamerscore }}/{{recent.achievement.totalGamerscore }}</strong> - 
-				<small><strong>Last seen: {{ recent.titleHistory.lastTimePlayed | date: "%a, %b %d, %Y" }}</strong></small>
-			</p>
-		</div>
-	</div>
-</article>
+<figure class="xbl__latest-activity">
+	<img src="{{ recent.displayImage }}" class="image is-64x64" alt="{{recent.name }}" />
+	<figcaption class="content">
+		<strong>{{ recent.name }}</strong><br>
+		<i class="fas fa-trophy"></i>
+		<strong>{{recent.achievement.currentGamerscore }}/{{recent.achievement.totalGamerscore }}</strong> - 
+		<small><strong>Last seen: {{ recent.titleHistory.lastTimePlayed | date: "%a, %b %d, %Y" }}</strong></small>
+	</figcaption>
+</figure>

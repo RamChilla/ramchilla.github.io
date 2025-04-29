@@ -1,18 +1,22 @@
 [
     {
-        "heading": "Years developing",
-        "value": "18"
+        "heading": "Years experience",
+        "value": "18",
+        "footnote": "&hellip; and counting."
     },
     {
         "heading": "Websites touched",
-        "value": "583"
+        "value": "583",
+        "footnote": "&hellip; and counting."
     },
     {
         "heading": "Coffee cups consumed",
-        "value": "6478+"
+        "value": "6478+",
+        "footnote": "&hellip; and counting."
     },
     {
         "heading": "Active Computers &amp; Peripherals",
-        "value": "12"
+        "value": "12",
+        "footnote": "&hellip; and counting."
     }
 ]
