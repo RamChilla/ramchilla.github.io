@@ -1,0 +1,31 @@
+.hero.is-primary .title,
+.hero.is-primary .subtitle,
+.hero.is-primary {
+	color: $cream;
+}
+
+.hero-trailing {
+	max-width: 768px;
+	margin: auto;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.hero {
+
+    &-body {
+
+        // &.has-bg-image {
+        //     background-repeat: no-repeat;
+        //     background-position: center 18.6rem;
+        //     background-size: 10rem auto;
+        //     padding-bottom: 15rem;
+        //     position: relative;
+        // }
+
+        &__image {
+            display: block;
+            margin: 2rem auto 0;
+        }
+    }
+}

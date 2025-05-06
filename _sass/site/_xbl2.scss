@@ -1,8 +1,5 @@
 .xbl {
-	background-color: #fff;
-	border-radius: $border-radius-base;
-	box-shadow: $box-shadow-light;
-	overflow: hidden;
+	@extend %floating-block;
 
 	&__image {
 		position: relative;

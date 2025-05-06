@@ -2,14 +2,11 @@
 
     &--pushed {
         @extend .testimonials;
-        margin-top: -1.25rem;
+        margin-top: -$push-factor;
     }
 
     &__container {
-        border-radius: 8px;
-        box-shadow: $box-shadow-testimonials;
-        background-color: #fff;
-        border: 1px solid #d5d5d5;
+        @extend %floating-block;
     }
 
     cite {

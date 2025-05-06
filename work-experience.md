@@ -1,13 +1,13 @@
 ---
-layout: interior
-title: Work Experience & Résumé | ramchilla.github.io
+layout: raw
+title: Web &amp; Software Engineer | ramchilla.github.io
 description: Some projects
 colorclass: primary
-heading: Work Experience & Résumé
+heading: Web &amp; Software Engineer
 subheading: Rami H.
 # trailing: but when I do &hellip;
 ---
 
 {% include resume.html %}
 
-{% include _partials/linkedin-connect.html padding_class='py-3' %}
+{% include _partials/linkedin-connect.html padding_class='pt-3 pb-5' %}

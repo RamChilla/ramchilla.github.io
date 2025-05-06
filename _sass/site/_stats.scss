@@ -1,8 +1,5 @@
 .stats {
-    border-radius: 8px;
-    background-color: #fff;
-    box-shadow: $box-shadow-stats;
-    padding: 1.25rem 0;
+    @extend %floating-block;
 
     @media screen and (min-width: 540px), print {
         display: flex;
@@ -29,6 +26,6 @@
 
     &--pushed {
         @extend .stats;
-        margin-top: -1.25rem;
+        margin-top: -$push-factor;
     }
 }

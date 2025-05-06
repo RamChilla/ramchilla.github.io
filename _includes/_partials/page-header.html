@@ -1,5 +1,5 @@
 <section class="hero is-{{ page.colorclass }} is-bold pt-6 has-text-centered">
-	<div class="hero-body">
+	<div class="hero-body{% if page.heading_background_image %} has-bg-image pb-4{% endif %}">
 		<div class="container is-max-desktop">
 			<h1 class="title">{{ page.heading }}</h1>
 			{% if page.subheading %}
@@ -9,5 +9,9 @@
 			<p class="hero-trailing">{{ page.trailing }}</p>
 			{% endif %}
 		</div>
+
+		{% if page.heading_background_image %}
+		<img class="hero-body__image" src="{{ site.baseurl }}{{ page.heading_background_image}}" alt="A caricaturized avatar of Rami">
+		{% endif %}
 	</div>
 </section>

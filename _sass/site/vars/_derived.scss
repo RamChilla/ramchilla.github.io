@@ -38,3 +38,12 @@ $subtitle-line-height: 1.2;
 
 $content-heading-color: $text;
 $content-heading-weight: 700;
+
+$push-factor: 1.25rem;
+
+%floating-block {
+	border-radius: $border-radius-base;
+    background-color: #fff;
+    box-shadow: $box-shadow-light;
+    padding: 1.25rem 0;
+}

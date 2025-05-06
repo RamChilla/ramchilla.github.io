@@ -6,31 +6,45 @@
 {% assign education = sections | where: "name", "education" %}
 {% assign related = sections | where: "name", "related" %}
 
-<article class="resume columns">
-    <div class="column is-three-fifths">
-        {% for sum in summary %}
-            {% include _partials/resume/section.html section = sum %}
-        {% endfor %}
-        
-        {% for exp in experience %}
-            {% include _partials/resume/section.html section = exp %}
-        {% endfor %}
+<section class="section py-0">
+    <div class="container is-max-desktop">
+        <div class="resume-summary--pushed">
+            <p>{{ summary.first.text }}</p>
+        </div>
     </div>
-    <div class="column">
-        {% for skill in skills %}
-            {% include _partials/resume/section.html section = skill %}
-        {% endfor %}
+</section>
 
-        {% for tech in technology %}
-            {% include _partials/resume/section.html section = tech %}
-        {% endfor %}
+<article class="section">
+    <div class="container is-max-desktop">
+        <div class="resume columns">
+            <div class="column is-three-fifths">
+                {% comment %}
+                {% for sum in summary %}
+                    {% include _partials/resume/section.html section=sum %}
+                {% endfor %}
+                {% endcomment %}
+                
+                {% for exp in experience %}
+                    {% include _partials/resume/section.html section=exp %}
+                {% endfor %}
+            </div>
+            <div class="column">
+                {% for skill in skills %}
+                    {% include _partials/resume/section.html section=skill %}
+                {% endfor %}
 
-        {% for edu in education %}
-            {% include _partials/resume/section.html section = edu %}
-        {% endfor %}
+                {% for tech in technology %}
+                    {% include _partials/resume/section.html section=tech %}
+                {% endfor %}
 
-        {% for rel in related %}
-            {% include _partials/resume/section.html section = rel %}
-        {% endfor %}
+                {% for edu in education %}
+                    {% include _partials/resume/section.html section=edu %}
+                {% endfor %}
+
+                {% for rel in related %}
+                    {% include _partials/resume/section.html section=rel %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </article>
