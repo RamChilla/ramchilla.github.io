@@ -2,45 +2,6 @@
   "xuid": "2533274804693417",
   "titles": [
     {
-      "titleId": "1820250788",
-      "pfn": null,
-      "bingId": null,
-      "windowsPhoneProductId": null,
-      "name": "Fortnite",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-05T01:52:54.1292052Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "None"
-    },
-    {
       "titleId": "2140933132",
       "pfn": null,
       "bingId": null,
@@ -68,7 +29,46 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-04T06:09:39.5750853Z",
+        "lastTimePlayed": "2025-05-08T04:22:34.7623637Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "None"
+    },
+    {
+      "titleId": "1820250788",
+      "pfn": null,
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Fortnite",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-08T02:02:15.1534962Z",
         "visible": true,
         "canHide": true
       },
@@ -108,7 +108,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-04T01:04:31.5326147Z",
+        "lastTimePlayed": "2025-05-07T23:28:15.2763022Z",
         "visible": true,
         "canHide": false
       },
@@ -6408,7 +6408,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": null,
+      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
       "name": "DUET",
       "type": "Game",
       "devices": [

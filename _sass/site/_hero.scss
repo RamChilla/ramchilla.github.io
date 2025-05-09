@@ -15,13 +15,9 @@
 
     &-body {
 
-        // &.has-bg-image {
-        //     background-repeat: no-repeat;
-        //     background-position: center 18.6rem;
-        //     background-size: 10rem auto;
-        //     padding-bottom: 15rem;
-        //     position: relative;
-        // }
+        &.has-bg-image {
+            padding-bottom: 1.25rem;
+        }
 
         &__image {
             display: block;

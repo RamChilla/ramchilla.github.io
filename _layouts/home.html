@@ -9,26 +9,10 @@ enableSplide: true
 {% include stats.html push=true %}
 {% endif %}
 
-{% include _partials/linkedin-connect.html learn_more=true padding_class='pt-6 pb-3' %}
+{% include cms-platforms.html %}
+{% include _partials/linkedin-connect.html learn_more=true padding_class='pb-6' %}
 
 {% comment %}
-<section class="section">
-	<div class="container">
-		<div class="columns is-centered is-vcentered is-mobile has-text-centered">
-			<div class="column">
-				<img src="{{ site.baseurl }}/assets/img/cms/zendesk.svg" alt="Zendesk" style="max-width: 200px; display: inline-block;">
-			</div>
-			<div class="column">
-				<img src="{{ site.baseurl }}/assets/img/cms/wordpress.svg" alt="Wordpress" style="max-width: 200px; display: inline-block;">
-			</div>
-			<div class="column">
-				<img src="{{ site.baseurl }}/assets/img/cms/umbraco.svg" alt="Umbraco" style="max-width: 200px; display: inline-block;">
-			</div>
-		</div>
-	</div>
-</section>
-{% endcomment %}
-
 <section class="section">
 	<div class="container">
 		<div class="columns is-centered">
@@ -38,6 +22,7 @@ enableSplide: true
 		</div>
 	</div>
 </section>
+{% endcomment %}
 
 <section class="hero is-primary is-bold has-text-centered">
 	<div class="hero-body">
@@ -49,7 +34,6 @@ enableSplide: true
 </section>
 
 {% include testimonials.html push=true %}
-
 {% include _partials/linkedin-connect.html learn_more=true padding_class='py-6' %}
 
 {% comment %}

@@ -2,48 +2,6 @@
   "xuid": "2533274804693417",
   "titles": [
     {
-      "titleId": "1820250788",
-      "pfn": null,
-      "bingId": null,
-      "serviceConfigId": "00000000-0000-0000-0000-00006c7ed2a4",
-      "windowsPhoneProductId": null,
-      "name": "Fortnite",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-05T01:52:54.1292052Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "None"
-    },
-    {
       "titleId": "2140933132",
       "pfn": null,
       "bingId": null,
@@ -74,7 +32,49 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-04T06:09:39.5750853Z",
+        "lastTimePlayed": "2025-05-08T04:22:34.7623637Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "None"
+    },
+    {
+      "titleId": "1820250788",
+      "pfn": null,
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-00006c7ed2a4",
+      "windowsPhoneProductId": null,
+      "name": "Fortnite",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-08T02:02:15.1534962Z",
         "visible": true,
         "canHide": true
       },
@@ -117,7 +117,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-04T01:04:31.5326147Z",
+        "lastTimePlayed": "2025-05-07T23:28:15.2763022Z",
         "visible": true,
         "canHide": false
       },
@@ -333,7 +333,7 @@
       "titleHistory": {
         "lastTimePlayed": "2025-04-06T01:47:22.8693305Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -462,7 +462,7 @@
       "titleHistory": {
         "lastTimePlayed": "2025-03-08T05:44:48.4571735Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -507,7 +507,7 @@
       "titleHistory": {
         "lastTimePlayed": "2025-03-07T16:48:39.8339747Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -760,7 +760,7 @@
       "titleHistory": {
         "lastTimePlayed": "2025-02-01T04:49:23.2897099Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1192,7 +1192,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-12-10T22:56:53.3909729Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1236,7 +1236,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-12-10T22:07:25.9124258Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1281,7 +1281,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-11-03T06:47:20.8039532Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1326,7 +1326,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-10-26T07:03:57.8974512Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1369,7 +1369,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-06-18T22:04:40.5888635Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1720,7 +1720,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-02-21T04:25:14.5521803Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1808,7 +1808,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-02-17T05:45:02.2053581Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -1853,7 +1853,7 @@
       "titleHistory": {
         "lastTimePlayed": "2024-02-17T04:44:06.1315494Z",
         "visible": true,
-        "canHide": true
+        "canHide": false
       },
       "titleRecord": null,
       "detail": null,
@@ -3942,7 +3942,7 @@
       "pfn": "6151WayForward.RiverCityGirlsPC_38xd6w9je1dae",
       "bingId": null,
       "serviceConfigId": "00000000-0000-0000-0000-00007bc4ef0f",
-      "windowsPhoneProductId": "ed07d9eb-ac45-4a9d-9b8f-3b1484f2a32d",
+      "windowsPhoneProductId": null,
       "name": "River City Girls",
       "type": "Game",
       "devices": [

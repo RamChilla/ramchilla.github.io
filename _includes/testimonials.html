@@ -1,7 +1,7 @@
 <section class="section testimonials{% if include.push %}--pushed py-0{% endif %}">
     <div class="container is-max-desktop testimonials__container">
 
-        <section class="splide" role="group" aria-label="Testimonials about Rami" data-splide='{"type": "fade", "rewind": true, "autoplay": true, "interval": 8000 }'>
+        <div class="splide" role="group" aria-label="Testimonials about Rami" data-splide='{"type": "fade", "rewind": true, "autoplay": true, "interval": 8000 }'>
             <div class="splide__track">
                 <ul class="splide__list testimonials__list">
                     {% for t in site.data._testimonials.testimonials %}
@@ -14,7 +14,7 @@
                     {% endfor %}
                 </ul>
             </div>
-        </section>
+        </div>
 
     </div>
 </section>
