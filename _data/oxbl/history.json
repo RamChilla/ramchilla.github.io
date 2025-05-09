@@ -2,6 +2,94 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "1019460860",
+      "pfn": "NAMCOBANDAIGamesInc.DBXV2BaseGame_gdy2aq6ez762w",
+      "bingId": null,
+      "serviceConfigId": "7d520100-d0dd-470e-ae79-336d3cc3bcfc",
+      "windowsPhoneProductId": null,
+      "name": "DRAGON BALL XENOVERSE 2",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.62319.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.7561068e-671a-45c8-8ec0-f01c0a1ad1d1",
+      "mediaItemType": "Application",
+      "modernTitleId": "1019460860",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 30,
+        "totalGamerscore": 1300,
+        "progressPercentage": 2,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-09T03:14:27.2037583Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "558797228",
+      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+      "serviceConfigId": "90c40100-9123-47d6-bc6b-35d3214e91ac",
+      "windowsPhoneProductId": null,
+      "name": "Rocket League®",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
+      "mediaItemType": "Application",
+      "modernTitleId": "558797228",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 34,
+        "totalAchievements": 0,
+        "currentGamerscore": 865,
+        "totalGamerscore": 2200,
+        "progressPercentage": 39,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-09T01:50:07.7034924Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
       "titleId": "2140933132",
       "pfn": null,
       "bingId": null,
@@ -32,7 +120,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-08T04:22:34.7623637Z",
+        "lastTimePlayed": "2025-05-09T00:58:05.7141289Z",
         "visible": true,
         "canHide": true
       },
@@ -84,49 +172,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "None"
-    },
-    {
-      "titleId": "558797228",
-      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-      "serviceConfigId": "90c40100-9123-47d6-bc6b-35d3214e91ac",
-      "windowsPhoneProductId": null,
-      "name": "Rocket League®",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
-      "mediaItemType": "Application",
-      "modernTitleId": "558797228",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 34,
-        "totalAchievements": 0,
-        "currentGamerscore": 865,
-        "totalGamerscore": 2200,
-        "progressPercentage": 39,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-07T23:28:15.2763022Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
     },
     {
       "titleId": "267695549",
@@ -6880,7 +6925,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": null,
+      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
       "name": "DUET",
       "type": "Game",
       "devices": [
