@@ -5,8 +5,11 @@
 			{% for stat in site.data._stats %}
 			<div class="level-item stats__item has-text-centered">
 				<div>
-					<p class="title">{{ stat.value }}</p>
 					<p class="heading">{{ stat.heading }}</p>
+					<p class="title">{{ stat.value }}
+					{% if stat.footnote %}
+					<span class="heading">{{ stat.footnote }}</span>
+					{% endif %}</p>
 				</div>
 			</div>
 			{% endfor %}

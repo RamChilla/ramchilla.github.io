@@ -2,17 +2,14 @@
 layout: default
 enableSplide: true
 ---
-
-{% include _partials/page-header.html %}
-
 {% if site.data._stats %}
 {% include stats.html push=true %}
 {% endif %}
 
 {% include cms-platforms.html %}
-{% include _partials/linkedin-connect.html learn_more=true padding_class='pb-6' %}
 
 {% comment %}
+{% include _partials/linkedin-connect.html learn_more=true padding_class='pb-6' %}
 <section class="section">
 	<div class="container">
 		<div class="columns is-centered">
@@ -22,25 +19,16 @@ enableSplide: true
 		</div>
 	</div>
 </section>
-{% endcomment %}
 
 <section class="hero is-primary is-bold has-text-centered">
 	<div class="hero-body">
 		<div class="container is-max-desktop">
 			<h1 class="title">People say nice things.</h1>
-			<p class="subtitle">Great compliments received over the years.</p>
+			<p class="subtitle">I compliments received over the years.</p>
 		</div>
 	</div>
 </section>
-
-{% include testimonials.html push=true %}
-{% include _partials/linkedin-connect.html learn_more=true padding_class='py-6' %}
-
-{% comment %}
-<section class="section">
-	<div class="container">
-		{% include _partials/repos.html colorclass=page.colorclass %}
-	</div>
-</section>
-{% include xbox-live.html colorclass="white" %}
 {% endcomment %}
+{% include testimonials.html padding_class='py-0' %}
+
+{% include _partials/linkedin-connect.html learn_more=true padding_class='py-6' %}

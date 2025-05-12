@@ -24,6 +24,8 @@
             $el.classList.toggle('is-active');
             $target.classList.toggle('is-active');
             $target.classList.toggle('fadeInDown');
+
+            $el.setAttribute('aria-expanded', $el.classList.contains('is-active'));
     
           });
         });

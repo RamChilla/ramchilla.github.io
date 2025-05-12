@@ -29,7 +29,11 @@ $short-border-radius: 6px;
 }
 
 #navMenu {
-	z-index: 10;
+
+	&.is-active {
+		position: relative;
+		z-index: 40;
+	}
 }
 
 .navbar-circle {

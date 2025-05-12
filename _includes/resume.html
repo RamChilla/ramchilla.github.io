@@ -18,12 +18,6 @@
     <div class="container is-max-desktop">
         <div class="resume columns">
             <div class="column is-three-fifths">
-                {% comment %}
-                {% for sum in summary %}
-                    {% include _partials/resume/section.html section=sum %}
-                {% endfor %}
-                {% endcomment %}
-                
                 {% for exp in experience %}
                     {% include _partials/resume/section.html section=exp %}
                 {% endfor %}

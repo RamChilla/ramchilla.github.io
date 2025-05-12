@@ -3,8 +3,8 @@ layout: about
 title: About | ramchilla.github.io
 description: Some projects
 colorclass: primary
-heading: More about Rami.
-subheading: As a web designer, developer, and engineer.
+heading: More about Rami
+subheading: As a web designer, developer, and engineer
 trailing: Developing proven content management strategies for individuals and&nbsp;businesses.
 ---
 
@@ -22,15 +22,3 @@ Code should be as elegant as the experience it creates. Strive towards straight-
 ## Planning &amp; strategy
 
 Planning a content strategy is crucial in building not only an easy management experience, but also complex relationships. Content strategy can describe unique data contexts and serve as a development roadmap for future best practices.
-
-{% comment %}
-{:.subtitle}
-## Layer the approach
-
-A good approach is to think about any web project as an application with layers. Build the layers and it will naturally become a full-fledged system. Front-end experiences are a great example where content, presentation, and interactivity have a direct relationship with HTML, CSS, and JavaScript. Building web experiences in layers helps graceful degradation be easier. 
-
-{:.subtitle.has-text-centered}
-## A lover of the visual arts
-
-I admire photographers with a great eye for capturing intriguing moments and geometric landscapes. I also enjoy the urban art scene and am thankful that there are so many great murals around my city.
-{% endcomment %}

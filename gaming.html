@@ -4,7 +4,7 @@ title: Ramchilla Gaming
 colorclass: xbox
 heading: <span class="fa-brands fa-xbox"><span class="sr-only">Xbox Live</span></span> Ramchilla101
 subheading: PC builder, gamer &amp;&nbsp;squadmate
-trailing: You'll find me online every now and again.
+trailing: You found my Gamercard!<br>You'll find me online every now and again on Xbox or PC too.
 ---
 
 <section class="section py-0">
@@ -16,6 +16,9 @@ trailing: You'll find me online every now and again.
 <section class="section">
     <div class="container is-max-desktop">
         <h3 class="subtitle">Games on other platforms.</h3>
-        <p class="subt">Coming soon&hellip;</p>
+        {% assign oxbl_history = site.data.oxbl.history.titles %}
+        {% for recent in oxbl_history %}
+        {% include _partials/xbl-recent.html recent=recent %}
+        {% endfor %}
     </div>
 </section>
