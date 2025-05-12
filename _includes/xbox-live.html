@@ -14,7 +14,7 @@
 
         <h3>Latest Activity</h3>
         {% for recent in oxbl_history limit: 5 %}
-        {% include _partials/xbl-recent.html recent=recent %}
+        {% include _partials/xbl/recent-game-list-item.html recent=recent %}
         {% endfor %}
     </div>
 

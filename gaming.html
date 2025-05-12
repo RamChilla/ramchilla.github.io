@@ -6,7 +6,6 @@ heading: <span class="fa-brands fa-xbox"><span class="sr-only">Xbox Live</span><
 subheading: PC builder, gamer &amp;&nbsp;squadmate
 trailing: You found my Gamercard!<br>You'll find me online every now and again on Xbox or PC too.
 ---
-
 <section class="section py-0">
     <div class="container is-max-desktop">
         {% include xbox-live.html colorclass="white" %}
@@ -14,11 +13,19 @@ trailing: You found my Gamercard!<br>You'll find me online every now and again o
 </section>
 
 <section class="section">
-    <div class="container is-max-desktop">
-        <h3 class="subtitle">Games on other platforms.</h3>
-        {% assign oxbl_history = site.data.oxbl.history.titles %}
-        {% for recent in oxbl_history %}
-        {% include _partials/xbl-recent.html recent=recent %}
-        {% endfor %}
+    <div class="container">
+        <h3 class="subtitle has-text-centered">All games for PC and Xbox.</h3>
+        <div class="columns is-multiline is-centered">
+            <script>
+                function handleImageError() {
+                    event.target.insertAdjacentHTML('beforebegin', '<i class="fa-solid fa-gamepad fa-4x xbl__game-placeholder" role="presentation"></i>');
+                    event.target.remove();
+                }
+            </script>
+            {% assign oxbl_history = site.data.oxbl.history.titles %}
+            {% for game in oxbl_history %}
+            {% include _partials/xbl/game-list-item.html game=game %}
+            {% endfor %}
+        </div>
     </div>
 </section>

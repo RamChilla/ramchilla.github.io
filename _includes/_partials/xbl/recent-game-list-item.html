@@ -4,6 +4,6 @@
 		<strong>{{ recent.name }}</strong><br>
 		<i class="fas fa-trophy"></i>
 		<strong>{{recent.achievement.currentGamerscore }}/{{recent.achievement.totalGamerscore }}</strong> - 
-		<small><strong>Last seen: {{ recent.titleHistory.lastTimePlayed | date: "%a, %b %d, %Y" }}</strong></small>
+		<small><strong>Last played on {{ recent.titleHistory.lastTimePlayed | date_to_long_string: "ordinal", "US"  }}</strong></small>
 	</figcaption>
 </figure>

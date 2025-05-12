@@ -73,4 +73,53 @@
 			margin-right: 8px;
 		}
 	}
+
+	&__game-item {
+		@extend %floating-block;
+
+		display: flex;
+		align-items: center;
+		padding: 0;
+		position: relative;
+		overflow: hidden;
+		height: 100%;
+
+		@at-root & + & {
+			margin-top: 0.5rem;
+		}
+		
+		.image {
+			background-color: $primary;
+			border-radius: $border-radius-base 0 0 $border-radius-base;
+			margin-right: 16px;
+			min-width: 128px;
+			min-height: 100%;
+			object-fit: cover;
+			object-position: center;
+		}
+	}
+	
+	&__game-placeholder {
+		background-color: $primary;
+		border-radius: $border-radius-base 0 0 $border-radius-base;
+		margin-right: 16px;
+		
+		display: block;
+		width: 128px;
+		min-width: 128px;
+		height: 100%;
+		min-height: 128px;
+		align-content: center;
+		text-align: center;
+		color: $cream;
+	}
+
+	&__platform-icon {
+		position: absolute;
+		top: 20px;
+		right: 10px;
+		font-size: 8.4rem;
+		opacity: 0.1;
+		z-index: 1;
+	}
 }
