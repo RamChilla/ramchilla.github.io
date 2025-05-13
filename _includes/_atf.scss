@@ -22,6 +22,10 @@
 		"bulma/sass/elements/content",
 		"bulma/sass/grid/columns";
 
+[class*='--pushed'] {
+	margin-top: $push-factor;
+}
+
 @import "site/type",
 		"site/scaffold",
 		"site/shapes";
