@@ -2,6 +2,46 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "558797228",
+      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+      "windowsPhoneProductId": null,
+      "name": "Rocket League®",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
+      "mediaItemType": "Application",
+      "modernTitleId": "558797228",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 36,
+        "totalAchievements": 0,
+        "currentGamerscore": 935,
+        "totalGamerscore": 2200,
+        "progressPercentage": 42,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-13T04:00:12.8832527Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
       "titleId": "1820250788",
       "pfn": null,
       "bingId": null,
@@ -39,46 +79,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "None"
-    },
-    {
-      "titleId": "558797228",
-      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-      "windowsPhoneProductId": null,
-      "name": "Rocket League®",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
-      "mediaItemType": "Application",
-      "modernTitleId": "558797228",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 35,
-        "totalAchievements": 0,
-        "currentGamerscore": 885,
-        "totalGamerscore": 2200,
-        "progressPercentage": 40,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-12T02:32:29.1499148Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
     },
     {
       "titleId": "2140933132",
@@ -1975,7 +1975,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1973901376",

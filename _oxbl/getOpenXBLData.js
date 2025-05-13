@@ -63,7 +63,7 @@ axios
     // console.log("Fetched Data:", response.data);
     fs.writeFile(
       `${dataDir}/history.json`,
-      JSON.stringify(response.data, null, 2).replaceAll("boot", "--boot"),
+      JSON.stringify(response.data, null, 2).replaceAll("boot", "--boot").replaceAll("http://", "https://"),
       "utf8",
       (err) => console.log(err)
     );
