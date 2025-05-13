@@ -1,7 +1,7 @@
 <nav class="navbar is-{{ page.colorclass }} is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="container">
         <div class="navbar-brand">
-            <a class="navbar-item navbar-circle has-background-{{ page.colorclass }}" href="/">
+            <a class="navbar-item navbar-circle has-background-{{ page.colorclass }}" href="{% link index.md %}">
                <span>r</span>
             </a>
             <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
@@ -13,9 +13,9 @@
         
         <div id="navMenu" class="navbar-menu">
             <div class="navbar-end">
-                <a class="navbar-item" href="{{ site.url | absolute_url }}">home</a>
-                <a class="navbar-item" href="/about/">about</a>
-                <a class="navbar-item" href="/work-experience/">résumé</a>
+                <a class="navbar-item" href="{% link index.md %}">home</a>
+                <a class="navbar-item" href="{% link about.md %}">about</a>
+                <a class="navbar-item" href="{% link work-experience.md %}">résumé</a>
                 <a class="navbar-item" href="https://github.com/RamChilla" target="_blank">github&nbsp;<span class="fas fa-external-link-alt fa-sm"></span></a>
             </div>
         </div>
