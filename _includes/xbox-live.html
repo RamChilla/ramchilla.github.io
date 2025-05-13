@@ -1,9 +1,9 @@
 {% assign oxbl_summary = site.data.oxbl.summary.people[0] %}
 {% assign oxbl_history = site.data.oxbl.history.titles | where_exp: "item", "item.devices.first != 'Win32'" %}
 
-<aside class="xbl columns is-vcentered">
-    
-    <div class="column">
+<section class="xbl__summary pushed">
+
+    <div class="xbl__summary-recent">
         {% comment %}
         <h2 class="title">
             <i class="fab fa-xbox"></i>
@@ -12,13 +12,13 @@
         <p class="subtitle">Gamer &amp; Squadmate.</p>
         {% endcomment %}
 
-        <h3>Latest Activity</h3>
+        <h2>Latest Activity</h2>
         {% for recent in oxbl_history limit: 5 %}
         {% include _partials/xbl/recent-game-list-item.html recent=recent %}
         {% endfor %}
     </div>
 
-    <div class="column xbl__image">
+    <div class="xbl__summary-image">
         <img src="{{ oxbl_summary.displayPicRaw }}" alt="{{ oxbl_summary.gamertag }}" />
         <p class="xbl__caption">
             <i class="fas fa-trophy fa-xs" role="presentation"></i>
@@ -32,4 +32,4 @@
         </div>
     </div>
     
-</aside>
+</section>

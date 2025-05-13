@@ -1,35 +1,125 @@
 .xbl {
-	@extend %floating-block;
+	// @extend %floating-block;
+	// padding: 0;
+	// overflow: hidden;
 
-	&__image {
+	&__summary {
+		@extend %floating-block;
+		overflow: hidden;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+
+		@media screen and (min-width: 769px) {
+			flex-direction: row;
+		}
+
+		&.pushed {
+			margin-top: -$push-factor;
+		}
+	}
+
+	&__summary-recent {
+		flex: 1 1 55%;
+		align-content: center;
+		padding: 1.25rem 1rem;
+		order: 2;
+	}
+
+	&__summary-image {
 		position: relative;
 		padding: 0;
 		overflow: hidden;
-		
-		// &:before {
-		// 	content: '';
-		// 	position: absolute;
-		// 	top: 0;
-		// 	left: 0;
-		// 	right: 0;
-		// 	bottom: 0;
-		// 	// opacity: 0;
-		// 	// background-image: radial-gradient(transparent 50%, rgba(35,35,35, .4) 80%);
-		// 	backdrop-filter: blur(15px);
-		// 	mask: radial-gradient(transparent 50%, black 75%);
-		// 	transition: 220ms;
-
-		// 	@at-root .xbl:hover & {
-		// 		backdrop-filter: none;
-		// 	}
-		// }
-		//   &:hover:after {opacity: 1;}
+		flex: 1 1 45%;
+		order: 1;
 
 		img {
 			display: block;
+			height: 20rem;
+			width: 100%;
+			object-fit: cover;
+			object-position: center 25%;
+			
+			@media screen and (min-width: 769px) {
+				height: 100%;
+				object-position: center;
+			}
 		}
+	}
 
+	&__recent-game {
+		display: flex;
+		align-items: center;
+
+		@at-root & + & {
+			margin-top: 0.5rem;
+		}
 		
+		.image {
+			background-color: $primary;
+			border-radius: $border-radius-base;
+			margin-right: 8px;
+		}
+	}
+
+	// &__game-list {
+	// 	max-height: 90vh;
+	// 	overflow-y: auto;
+	// }
+
+	&__game-figure {
+		@extend %floating-block;
+
+		display: flex;
+		align-items: center;
+		padding: 0;
+		position: relative;
+		overflow: hidden;
+		height: 100%;
+		line-height: 1.3;
+
+		@at-root & + & {
+			margin-top: 0.5rem;
+		}
+		
+		// figcaption.content {
+		// 	height: 100%;
+		// 	align-content: center;
+		// }
+		
+		.image {
+			background-color: $primary;
+			border-radius: $border-radius-base 0 0 $border-radius-base;
+			margin-right: 16px;
+			min-width: 96px;
+			min-height: 100%;
+			object-fit: cover;
+			object-position: center;
+		}
+	}
+	
+	&__game-placeholder {
+		background-color: $primary;
+		border-radius: $border-radius-base 0 0 $border-radius-base;
+		margin-right: 16px;
+		
+		display: block;
+		width: 96px;
+		min-width: 96px;
+		height: 100%;
+		min-height: 96px;
+		align-content: center;
+		text-align: center;
+		color: $cream;
+	}
+
+	&__platform-icon {
+		position: absolute;
+		top: 20px;
+		right: 10px;
+		font-size: 8.4rem;
+		opacity: 0.1;
+		z-index: 1;
 	}
 
 	&__overlay {
@@ -57,69 +147,5 @@
 		font-size: 48px;
 		color: white;
 		text-shadow: 0 0 5px #3e394d;
-	}
-
-	&__latest-activity {
-		display: flex;
-		align-items: center;
-
-		@at-root & + & {
-			margin-top: 0.5rem;
-		}
-		
-		.image {
-			background-color: $primary;
-			border-radius: $border-radius-base;
-			margin-right: 8px;
-		}
-	}
-
-	&__game-item {
-		@extend %floating-block;
-
-		display: flex;
-		align-items: center;
-		padding: 0;
-		position: relative;
-		overflow: hidden;
-		height: 100%;
-
-		@at-root & + & {
-			margin-top: 0.5rem;
-		}
-		
-		.image {
-			background-color: $primary;
-			border-radius: $border-radius-base 0 0 $border-radius-base;
-			margin-right: 16px;
-			min-width: 128px;
-			min-height: 100%;
-			object-fit: cover;
-			object-position: center;
-		}
-	}
-	
-	&__game-placeholder {
-		background-color: $primary;
-		border-radius: $border-radius-base 0 0 $border-radius-base;
-		margin-right: 16px;
-		
-		display: block;
-		width: 128px;
-		min-width: 128px;
-		height: 100%;
-		min-height: 128px;
-		align-content: center;
-		text-align: center;
-		color: $cream;
-	}
-
-	&__platform-icon {
-		position: absolute;
-		top: 20px;
-		right: 10px;
-		font-size: 8.4rem;
-		opacity: 0.1;
-		z-index: 1;
 	}
 }
