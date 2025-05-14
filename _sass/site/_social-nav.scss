@@ -1,0 +1,19 @@
+.social-nav {
+    font-size: 32px;
+
+    a {
+        display: inline-block;
+        width: 32px;
+        text-align: center;
+        color: $cream;
+        border-radius: $border-radius-base;
+        transition: all ease-in 220ms;
+        outline: 0 solid transparent;
+        outline-offset: 4px;
+
+        &:hover,
+        &:focus {
+            outline: 1px solid $cream;
+        }
+    }
+}
