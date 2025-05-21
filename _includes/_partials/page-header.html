@@ -11,7 +11,13 @@
 		</div>
 
 		{% if page.header_image %}
-		<img class="hero-body__image" width="256" height="335" src="{{ site.baseurl }}{{ page.header_image}}" alt="A caricaturized avatar of Rami">
+		<img 
+			class="hero-body__image" 
+			width="256" 
+			height="335" 
+			src="{{ site.baseurl }}{{ page.header_image}}.png" 
+			srcset="{{ site.baseurl }}{{ page.header_image }}.webp 1x, {{ site.baseurl }}{{ page.header_image }}-2x.webp 2x" 
+			alt="{{ page.header_image_alttext }}" />
 		{% endif %}
 	</div>
 </section>
