@@ -12,6 +12,7 @@ url: https://ramchilla.github.io
 # website: https://ramchilla.github.io
 permalink: /:categories/:title/
 # google_analytics: UA-31875443-3
+theme: 
 
 
 # Build settings

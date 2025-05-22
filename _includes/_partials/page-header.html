@@ -1,6 +1,7 @@
+{% if page.heading or page.subheading %}
 <section class="hero is-{{ page.colorclass }} is-bold pt-6 has-text-centered">
 	<div class="hero-body{% if page.header_image %} has-bg-image{% endif %}">
-		<div class="container is-max-desktop">
+		<div class="container">
 			<h1 class="title">{{ page.heading }}</h1>
 			{% if page.subheading %}
 			<p class="subtitle">{{ page.subheading }}</p>
@@ -21,3 +22,4 @@
 		{% endif %}
 	</div>
 </section>
+{% endif %}
