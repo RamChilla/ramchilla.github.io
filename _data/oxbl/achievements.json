@@ -2,6 +2,46 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "558797228",
+      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+      "windowsPhoneProductId": null,
+      "name": "Rocket League®",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
+      "mediaItemType": "Application",
+      "modernTitleId": "558797228",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 36,
+        "totalAchievements": 0,
+        "currentGamerscore": 935,
+        "totalGamerscore": 2200,
+        "progressPercentage": 42,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-22T14:01:04.4057371Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
       "titleId": "2140933132",
       "pfn": null,
       "bingId": null,
@@ -29,7 +69,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-20T04:17:07.4293139Z",
+        "lastTimePlayed": "2025-05-22T04:43:40.6849291Z",
         "visible": true,
         "canHide": true
       },
@@ -68,7 +108,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-20T00:37:45.817988Z",
+        "lastTimePlayed": "2025-05-22T02:46:55.2090697Z",
         "visible": true,
         "canHide": true
       },
@@ -78,46 +118,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "None"
-    },
-    {
-      "titleId": "558797228",
-      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-      "windowsPhoneProductId": null,
-      "name": "Rocket League®",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.14669.65187692735347017.a09c3838-30fe-495b-b223-1264ea5fa44b.4882242d-4355-44bf-a6ee-5ad921df7ab9",
-      "mediaItemType": "Application",
-      "modernTitleId": "558797228",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 36,
-        "totalAchievements": 0,
-        "currentGamerscore": 935,
-        "totalGamerscore": 2200,
-        "progressPercentage": 42,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-14T21:31:48.7275107Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
     },
     {
       "titleId": "1019460860",
@@ -2022,7 +2022,7 @@
       "pfn": "79ACB67D.CivilizationVIPC_yn88nk35a38zw",
       "bingId": null,
       "windowsPhoneProductId": null,
-      "name": "Sid Meier’s Civilization® VI",
+      "name": "Sid Meier’s Civilization® VI (Windows PC)",
       "type": "Game",
       "devices": [
         "PC"
@@ -4494,7 +4494,7 @@
         "currentAchievements": 7,
         "totalAchievements": 0,
         "currentGamerscore": 65,
-        "totalGamerscore": 5660,
+        "totalGamerscore": 5760,
         "progressPercentage": 1,
         "sourceVersion": 2
       },
@@ -4916,8 +4916,7 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
+      "xboxLiveTier": "Full"
     },
     {
       "titleId": "585971749",
@@ -6490,7 +6489,7 @@
       "titleId": "1903007727",
       "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
       "bingId": null,
-      "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
+      "windowsPhoneProductId": null,
       "name": "Subway Surfers",
       "type": "Game",
       "devices": [
@@ -6765,8 +6764,7 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
+      "xboxLiveTier": "Full"
     },
     {
       "titleId": "219630713",
