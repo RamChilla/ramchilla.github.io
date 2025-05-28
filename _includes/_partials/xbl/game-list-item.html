@@ -1,0 +1,26 @@
+{% assign platform_icon = 'fa-brands fa-xbox' %}
+{% assign platform_name = 'Xbox' %}
+{% if game.devices contains 'Win32' %}
+	{% assign platform_icon = 'fa-solid fa-computer' %}
+	{% assign platform_name = 'PC' %}
+{% endif %}
+
+<div class="column is-half is-one-third-fullhd">
+	<figure class="xbl__game-figure">
+		{% if game.displayImage != empty %}
+		<img src="{{ game.displayImage }}" class="image is-96x96" alt="{{ game.name }}" onerror="handleImageError()"/>
+		{% else %}
+		<i class="fa-solid fa-gamepad fa-4x xbl__game-placeholder" role="presentation"></i>
+		{% endif %}
+
+		<figcaption class="content">
+			<i class="{{ platform_icon }} xbl__platform-icon" title="Played on {{ platform_name }}"><span class="sr-only">Played on {{ platform_name }}</span></i>
+			<strong>{{ game.name }}</strong> <i class="is-size-6">on {{ platform_name }}</i><br>
+			{% unless game.devices contains 'Win32' %}
+				<i class="fa-solid fa-trophy fa-sm"></i>
+				<strong class="is-size-6">{{game.achievement.currentGamerscore }}/{{game.achievement.totalGamerscore }}</strong> - 
+			{% endunless %}
+			<small><strong>Played on {{ game.titleHistory.lastTimePlayed | date: "%B %-d, %Y" }}</strong></small>
+		</figcaption>
+	</figure>
+</div>

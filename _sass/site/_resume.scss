@@ -1,0 +1,60 @@
+.resume {
+
+    &-section {
+        margin: 1.5rem 0;
+
+        &:first-of-type {
+            margin-top: 0;
+        }
+
+        &__title {
+            font-size: 32px;
+        }
+    }
+
+    &-summary {
+        @extend %floating-block;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        font-weight: 700;
+
+        &--pushed {
+            @extend .resume-summary;
+            margin-top: -$push-factor;
+        }
+    }
+
+    &-experience:not(:first-of-type),
+    &-education:not(:first-of-type),
+    &-related:not(:first-of-type) {
+        margin: 1rem 0;
+    }
+
+    &-experience {
+
+        &__position {
+            font-family: $family-sans-serif;
+            font-weight: 700;
+        }
+    }
+    
+    &-education {
+
+        &__school {
+            font-family: $family-sans-serif;
+            font-weight: 700;
+            font-size: 18px;
+        }
+    }
+
+    &-related {
+
+        &__pos {
+            @extend .resume-education__school;
+        }
+    }
+
+    &__tag {
+        font-weight: 700;
+    }
+}

@@ -1,9 +1,38 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="{{ page.hunclass }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}" class="has-navbar-fixed-top">
 {% include head.html %}
-<body class="{{ page.hunclass }}">
-{{ content }}
-<script defer src="https://use.fontawesome.com/24796bde0a.js"></script>
-<script defer src="{{ "/assets/js/loadCss.min.js" | relative_url }}"></script>
+
+<body class="{{ page.layout }}">
+	<header>
+		{% include nav.html %}
+		{% include _partials/page-header.html %}
+	</header>
+
+	<main>
+		{{ content }}
+	</main>
+
+	{% include footer.html %}
+
+	<script async src="https://kit.fontawesome.com/0f11c5ba81.js" crossorigin="anonymous"></script>
+	<script defer src="{{ "/assets/js/main.js" | relative_url }}"></script>
+	
+	{% if layout.enableSplide %}
+	<script defer src="{{ "/assets/lib/splide/js/splide.min.js" | relative_url }}"></script>
+	<script defer>
+		document.addEventListener('DOMContentLoaded', function () {
+			var ul = document.querySelector('ul.testimonials__list');
+			for (var i = ul.children.length; i >= 0; i--) {
+				ul.appendChild(ul.children[Math.random() * i | 0]);
+			}
+
+			var elms = document.getElementsByClassName('splide');
+			for (var i = 0; i < elms.length; i++) {
+				new Splide(elms[i]).mount();
+			};
+		});
+	</script>
+	{% endif %}
 </body>
+
 </html>

@@ -1,0 +1,50 @@
+.stats {
+    @extend %floating-block;
+
+    &__item {
+
+        &:not(:last-child) {
+            margin-bottom: 0.75rem;
+        }
+
+        .title,
+        .heading {
+            margin-bottom: 0;
+        }
+    }
+
+    @media screen and (min-width: 540px), print {
+        display: flex;
+        flex-wrap: wrap;
+
+        &__item {
+            flex-basis: 50%;
+            margin-bottom: 0;
+
+            &:not(:last-child) {
+                margin-bottom: unset;
+            }
+
+            &:nth-of-type(-n+2) {
+                margin-bottom: 0.75rem;
+            }
+        }
+    }
+
+    @media screen and (min-width: 920px), print {
+
+        &__item {
+            flex-basis: 25%;
+            margin-bottom: 0;
+
+            &:nth-of-type(-n+2) {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    &--pushed {
+        @extend .stats;
+        margin-top: -$push-factor;
+    }
+}

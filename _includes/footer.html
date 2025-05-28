@@ -1,38 +1,32 @@
-<footer class="site-footer">
-			<!--<div class="wrapper">
-				<h2 class="footer-heading">{{ site.title | escape }}</h2>
-				<div class="footer-col-wrapper">
-					<div class="footer-col footer-col-1">
-						<ul class="contact-list">
-							<li>
-								{% if site.author %}
-								{{ site.author | escape }}
-								{% else %}
-								{{ site.title | escape }}
-								{% endif %}
-							</li>
-							{% if site.email %}
-							<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-							{% endif %}
-						</ul>
-					</div>
-					<div class="footer-col footer-col-2">
-						<ul class="social-media-list">
-							{% if site.github_username %}
-							<li>
-							{% include icon-github.html username=site.github_username %}
-							</li>
-							{% endif %}
-							{% if site.twitter_username %}
-							<li>
-							{% include icon-twitter.html username=site.twitter_username %}
-							</li>
-							{% endif %}
-						</ul>
-					</div>
-					<div class="footer-col footer-col-3">
-						<p>{{ site.description | escape }}</p>
-					</div>
-				</div>
-			</div>-->
-		</footer>
+<footer class="footer">
+	<div class="container">
+		<section class="columns">
+			<nav class="column has-text-centered-mobile social-nav">
+				<a href="https://www.linkedin.com/in/ramihassan419/" target="_blank">
+					<span class="fa-brands fa-linkedin" aria-hidden="true"></span>
+					<span class="is-sr-only">LinkedIn</span>
+				</a>
+				<a href="https://github.com/RamChilla" target="_blank">
+					<span class="fa-brands fa-github-alt"></span>
+					<span class="is-sr-only">Github</span>
+				</a>
+				<a href="https://dribbble.com/ramchilla" target="_blank">
+					<span class="fa-brands fa-square-dribbble" aria-hidden="true"></span>
+					<span class="is-sr-only">Dribbble</span>
+				</a>
+				<a href="https://unsplash.com/ramchilla" target="_blank">
+					<span class="fa-brands fa-unsplash"></span>
+					<span class="is-sr-only">Unsplash</span>
+				</a>
+				<a href="{% link gaming.html %}">
+					<span class="fa-brands fa-xbox"></span>
+					<span class="is-sr-only">Xbox Live</span>
+				</a>
+			</nav>
+			<div class="column has-text-centered-mobile has-text-right-tablet">
+				<p class="has-text-weight-bold">made real by rami <span class="fa-solid fa-heart" aria-hidden="true"></span></p>
+				<span class="copyright">&copy; rami h. {{ "now" | date: "%Y" }}</span>
+			</div>
+		</section>
+	</div>
+</footer>

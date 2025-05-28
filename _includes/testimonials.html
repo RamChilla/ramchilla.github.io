@@ -1,0 +1,20 @@
+<section class="section testimonials{% if include.push %}--pushed py-0{% endif %} {{ include.padding_class }}">
+    <div class="container is-max-desktop testimonials__container">
+
+        <div class="splide" role="group" aria-label="Testimonials about Rami" data-splide='{"type": "fade", "rewind": true, "autoplay": true, "interval": 8000 }'>
+            <div class="splide__track">
+                <ul class="splide__list testimonials__list">
+                    {% for t in site.data._testimonials.testimonials %}
+                    <li class="splide__slide">
+                        <blockquote class="testimonials__item">
+                            <p class="subtitle">{{ t.content }}</p>
+                            <cite class="subtitle">{{ t.name }} {{ t.lastname | slice: 0 }}. - <small class="is-italic">{{ t.title }}</small></cite>
+                        </blockquote>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>

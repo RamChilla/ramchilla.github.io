@@ -1,0 +1,10 @@
+.content {
+
+    .title {
+        @extend .title;
+    }
+
+    .subtitle {
+        @extend .subtitle;
+    }
+}

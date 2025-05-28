@@ -1,7 +1,63 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:900|Open+Sans:400,700');
-@import "src/vars",
-        "src/normalize",
-        "src/scaffold",
-        "src/type",
-        "src/buttons",
-        "src/splash";
+// @import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wdth,wght@0,62.5,100..900;1,62.5,100..900&family=Quicksand:wght@300..700&display=swap');
+
+// 1. Import the initial variables
+@import "bulma/sass/utilities/initial-variables.sass";
+@import "bulma/sass/utilities/functions";
+
+// 2. Set your own initial variables
+@import "site/vars/initial";
+
+// 3. Add new color variables to the color map.
+@import "bulma/sass/utilities/derived-variables";
+
+// 4. Set your own custom derived vars
+@import "site/vars/derived";
+@import "animate/properties";
+@import "animate/_fading-entrances/fadeInDown";
+
+.fadeInDown {
+	@include fadeInDown($duration: 220ms);
+}
+
+// 5. Import what we need from Bulma 
+// @import "bulma/bulma.sass";
+@import "bulma/sass/utilities/all",
+		"bulma/sass/base/all",
+
+		"bulma/sass/components/navbar",
+		"bulma/sass/components/level",
+		// "bulma/sass/components/media",
+
+		"bulma/sass/helpers/visibility",
+		"bulma/sass/helpers/color",
+		"bulma/sass/helpers/spacing",
+		"bulma/sass/helpers/typography",
+
+		"bulma/sass/layout/hero",
+		"bulma/sass/layout/section",
+		"bulma/sass/layout/footer",
+		
+		"bulma/sass/elements/button",
+		"bulma/sass/elements/container",
+		"bulma/sass/elements/title",
+		"bulma/sass/elements/content",
+		"bulma/sass/elements/image",
+		"bulma/sass/elements/tag",
+		"bulma/sass/elements/other",
+
+		"bulma/sass/grid/columns";
+
+// 7. Import site files
+@import "site/scaffold",
+		"site/type",
+		"site/shapes",
+		"site/hero",
+		// "site/xbl",
+		"site/stats",
+		"site/testimonials",
+		"site/resume",
+		"site/content",
+		"site/cms-platforms",
+		"site/social-nav",
+		"site/xbl2"
+		;

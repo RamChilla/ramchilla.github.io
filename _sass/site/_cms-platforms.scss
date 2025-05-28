@@ -1,0 +1,22 @@
+.cms-platforms {
+
+    &__link {
+        display: inline-block;
+        max-width: 90%;
+        margin: auto;
+        padding: 1.5rem;
+        border-radius: $border-radius-base;
+        outline: 1px solid transparent;
+        transition: all ease-out 120ms;
+
+        &:hover,
+        &:focus {
+            outline: 1px solid $text;
+        }
+
+        &--zendesk {
+            @extend .cms-platforms__link;
+            max-width: 60%;
+        }
+    }
+}

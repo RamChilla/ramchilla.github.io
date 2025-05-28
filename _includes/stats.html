@@ -1,0 +1,14 @@
+{% if site.data._stats %}
+<div class="section{% if include.push %} py-0{% endif %}">
+	<div class="container is-max-desktop">
+		<div class="stats{% if include.push %}--pushed{% endif %} is-tablet">
+			{% for stat in site.data._stats %}
+			<div class="stats__item has-text-centered">
+				<p class="title">{{ stat.value }}</p>
+				<p class="heading">{{ stat.heading }}</p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+{% endif %}

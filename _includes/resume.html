@@ -1,0 +1,44 @@
+{% assign sections = site.data._resume.sections %}
+{% assign summary = sections | where: "name", "summary" %}
+{% assign skills = sections | where: "name", "skills" %}
+{% assign technology = sections | where: "name", "technology" %}
+{% assign experience = sections | where: "name", "experience" %}
+{% assign education = sections | where: "name", "education" %}
+{% assign related = sections | where: "name", "related" %}
+
+<section class="section py-0">
+    <div class="container is-max-desktop">
+        <div class="resume-summary--pushed">
+            <p>{{ summary.first.text }}</p>
+        </div>
+    </div>
+</section>
+
+<article class="section">
+    <div class="container is-max-desktop">
+        <div class="resume columns">
+            <div class="column is-three-fifths">
+                {% for exp in experience %}
+                    {% include _partials/resume/section.html section=exp %}
+                {% endfor %}
+            </div>
+            <div class="column">
+                {% for skill in skills %}
+                    {% include _partials/resume/section.html section=skill %}
+                {% endfor %}
+
+                {% for tech in technology %}
+                    {% include _partials/resume/section.html section=tech %}
+                {% endfor %}
+
+                {% for edu in education %}
+                    {% include _partials/resume/section.html section=edu %}
+                {% endfor %}
+
+                {% for rel in related %}
+                    {% include _partials/resume/section.html section=rel %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>

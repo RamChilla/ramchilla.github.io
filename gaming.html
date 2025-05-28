@@ -1,0 +1,57 @@
+---
+layout: default
+title: Ramchilla Gaming
+colorclass: xbox
+heading: <span class="fa-brands fa-xbox"><span class="sr-only">Xbox Live</span></span> Ramchilla101
+subheading: PC builder, gamer &amp;&nbsp;squadmate
+trailing: You found my Gamercard!<br>You'll find me online every now and again on Xbox or PC too.
+---
+<section class="section pt-0 pb-5">
+    <div class="container is-max-desktop">
+        {% include xbox-live.html %}
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <h3 class="subtitle has-text-centered mb-2">Xbox &amp; PC game history</h3>
+        <p class="leading-text has-text-centered mb-5">A long time hobby and passion (at least as long as it's been tracked)&hellip;</p>
+        {% comment %}
+        <table class="my-5" style="margin: auto;">
+            <thead class="has-text-weight-bold">
+                <tr>
+                    <th class="has-text-centered" width="80">Icon</th>
+                    <th>Platform</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="has-text-centered">
+                        <i class="fa-brands fa-xbox" title="Played on Xbox"><span class="sr-only">Played on Xbox</span></i>
+                    </td>
+                    <td>Xbox Networks <small>(Xbox360, XboxOne, XboxSeries, XboxPC)</small></td>
+                </tr>
+                <tr>
+                    <td class="has-text-centered">
+                        <i class="fa-solid fa-computer" title="Played on PC"><span class="sr-only">Played on PC</span></i>
+                    </td>
+                    <td>PC Platforms <small>(Steam, Epic, Battle.net, etc.)</small></td>
+                </tr>
+            </tbody>
+        </table>
+        {% endcomment %}
+        
+        <script>
+            function handleImageError() {
+                event.target.insertAdjacentHTML('beforebegin', '<i class="fa-solid fa-gamepad fa-4x xbl__game-placeholder" role="presentation"></i>');
+                event.target.remove();
+            }
+        </script>
+        <div class="xbl__game-list columns is-multiline is-centered">
+            {% assign oxbl_history = site.data.oxbl.history.titles %}
+            {% for game in oxbl_history %}
+            {% include _partials/xbl/game-list-item.html game=game %}
+            {% endfor %}
+        </div>
+    </div>
+</section>

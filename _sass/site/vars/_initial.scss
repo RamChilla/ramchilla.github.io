@@ -1,0 +1,39 @@
+$family-sans-serif: "Quicksand", BlinkMacSystemFont, -apple-system, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$heading-font-family: "Anybody", BlinkMacSystemFont, -apple-system, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$weight-heavy: 900;
+
+// 4. Setup Custom Colors
+// $primary: #9356e9;
+// $primary: #427b71;
+$primary: #409686;
+$info: $cyan;
+$success: $green;
+$warning: #a21025;
+$danger: #d84f4f; //$red;
+
+$cream: #f2e9d9;
+
+$footer-color: $cream;
+// $footer-background-color: $primary;
+$footer-background-color: #235248;
+
+$linkedin: #0077b5;
+$linkedin-invert: findColorInvert($linkedin);
+$twitter: #55acee;
+$twitter-invert: findColorInvert($twitter);
+$github: #333;
+$github-invert: findColorInvert($github);
+$xbox: #107C10;
+$xbox-invert: findColorInvert($xbox);
+
+$box-shadow: none;
+
+$box-shadow-light: 0 0 5px #d5d5d5;
+$box-shadow-testimonials: $box-shadow-light;
+$box-shadow-stats: $box-shadow-light;
+
+$border-radius-base: 8px;
+
+$navbar-background-color: inherit;
+
+$tablet: 768px;

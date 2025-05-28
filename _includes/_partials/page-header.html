@@ -1,0 +1,25 @@
+{% if page.heading or page.subheading %}
+<section class="hero is-{{ page.colorclass }} is-bold pt-6 has-text-centered">
+	<div class="hero-body{% if page.header_image %} has-bg-image{% endif %}">
+		<div class="container">
+			<h1 class="title">{{ page.heading }}</h1>
+			{% if page.subheading %}
+			<p class="subtitle">{{ page.subheading }}</p>
+			{% endif %}
+			{% if page.trailing %}
+			<p class="hero-trailing">{{ page.trailing }}</p>
+			{% endif %}
+		</div>
+
+		{% if page.header_image %}
+		<img 
+			class="hero-body__image" 
+			width="256" 
+			height="335" 
+			src="{{ site.baseurl }}{{ page.header_image}}.png" 
+			srcset="{{ site.baseurl }}{{ page.header_image }}.webp 1x, {{ site.baseurl }}{{ page.header_image }}-2x.webp 2x" 
+			alt="{{ page.header_image_alttext }}" />
+		{% endif %}
+	</div>
+</section>
+{% endif %}

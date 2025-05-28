@@ -1,0 +1,8 @@
+<div class="resume-education is-size-6">
+    <h3 class="resume-education__school is-underlined">{{ include.item.school }} - <small>{{ include.item.location }}</small></h3>
+    <ul>
+        {% for degree in include.item.degrees %}
+        <li>{{ degree.title }} {% unless degree.date == empty %} - <small>{{ degree.date }}</small>{% endunless %}</li>
+        {% endfor %}
+    </ul>
+</div>

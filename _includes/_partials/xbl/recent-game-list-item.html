@@ -1,0 +1,9 @@
+<figure class="xbl__recent-game">
+	<img src="{{ recent.displayImage }}" class="image is-64x64" alt="{{recent.name }}" />
+	<figcaption class="content">
+		<strong>{{ recent.name }}</strong><br>
+		<i class="fas fa-trophy"></i>
+		<strong>{{recent.achievement.currentGamerscore }}/{{recent.achievement.totalGamerscore }}</strong> - 
+		<small><strong>Played on {{ recent.titleHistory.lastTimePlayed | date_to_long_string: "ordinal", "US"  }}</strong></small>
+	</figcaption>
+</figure>
