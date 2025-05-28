@@ -1,5 +1,5 @@
 ---
-layout: raw
+layout: default
 title: Web &amp; Software Engineer | ramchilla.github.io
 description: Some projects
 colorclass: primary
