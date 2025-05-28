@@ -2,6 +2,127 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "283303390",
+      "pfn": "NordicGames.Wreckfest_46xc33nm0q0f8",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Wreckfest",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.64141.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.27e4efda-6f6d-4d33-b636-4d6ef45396ea",
+      "mediaItemType": "Application",
+      "modernTitleId": "283303390",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 50,
+        "totalGamerscore": 1000,
+        "progressPercentage": 5,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-28T04:13:55.6239182Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1728105232",
+      "pfn": "Ubisoft.Kingdoms_ngz4m417e0mpw",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Assassin's Creed® Valhalla",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.51716.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.802f0267-5f00-464e-ac26-a7a901bbb532",
+      "mediaItemType": "Application",
+      "modernTitleId": "1728105232",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 5,
+        "totalAchievements": 0,
+        "currentGamerscore": 50,
+        "totalGamerscore": 2110,
+        "progressPercentage": 2,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 3
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-28T03:42:13.1842051Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1820250788",
+      "pfn": null,
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Fortnite",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-05-26T01:38:17.8791461Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "None"
+    },
+    {
       "titleId": "558797228",
       "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
       "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
@@ -17,11 +138,11 @@
       "modernTitleId": "558797228",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 36,
+        "currentAchievements": 37,
         "totalAchievements": 0,
-        "currentGamerscore": 935,
+        "currentGamerscore": 985,
         "totalGamerscore": 2200,
-        "progressPercentage": 42,
+        "progressPercentage": 45,
         "sourceVersion": 2
       },
       "stats": {
@@ -30,7 +151,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-05-22T14:01:04.4057371Z",
+        "lastTimePlayed": "2025-05-25T02:47:02.7862945Z",
         "visible": true,
         "canHide": false
       },
@@ -70,45 +191,6 @@
       "images": null,
       "titleHistory": {
         "lastTimePlayed": "2025-05-22T04:43:40.6849291Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "None"
-    },
-    {
-      "titleId": "1820250788",
-      "pfn": null,
-      "bingId": null,
-      "windowsPhoneProductId": null,
-      "name": "Fortnite",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-05-22T02:46:55.2090697Z",
         "visible": true,
         "canHide": true
       },
@@ -1288,47 +1370,6 @@
       "xboxLiveTier": "Full"
     },
     {
-      "titleId": "1728105232",
-      "pfn": "Ubisoft.Kingdoms_ngz4m417e0mpw",
-      "bingId": null,
-      "windowsPhoneProductId": null,
-      "name": "Assassin's Creed® Valhalla",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.51716.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.802f0267-5f00-464e-ac26-a7a901bbb532",
-      "mediaItemType": "Application",
-      "modernTitleId": "1728105232",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 5,
-        "totalAchievements": 0,
-        "currentGamerscore": 50,
-        "totalGamerscore": 2110,
-        "progressPercentage": 2,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 3
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2024-06-18T22:04:40.5888635Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
-    },
-    {
       "titleId": "1874191487",
       "pfn": "2637SquanchGamesInc.HighonLife_mh7dg3tfmz2cj",
       "bingId": null,
@@ -1572,7 +1613,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1161889784",
@@ -2940,7 +2982,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "207015551",
@@ -4070,7 +4113,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "331135949",
@@ -4370,8 +4414,8 @@
         "currentAchievements": 8,
         "totalAchievements": 0,
         "currentGamerscore": 130,
-        "totalGamerscore": 1420,
-        "progressPercentage": 9,
+        "totalGamerscore": 1650,
+        "progressPercentage": 8,
         "sourceVersion": 2
       },
       "stats": {
@@ -4389,7 +4433,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1297287815",
@@ -4916,7 +4961,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "585971749",
@@ -6764,7 +6810,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "219630713",
@@ -8344,7 +8391,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "916812232",
