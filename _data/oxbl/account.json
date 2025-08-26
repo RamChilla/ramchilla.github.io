@@ -1,5 +1,4 @@
 {
-  "$type": 3,
   "profileUsers": [
     {
       "id": "2533274804693417",
@@ -31,15 +30,15 @@
         },
         {
           "id": "RealName",
-          "value": "Rami Hassan"
+          "value": ""
         },
         {
           "id": "Bio",
-          "value": "Previously known as:\nBODxTHExRAM"
+          "value": ""
         },
         {
           "id": "Location",
-          "value": "Toledo"
+          "value": ""
         }
       ],
       "isSponsoredUser": false

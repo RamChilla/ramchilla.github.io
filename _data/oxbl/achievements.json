@@ -29,7 +29,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-08-18T13:47:32.4358686Z",
+        "lastTimePlayed": "2025-08-26T04:43:46.3464006Z",
         "visible": true,
         "canHide": true
       },
@@ -68,7 +68,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-08-18T02:13:39.2682352Z",
+        "lastTimePlayed": "2025-08-26T01:18:10.5946326Z",
         "visible": true,
         "canHide": true
       },
@@ -699,7 +699,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.39168.13966330883349940.7b471433-c456-43ce-801f-913824e58e51.42542674-8ebb-4936-8a8d-bb427c9f654f",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.44529.13966330883349940.04429733-dfe9-4aac-bee6-505b6bbb4f65.aaacfbc8-bf11-456d-8c70-f0c3f05c4b95",
       "mediaItemType": "Application",
       "modernTitleId": "2001700854",
       "isBundle": false,
@@ -1214,7 +1214,7 @@
         "PC",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.28224.13814604299939965.87e684aa-f67c-4783-95a7-a850ec9be36a.f8448f55-18ac-4888-9859-0652683d8606",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.21328.13814604299939965.c904f2ba-0ff1-460d-85a1-9ff776c41025.6a6a9daf-5387-4af5-8d1a-81e11f1abdbe",
       "mediaItemType": "Application",
       "modernTitleId": "2029650168",
       "isBundle": false,
@@ -1794,7 +1794,7 @@
       "devices": [
         "PC"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.54412.13883308541212018.bbbae9b8-dcb4-4cf3-b0af-1042dad9d362.28a34d63-b60c-413f-ba7a-08947e1fc359",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.54412.13709580375743562.e6028929-8fc7-4c04-a580-6dbc5b7bd47d.ecc0b2cb-139b-4daa-be40-bdbead9042ce",
       "mediaItemType": "Application",
       "modernTitleId": "1802207786",
       "isBundle": false,
