@@ -2,6 +2,171 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "1161890069",
+      "pfn": null,
+      "bingId": "66acd000-77fe-1000-9115-d80245410915",
+      "windowsPhoneProductId": null,
+      "name": "FIGHT NIGHT CHAMPION",
+      "type": "Game",
+      "devices": [
+        "Xbox360",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.43877.69068534869269909.2e5bd713-07e4-4ab3-ab98-5c3b344e3c50.bee59007-7def-4791-b9e7-891669c1465d",
+      "mediaItemType": "Xbox360Game",
+      "modernTitleId": "541339008",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 11,
+        "totalAchievements": 53,
+        "currentGamerscore": 140,
+        "totalGamerscore": 1150,
+        "progressPercentage": 12,
+        "sourceVersion": 1
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-09-10T01:03:25.8332567Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "2008767227",
+      "pfn": "19886SeavenStudio.Brotato_fahzzgrzfd3xc",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Brotato",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.34767.14130976257579640.bd7a2231-2a21-4516-807a-46a50286744a.614cc94b-88ac-4943-bbbd-b73979590c69",
+      "mediaItemType": "Application",
+      "modernTitleId": "2008767227",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 26,
+        "totalAchievements": 0,
+        "currentGamerscore": 165,
+        "totalGamerscore": 1465,
+        "progressPercentage": 11,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-09-09T03:55:46.8747342Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1634930870",
+      "pfn": "SLOCLAP.ProjectRuntime_cse8z5zpmcvkt",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "REMATCH",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.32652.14036668029170653.97838000-87b6-4a56-9c79-e4eddcea3b6f.0e8acd37-4ade-4b98-b9a1-3ce6befe26d8",
+      "mediaItemType": "Application",
+      "modernTitleId": "1634930870",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 4,
+        "totalAchievements": 0,
+        "currentGamerscore": 25,
+        "totalGamerscore": 1000,
+        "progressPercentage": 2,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-09-08T23:30:52.762202Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1997835037",
+      "pfn": "6516StrangeScaffold.IAmYourBeast_w86fhyz8kt4rr",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "I Am Your Beast",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.33334.14208859939056310.d1ec68da-591a-444e-932d-068d9ca0f8b5.30aa1dee-39bf-4315-b6e1-40128fecc8f5",
+      "mediaItemType": "Application",
+      "modernTitleId": "1997835037",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 7,
+        "totalAchievements": 0,
+        "currentGamerscore": 140,
+        "totalGamerscore": 1000,
+        "progressPercentage": 14,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-09-07T23:50:32.2852095Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
       "titleId": "2140933132",
       "pfn": null,
       "bingId": null,
@@ -29,7 +194,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-08-26T04:43:46.3464006Z",
+        "lastTimePlayed": "2025-09-05T03:43:37.8834337Z",
         "visible": true,
         "canHide": true
       },
@@ -39,6 +204,47 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "None"
+    },
+    {
+      "titleId": "1829869520",
+      "pfn": "Microsoft.Pender_8wekyb3d8bbwe",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Gears of War: Reloaded",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.61144.14083498106527717.baf556ff-4380-4b5b-9e66-afb4977d6535.4a859985-0b7f-4da2-a9fe-a5e2e8296319",
+      "mediaItemType": "Application",
+      "modernTitleId": "1829869520",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 5,
+        "totalAchievements": 0,
+        "currentGamerscore": 90,
+        "totalGamerscore": 1250,
+        "progressPercentage": 7,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 3
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-09-04T07:13:13.1572974Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1820250788",
@@ -68,7 +274,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-08-26T01:18:10.5946326Z",
+        "lastTimePlayed": "2025-09-04T01:39:00.9160041Z",
         "visible": true,
         "canHide": true
       },
@@ -699,7 +905,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.44529.13966330883349940.04429733-dfe9-4aac-bee6-505b6bbb4f65.aaacfbc8-bf11-456d-8c70-f0c3f05c4b95",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.39168.13966330883349940.7b471433-c456-43ce-801f-913824e58e51.42542674-8ebb-4936-8a8d-bb427c9f654f",
       "mediaItemType": "Application",
       "modernTitleId": "2001700854",
       "isBundle": false,
@@ -1264,7 +1470,7 @@
         "currentAchievements": 0,
         "totalAchievements": 0,
         "currentGamerscore": 0,
-        "totalGamerscore": 1000,
+        "totalGamerscore": 1375,
         "progressPercentage": 0,
         "sourceVersion": 2
       },
@@ -1327,47 +1533,6 @@
       "contentBoards": null,
       "xboxLiveTier": "Full",
       "isStreamable": true
-    },
-    {
-      "titleId": "1161890069",
-      "pfn": null,
-      "bingId": "66acd000-77fe-1000-9115-d80245410915",
-      "windowsPhoneProductId": null,
-      "name": "FIGHT NIGHT CHAMPION",
-      "type": "Game",
-      "devices": [
-        "Xbox360",
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.43877.69068534869269909.2e5bd713-07e4-4ab3-ab98-5c3b344e3c50.bee59007-7def-4791-b9e7-891669c1465d",
-      "mediaItemType": "Xbox360Game",
-      "modernTitleId": "541339008",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 10,
-        "totalAchievements": 53,
-        "currentGamerscore": 130,
-        "totalGamerscore": 1150,
-        "progressPercentage": 11,
-        "sourceVersion": 1
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2024-12-19T21:03:32.194312Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
     },
     {
       "titleId": "1973635123",
@@ -5763,7 +5928,7 @@
       "devices": [
         "PC"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.42905.14134992626562533.d9bed535-991f-4c52-bc9c-8f379c4cb2df.14fffded-6047-4020-aa0b-a26eda4df084",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.43016.14134992626562533.ce913033-e20b-4b6d-8e72-d46f02aef995.3bc4722a-495c-4b8c-aeda-e35fe3055ac3",
       "mediaItemType": "Application",
       "modernTitleId": "144389848",
       "isBundle": false,
@@ -6600,7 +6765,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
+      "windowsPhoneProductId": null,
       "name": "DUET",
       "type": "Game",
       "devices": [
