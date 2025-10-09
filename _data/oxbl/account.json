@@ -1,5 +1,4 @@
 {
-  "$type": 3,
   "profileUsers": [
     {
       "id": "2533274804693417",
@@ -11,7 +10,7 @@
         },
         {
           "id": "Gamerscore",
-          "value": "55499"
+          "value": "55709"
         },
         {
           "id": "Gamertag",
