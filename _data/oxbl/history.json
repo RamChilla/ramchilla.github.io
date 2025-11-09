@@ -2,6 +2,182 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "1265757851",
+      "pfn": "Ubisoft.5e1ef5d0-dbb5-4aa7-ba1b-4997cb81d120_ngz4m417e0mpw",
+      "bingId": "4bf57e2c-173a-4764-bee7-fe93e0613204",
+      "serviceConfigId": "1e1b0100-43ce-4980-be86-f7484b71ee9b",
+      "windowsPhoneProductId": null,
+      "name": "Trials Fusion",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.26754.71395082567433528.16735f42-b6d7-4b47-87c2-5eb0e8defe49.8247dcd7-6e6b-456b-94a4-7a58b6b7c88a",
+      "mediaItemType": "Application",
+      "modernTitleId": "1265757851",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 50,
+        "totalGamerscore": 2750,
+        "progressPercentage": 2,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-11-06T02:59:46.665605Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "816351210",
+      "pfn": "Ubisoft.RiskUrbanAssault_ngz4m417e0mpw",
+      "bingId": null,
+      "serviceConfigId": "e2ba0100-5cf5-4416-9fc1-f95130a887ea",
+      "windowsPhoneProductId": null,
+      "name": "Risk: Urban Assault",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.25594.70839690240715142.f15caf94-16cc-494d-8e3d-9a13c83cc179.69f11b6b-d276-488b-8a93-574ae17f3855",
+      "mediaItemType": "Application",
+      "modernTitleId": "816351210",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 1,
+        "totalAchievements": 0,
+        "currentGamerscore": 50,
+        "totalGamerscore": 1000,
+        "progressPercentage": 5,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-11-06T01:29:45.3269535Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "558797228",
+      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+      "serviceConfigId": "90c40100-9123-47d6-bc6b-35d3214e91ac",
+      "windowsPhoneProductId": null,
+      "name": "Rocket League®",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.33922.65187692735347017.570b285d-e5b3-4030-9530-47243e7b82f8.23b66d65-1142-4b31-b73d-8b1118a7e8fb",
+      "mediaItemType": "Application",
+      "modernTitleId": "558797228",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 38,
+        "totalAchievements": 0,
+        "currentGamerscore": 1010,
+        "totalGamerscore": 2200,
+        "progressPercentage": 46,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-10-13T01:03:40.0979834Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "2001700854",
+      "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
+      "windowsPhoneProductId": null,
+      "name": "Call of Duty®",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.55751.13966330883349940.1fbd2137-846f-4864-9f05-7204dc1c5693.b6dd779f-ea39-4ed2-8784-964aa58c744a",
+      "mediaItemType": "Application",
+      "modernTitleId": "2001700854",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 37,
+        "totalAchievements": 0,
+        "currentGamerscore": 920,
+        "totalGamerscore": 3000,
+        "progressPercentage": 31,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-10-13T00:51:15.2427963Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
       "titleId": "1778348973",
       "pfn": "RockstarGamesInc.GrandTheftAutoV_k2ss7vbb13xte",
       "bingId": null,
@@ -17,11 +193,11 @@
       "modernTitleId": "1778348973",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 12,
+        "currentAchievements": 13,
         "totalAchievements": 0,
-        "currentGamerscore": 185,
+        "currentGamerscore": 205,
         "totalGamerscore": 1750,
-        "progressPercentage": 11,
+        "progressPercentage": 12,
         "sourceVersion": 2
       },
       "stats": {
@@ -32,7 +208,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-10-08T01:12:54.4349991Z",
+        "lastTimePlayed": "2025-10-12T02:47:22.3585405Z",
         "visible": true,
         "canHide": false
       },
@@ -128,49 +304,6 @@
       "xboxLiveTier": "None"
     },
     {
-      "titleId": "558797228",
-      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-      "serviceConfigId": "90c40100-9123-47d6-bc6b-35d3214e91ac",
-      "windowsPhoneProductId": null,
-      "name": "Rocket League®",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.33922.65187692735347017.570b285d-e5b3-4030-9530-47243e7b82f8.23b66d65-1142-4b31-b73d-8b1118a7e8fb",
-      "mediaItemType": "Application",
-      "modernTitleId": "558797228",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 38,
-        "totalAchievements": 0,
-        "currentGamerscore": 1010,
-        "totalGamerscore": 2200,
-        "progressPercentage": 46,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-09-29T01:25:21.5176919Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
-    },
-    {
       "titleId": "1820250788",
       "pfn": null,
       "bingId": null,
@@ -246,51 +379,6 @@
       "images": null,
       "titleHistory": {
         "lastTimePlayed": "2025-09-16T19:41:38.5853686Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
-    },
-    {
-      "titleId": "2001700854",
-      "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
-      "bingId": null,
-      "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
-      "windowsPhoneProductId": null,
-      "name": "Call of Duty®",
-      "type": "Game",
-      "devices": [
-        "PC",
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.55751.13966330883349940.1fbd2137-846f-4864-9f05-7204dc1c5693.b6dd779f-ea39-4ed2-8784-964aa58c744a",
-      "mediaItemType": "Application",
-      "modernTitleId": "2001700854",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 37,
-        "totalAchievements": 0,
-        "currentGamerscore": 920,
-        "totalGamerscore": 3000,
-        "progressPercentage": 31,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": true
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-09-16T18:08:15.0150471Z",
         "visible": true,
         "canHide": false
       },
@@ -579,7 +667,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.9523.70702278257994163.5ed2546f-dbdd-4a58-8894-2941cb42499b.5e61d32b-cf6b-47c8-9058-cfdbc1c0a5a6",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.39764.70702278257994163.3d088e0b-6bc1-42ac-9ea3-09af1e621704.e21b385f-5dd3-4e2d-99a7-05505d503b77",
       "mediaItemType": "Application",
       "modernTitleId": "267695549",
       "isBundle": false,
@@ -2663,7 +2751,7 @@
       "devices": [
         "PC"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.42935.13510798885735219.8eacc7d3-814e-4494-a5c5-1ab4cc07e271.f4290b87-32f3-4292-be44-13b45485fce5",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.31326.13510798885735219.3dfb176a-2479-4b17-ab6e-418794f3932d.a8aae002-3be2-4cd4-9ca3-b3e2e7e14882",
       "mediaItemType": "Application",
       "modernTitleId": "896928775",
       "isBundle": false,
@@ -6009,7 +6097,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.53720.71371076658790719.8847fce7-6f7e-46ad-b80e-1824ff18735b.786f83ae-b66c-47e6-9e93-d6d43fa190bd",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.50471.71371076658790719.b7802ba2-8dec-4156-bdb5-fec58917a00f.5b69dd97-7f3e-4421-a30c-4321ed1ac571",
       "mediaItemType": "Application",
       "modernTitleId": "175227487",
       "isBundle": false,
@@ -6821,50 +6909,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
-    },
-    {
-      "titleId": "1265757851",
-      "pfn": "Ubisoft.5e1ef5d0-dbb5-4aa7-ba1b-4997cb81d120_ngz4m417e0mpw",
-      "bingId": "4bf57e2c-173a-4764-bee7-fe93e0613204",
-      "serviceConfigId": "1e1b0100-43ce-4980-be86-f7484b71ee9b",
-      "windowsPhoneProductId": null,
-      "name": "Trials Fusion",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.26754.71395082567433528.16735f42-b6d7-4b47-87c2-5eb0e8defe49.8247dcd7-6e6b-456b-94a4-7a58b6b7c88a",
-      "mediaItemType": "Application",
-      "modernTitleId": "1265757851",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 2,
-        "totalAchievements": 0,
-        "currentGamerscore": 50,
-        "totalGamerscore": 2750,
-        "progressPercentage": 2,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": true
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2019-11-23T19:11:26.1464616Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
     },
     {
       "titleId": "972210258",
@@ -14216,7 +14260,7 @@
       "titleId": "1297287142",
       "pfn": null,
       "bingId": "66acd000-77fe-1000-9115-d8024d5307e6",
-      "serviceConfigId": "103b0100-1bf8-4da6-89a5-39a533b90e64",
+      "serviceConfigId": "a8090100-8394-4014-9450-874b3705c68c",
       "windowsPhoneProductId": null,
       "name": "Halo 3",
       "type": "Game",
