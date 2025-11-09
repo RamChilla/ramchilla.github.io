@@ -1,141 +1,157 @@
 {
-    "revised": "today",
-    "firstname": "Rami",
-    "lastname": "Hassan",
-    "displayname": "Rami",
-    "pronouns": "He/Him",
-    "role": "Web Software Engineer",
-    "contact": {
-        "websiteURL": "https://new.ramihassan.net",
-        "geo": "Toledo, Ohio"
-    },
-    "sections": [
-        {
-            "name": "summary",
-            "title": "Summary",
-            "text": "Thoughtful and detail-oriented MBA-IS graduate with eighteen years of experience in full stack web development seeking a position to create value and achieve organizational goals through problem solving, resource alignment, planning, execution, and analysis."
-        },
-        {
-            "name": "education",
-            "title": "Education",
-            "items": [
-                {
-                    "school": "The University of Toledo",
-                    "location": "Toledo, Ohio",
-                    "degrees": [
-                        {
-                            "title": "MBA Information Systems and Administration",
-                            "date": "2022"
-                        },
-                        {
-                            "title": "Advanced Leadership Academy Graduate",
-                            "date": "2020"
-                        },
-                        {
-                            "title": "BA Communication",
-                            "date": "2011"
-                        },
-                        {
-                            "title": "BA Psychology",
-                            "date": "2010"
-                        }
-                    ]
-                },
-                {
-                    "school": "Umbraco Academy",
-                    "location": "Chicago, IL",
-                    "degrees": [
-                        {
-                            "title": "Umbraco Expert Certification",
-                            "date": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "skills",
-            "title": "Skills",
-            "items": ["HTML", "SCSS/CSS", "PHP", "JavaScript", "SQL/MySQL", "ASP.NET", "Razor MVC", "OOP", "SEO", "WCAG"]
-        },
-        {
-            "name": "technology",
-            "title": "Platforms &amp; Technology",
-            "items": ["Wordpress", "Umbraco", "Jekyll", "Zendesk", "Grav", "NodeJS", "Gutenberg", "Bootstrap", "Bulma", "jQuery", "React", "Vue", "MacOS", "Windows", "Linux"]
-        },
-        {
-            "name": "experience",
-            "title": "Experience",
-            "items": [
-                {
-                    "title": "3.7 Designs, LLC",
-                    "beginDate": "November 2020",
-                    "endDate": "February 2025",
-                    "position": "Senior Web Developer",
-                    "blurb": "Wordpress Development, Content Management Strategy, Operations",
-                    "highlights": [
-                        "Developed repeatable custom blocks and led transition from traditional Wordpress templating to streamline and reduce time spent on content management and quality assurance.",
-                        "Worked with cross functional teams in a fast-paced environment to facilitate business operations and client workflows with newly learned technologies.",
-                        "Defined and analyzed business segment values, client portfolio values, and customer risk assessments."
-                    ]
-                },
-                {
-                    "title": "Continuing Education",
-                    "beginDate": "Summer 2018",
-                    "endDate": "Spring 2022",
-                    "position": "Full Time Student",
-                    "blurb": "",
-                    "highlights": [
-                        "Applied, studied, and passed GMAT within 2-week preparation window.",
-                        "Planned and provisioned financial resources and tuition.",
-                        "Received Advanced Leadership Academy nomination and scored in the 98th percentile for the businsess simulation capstone."
-                    ]
-                },
-                {
-                    "title": "AVATAR, LLC",
-                    "beginDate": "December 2014",
-                    "endDate": "May 2018",
-                    "position": "Senior Web Developer",
-                    "blurb": "Content Management Strategy, Data Design",
-                    "highlights": [
-                        "Designed and developed content management data solutions and created systems to manage complex and specialized CMS data.", 
-                        "Coordinated repeatable e-commerce plugin integrating a catalog data solution provider with a shopping cart system.",
-                        "Provided enhanced support and training to new employees, managers, and clients while coordinating six to ten projects per month."
-                    ]
-                },
-                {
-                    "title": "Beyond Gaming, LLC",
-                    "beginDate": "January 2013",
-                    "endDate": "August 2013",
-                    "position": "Web Developer | Graphic Designer",
-                    "blurb": "",
-                    "highlights": [
-                        "Maintained, optimized, and implemented a 31% reduction in CSS without altering website presentation or experience.",
-                        "Created website graphics and featured material for national video game tournaments including Ubisoft’s ShootMania, TrackMania, and Rayman Legends.",
-                        "Designed and coded MVC views and HTML email templates for match notifications, challenges, and schedules."
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "related",
-            "title": "Related",
-            "items": [
-                {
-                    "title": "Girl Develop It, Toledo Chapter",
-                    "beginDate": "2016",
-                    "endDate": "2019",
-                    "position": "Instructor",
-                    "blurb": "Instructed community courses covering aspects of web development."
-                },
-                {
-                    "title": "Notre Dame Academy Summer Camps",
-                    "beginDate": "2016",
-                    "endDate": "2017",
-                    "position": "Instructor",
-                    "blurb": "Created curriculum and instructed two-week summer camps for adolescence and teenagers."
-                }
-            ]
-        }
-    ]
+	"revised": "today",
+	"firstname": "Rami",
+	"lastname": "Hassan",
+	"displayname": "Rami",
+	"pronouns": "He/Him",
+	"role": "Web Software Engineer",
+	"contact": {
+		"websiteURL": "https://new.ramihassan.net",
+		"geo": "Toledo, Ohio"
+	},
+	"sections": [
+		{
+			"name": "summary",
+			"title": "Summary",
+			"text": "Thoughtful and detail-oriented MBA-IS graduate with eighteen years of experience in full stack web development seeks to create value and achieve organizational goals through problem solving, resource alignment, planning, execution, and analysis."
+		},
+		{
+			"name": "education",
+			"title": "Education",
+			"items": [
+				{
+					"school": "The University of Toledo",
+					"location": "Toledo, Ohio",
+					"degrees": [
+						{
+							"title": "MBA Information Systems and Administration",
+							"date": "2022"
+						},
+						{
+							"title": "Advanced Leadership Academy Graduate",
+							"date": "2020"
+						},
+						{
+							"title": "BA Communication",
+							"date": "2011"
+						},
+						{
+							"title": "BA Psychology",
+							"date": "2010"
+						}
+					]
+				},
+				{
+					"school": "Umbraco Academy",
+					"location": "Chicago, IL",
+					"degrees": [
+						{
+							"title": "Umbraco Expert Certification",
+							"date": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "skills",
+			"title": "Skills",
+			"items": ["HTML", "SCSS/CSS", "PHP", "JavaScript", "SQL/MySQL", "ASP.NET", "Razor MVC", "OOP", "SEO", "WCAG"]
+		},
+		{
+			"name": "technology",
+			"title": "Platforms &amp; Technology",
+			"items": [
+				"Wordpress",
+				"Umbraco",
+				"Jekyll",
+				"Zendesk",
+				"Grav",
+				"NodeJS",
+				"Gutenberg",
+				"Bootstrap",
+				"Bulma",
+				"jQuery",
+				"React",
+				"Vue",
+				"MacOS",
+				"Windows",
+				"Linux"
+			]
+		},
+		{
+			"name": "experience",
+			"title": "Experience",
+			"items": [
+				{
+					"title": "3.7 Designs, LLC",
+					"beginDate": "November 2020",
+					"endDate": "February 2025",
+					"position": "Senior Web Developer",
+					"blurb": "Wordpress Development, Content Management Strategy, Operations",
+					"highlights": [
+						"Developed repeatable custom blocks and led transition from traditional Wordpress templating to streamline and reduce time spent on content management and quality assurance.",
+						"Worked with cross functional teams in a fast-paced environment to facilitate business operations and client workflows with newly learned technologies.",
+						"Defined and analyzed business segment values, client portfolio values, and customer risk assessments."
+					]
+				},
+				{
+					"title": "Continuing Education",
+					"beginDate": "Summer 2018",
+					"endDate": "Spring 2022",
+					"position": "Full Time Student",
+					"blurb": "",
+					"highlights": [
+						"Applied, studied, and passed GMAT within 2-week preparation window.",
+						"Planned and provisioned financial resources and tuition.",
+						"Received Advanced Leadership Academy nomination and scored in the 98th percentile for the businsess simulation capstone."
+					]
+				},
+				{
+					"title": "AVATAR, LLC",
+					"beginDate": "December 2014",
+					"endDate": "May 2018",
+					"position": "Senior Web Developer",
+					"blurb": "Content Management Strategy, Data Design",
+					"highlights": [
+						"Designed and developed content management data solutions and created systems to manage complex and specialized CMS data.",
+						"Coordinated repeatable e-commerce plugin integrating a catalog data solution provider with a shopping cart system.",
+						"Provided enhanced support and training to new employees, managers, and clients while coordinating six to ten projects per month."
+					]
+				},
+				{
+					"title": "Beyond Gaming, LLC",
+					"beginDate": "January 2013",
+					"endDate": "August 2013",
+					"position": "Web Developer | Graphic Designer",
+					"blurb": "",
+					"highlights": [
+						"Maintained, optimized, and implemented a 31% reduction in CSS without altering website presentation or experience.",
+						"Created website graphics and featured material for national video game tournaments including Ubisoft’s ShootMania, TrackMania, and Rayman Legends.",
+						"Designed and coded MVC views and HTML email templates for match notifications, challenges, and schedules."
+					]
+				}
+			]
+		},
+		{
+			"name": "related",
+			"title": "Related",
+			"items": [
+				{
+					"title": "Girl Develop It, Toledo Chapter",
+					"beginDate": "2016",
+					"endDate": "2019",
+					"position": "Instructor",
+					"blurb": "Instructed community courses covering aspects of web development."
+				},
+				{
+					"title": "Notre Dame Academy Summer Camps",
+					"beginDate": "2016",
+					"endDate": "2017",
+					"position": "Instructor",
+					"blurb": "Created curriculum and instructed two-week summer camps for adolescence and teenagers."
+				}
+			]
+		}
+	]
 }
