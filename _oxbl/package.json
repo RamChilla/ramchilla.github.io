@@ -1,7 +1,7 @@
 {
 	"name": "xbli",
 	"version": "1.0.0",
-	"main": "z_getXBL.js",
+	"main": "getOpenXBLData.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node getOpenXBLData.js"

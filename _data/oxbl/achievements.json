@@ -2,6 +2,169 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "558797228",
+      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+      "windowsPhoneProductId": null,
+      "name": "Rocket League®",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.41891.65187692735347017.466ce3cc-6982-4d89-9b57-750e70bcfe09.620b6afc-dab1-47fa-8f17-558c156ff7f3",
+      "mediaItemType": "Application",
+      "modernTitleId": "558797228",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 39,
+        "totalAchievements": 0,
+        "currentGamerscore": 1030,
+        "totalGamerscore": 2200,
+        "progressPercentage": 47,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-12-11T21:03:58.2658641Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "1702731390",
+      "pfn": "18814NAISU.SupermarketSimulator_79azw0v9jg4wg",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Supermarket Simulator",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.54307.13763814357241001.e01392b6-0898-4953-8acf-030f03590bbb.5b34432d-5d8c-487c-8529-dec27053282d",
+      "mediaItemType": "Application",
+      "modernTitleId": "1702731390",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 100,
+        "totalGamerscore": 1000,
+        "progressPercentage": 10,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-12-05T04:57:52.6197239Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1848927238",
+      "pfn": "DevolverDigital.BallxPit_6kzv4j18v0c96",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "BALL x PIT",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.21378.13835016463632115.e71b68fd-01a3-4f56-bac2-9c7e69d8f4f9.5d55727c-c987-47c7-be91-d6979a30a576",
+      "mediaItemType": "Application",
+      "modernTitleId": "1848927238",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 30,
+        "totalGamerscore": 1000,
+        "progressPercentage": 3,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-11-17T18:21:06.9875925Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "816351210",
+      "pfn": "Ubisoft.RiskUrbanAssault_ngz4m417e0mpw",
+      "bingId": null,
+      "windowsPhoneProductId": null,
+      "name": "Risk: Urban Assault",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.25594.70839690240715142.f15caf94-16cc-494d-8e3d-9a13c83cc179.69f11b6b-d276-488b-8a93-574ae17f3855",
+      "mediaItemType": "Application",
+      "modernTitleId": "816351210",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 100,
+        "totalGamerscore": 1000,
+        "progressPercentage": 10,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": null,
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-11-10T00:00:19.6794442Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
       "titleId": "1265757851",
       "pfn": "Ubisoft.5e1ef5d0-dbb5-4aa7-ba1b-4997cb81d120_ngz4m417e0mpw",
       "bingId": "4bf57e2c-173a-4764-bee7-fe93e0613204",
@@ -43,87 +206,6 @@
       "isStreamable": true
     },
     {
-      "titleId": "816351210",
-      "pfn": "Ubisoft.RiskUrbanAssault_ngz4m417e0mpw",
-      "bingId": null,
-      "windowsPhoneProductId": null,
-      "name": "Risk: Urban Assault",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.25594.70839690240715142.f15caf94-16cc-494d-8e3d-9a13c83cc179.69f11b6b-d276-488b-8a93-574ae17f3855",
-      "mediaItemType": "Application",
-      "modernTitleId": "816351210",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 1,
-        "totalAchievements": 0,
-        "currentGamerscore": 50,
-        "totalGamerscore": 1000,
-        "progressPercentage": 5,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-11-06T01:29:45.3269535Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
-    },
-    {
-      "titleId": "558797228",
-      "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-      "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-      "windowsPhoneProductId": null,
-      "name": "Rocket League®",
-      "type": "Game",
-      "devices": [
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.33922.65187692735347017.570b285d-e5b3-4030-9530-47243e7b82f8.23b66d65-1142-4b31-b73d-8b1118a7e8fb",
-      "mediaItemType": "Application",
-      "modernTitleId": "558797228",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 38,
-        "totalAchievements": 0,
-        "currentGamerscore": 1010,
-        "totalGamerscore": 2200,
-        "progressPercentage": 46,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": null,
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-10-13T01:03:40.0979834Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full"
-    },
-    {
       "titleId": "2001700854",
       "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
       "bingId": null,
@@ -135,7 +217,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.55751.13966330883349940.1fbd2137-846f-4864-9f05-7204dc1c5693.b6dd779f-ea39-4ed2-8784-964aa58c744a",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.44529.13966330883349940.04429733-dfe9-4aac-bee6-505b6bbb4f65.aaacfbc8-bf11-456d-8c70-f0c3f05c4b95",
       "mediaItemType": "Application",
       "modernTitleId": "2001700854",
       "isBundle": false,
@@ -143,8 +225,8 @@
         "currentAchievements": 37,
         "totalAchievements": 0,
         "currentGamerscore": 920,
-        "totalGamerscore": 3000,
-        "progressPercentage": 31,
+        "totalGamerscore": 4000,
+        "progressPercentage": 23,
         "sourceVersion": 2
       },
       "stats": {
@@ -618,10 +700,11 @@
       "name": "Fortnite",
       "type": "Game",
       "devices": [
+        "PC",
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.39764.70702278257994163.3d088e0b-6bc1-42ac-9ea3-09af1e621704.e21b385f-5dd3-4e2d-99a7-05505d503b77",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.55283.70702278257994163.de4fee3d-c0e1-45bc-b6fd-5787924ecee0.ba85b36f-61ec-41fd-b937-249a05322d59",
       "mediaItemType": "Application",
       "modernTitleId": "267695549",
       "isBundle": false,
@@ -1074,7 +1157,7 @@
         "currentAchievements": 0,
         "totalAchievements": 0,
         "currentGamerscore": 0,
-        "totalGamerscore": 1000,
+        "totalGamerscore": 1475,
         "progressPercentage": 0,
         "sourceVersion": 2
       },
@@ -1753,7 +1836,7 @@
         "currentAchievements": 0,
         "totalAchievements": 0,
         "currentGamerscore": 0,
-        "totalGamerscore": 1375,
+        "totalGamerscore": 1760,
         "progressPercentage": 0,
         "sourceVersion": 2
       },
@@ -2572,7 +2655,7 @@
         "currentAchievements": 37,
         "totalAchievements": 0,
         "currentGamerscore": 640,
-        "totalGamerscore": 2960,
+        "totalGamerscore": 2970,
         "progressPercentage": 22,
         "sourceVersion": 2
       },
@@ -2605,7 +2688,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.1006.63381296256995371.e2f132e0-76e5-4e3e-b878-7731b5ee63c0.33ae915a-edc8-4a5e-b5e7-a78f11cd5366",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.3157.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.1a68790a-c224-4118-a350-fbdc29d2aed5",
       "mediaItemType": "Application",
       "modernTitleId": "171869406",
       "isBundle": false,
@@ -3206,7 +3289,7 @@
         "PC",
         "XboxSeries"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.41859.13979077126806036.b0103740-b30d-4e69-998d-eb321dc40a11.a6ee5765-515b-4dbb-a4a3-6209842697ba",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.12627.13979077126806036.a2655d57-9f8b-422e-a646-07fca70ec826.44420f18-88a4-4936-877b-48f92b3f1c10",
       "mediaItemType": "Application",
       "modernTitleId": "1931911684",
       "isBundle": false,
@@ -5201,7 +5284,7 @@
         "currentAchievements": 7,
         "totalAchievements": 0,
         "currentGamerscore": 65,
-        "totalGamerscore": 5910,
+        "totalGamerscore": 6060,
         "progressPercentage": 1,
         "sourceVersion": 2
       },
@@ -6326,7 +6409,7 @@
       "devices": [
         "PC"
       ],
-      "displayImage": "http://store-images.s-microsoft.com/image/apps.43016.14134992626562533.ce913033-e20b-4b6d-8e72-d46f02aef995.3bc4722a-495c-4b8c-aeda-e35fe3055ac3",
+      "displayImage": "http://store-images.s-microsoft.com/image/apps.43335.14134992626562533.76d72dbc-c6c1-4569-a076-6458bcaa85fb.fe4226c5-a70c-4c5f-b0b9-8da22ec6cb10",
       "mediaItemType": "Application",
       "modernTitleId": "144389848",
       "isBundle": false,
