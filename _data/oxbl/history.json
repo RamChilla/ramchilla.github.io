@@ -18,11 +18,11 @@
       "modernTitleId": "558797228",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 39,
+        "currentAchievements": 41,
         "totalAchievements": 0,
-        "currentGamerscore": 1030,
+        "currentGamerscore": 1090,
         "totalGamerscore": 2200,
-        "progressPercentage": 47,
+        "progressPercentage": 50,
         "sourceVersion": 2
       },
       "stats": {
@@ -33,7 +33,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-12-11T21:03:58.2658641Z",
+        "lastTimePlayed": "2025-12-23T02:37:22.2911697Z",
         "visible": true,
         "canHide": false
       },
@@ -43,6 +43,47 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "2086897871",
+      "pfn": null,
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-00007c6388cf",
+      "windowsPhoneProductId": null,
+      "name": "One Finger Death Punch 2",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2025-12-16T00:33:21.6271091Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null
     },
     {
       "titleId": "1702731390",
@@ -490,7 +531,7 @@
         "PC",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.46545.13628462776883363.ac955f0e-419a-433f-8d1b-a0a584a1deaf.e44cd53b-6f1b-4401-ad0f-f1ca943312fe",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.21048.13628462776883363.0af3eed4-2826-4232-8e6b-cf47db97f2ee.838d4bd0-24c0-40c8-8fc1-a2e43f486cd4",
       "mediaItemType": "Application",
       "modernTitleId": "1744726864",
       "isBundle": false,
@@ -564,8 +605,7 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
+      "xboxLiveTier": "Full"
     },
     {
       "titleId": "1161890069",
@@ -756,7 +796,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.55283.70702278257994163.de4fee3d-c0e1-45bc-b6fd-5787924ecee0.ba85b36f-61ec-41fd-b937-249a05322d59",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.57100.70702278257994163.09357a7e-dc4a-4fb6-83d2-1e76499d3572.f70a26c9-d472-42f2-8b27-6fa1fffcdd02",
       "mediaItemType": "Application",
       "modernTitleId": "267695549",
       "isBundle": false,
@@ -817,7 +857,7 @@
         "sourceVersion": 3
       },
       "gamePass": {
-        "isGamePass": true
+        "isGamePass": false
       },
       "images": null,
       "titleHistory": {
@@ -1003,47 +1043,6 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "None"
-    },
-    {
-      "titleId": "2086897871",
-      "pfn": null,
-      "bingId": null,
-      "serviceConfigId": "00000000-0000-0000-0000-00007c6388cf",
-      "windowsPhoneProductId": null,
-      "name": "One Finger Death Punch 2",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-06-12T04:27:23.1638144Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null
     },
     {
       "titleId": "1903313113",
@@ -2884,7 +2883,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.3157.63381296256995371.9fd79b64-0e52-454c-9406-562322170d22.1a68790a-c224-4118-a350-fbdc29d2aed5",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.15877.63381296256995371.c146102b-90d3-4b86-a6d7-d80fd315b526.f78389ba-c26b-4c35-ae16-30413bfd1d8f",
       "mediaItemType": "Application",
       "modernTitleId": "171869406",
       "isBundle": false,
@@ -7737,7 +7736,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": null,
+      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
       "name": "DUET",
       "type": "Game",
       "devices": [
@@ -7779,7 +7778,7 @@
       "titleId": "1903007727",
       "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
       "bingId": null,
-      "windowsPhoneProductId": null,
+      "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
       "name": "Subway Surfers",
       "type": "Game",
       "devices": [
@@ -13672,7 +13671,7 @@
       "titleId": "1414793202",
       "pfn": null,
       "bingId": "66acd000-77fe-1000-9115-d802545407f2",
-      "serviceConfigId": "6f710100-41ce-4843-aa7c-9d461699bc7f",
+      "serviceConfigId": "81120100-b25b-442d-83e3-b5c031a127ef",
       "windowsPhoneProductId": null,
       "name": "GTA IV",
       "type": "Game",
