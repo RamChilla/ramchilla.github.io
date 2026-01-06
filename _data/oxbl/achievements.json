@@ -17,11 +17,11 @@
       "modernTitleId": "558797228",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 41,
+        "currentAchievements": 42,
         "totalAchievements": 0,
-        "currentGamerscore": 1090,
+        "currentGamerscore": 1115,
         "totalGamerscore": 2200,
-        "progressPercentage": 50,
+        "progressPercentage": 51,
         "sourceVersion": 2
       },
       "stats": {
@@ -30,7 +30,7 @@
       "gamePass": null,
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2025-12-23T02:37:22.2911697Z",
+        "lastTimePlayed": "2026-01-03T01:49:49.2998114Z",
         "visible": true,
         "canHide": false
       },
@@ -563,7 +563,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1161890069",
@@ -7247,7 +7248,7 @@
       "titleId": "1903007727",
       "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
       "bingId": null,
-      "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
+      "windowsPhoneProductId": null,
       "name": "Subway Surfers",
       "type": "Game",
       "devices": [
