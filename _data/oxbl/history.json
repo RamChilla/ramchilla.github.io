@@ -2,6 +2,48 @@
   "xuid": "2533274804693417",
   "titles": [
     {
+      "titleId": "1820250788",
+      "pfn": null,
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-00006c7ed2a4",
+      "windowsPhoneProductId": null,
+      "name": "Fortnite",
+      "type": "Game",
+      "devices": [
+        "Win32"
+      ],
+      "displayImage": "https://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
+      "mediaItemType": "Application",
+      "modernTitleId": null,
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 0,
+        "progressPercentage": 0,
+        "sourceVersion": 0
+      },
+      "stats": {
+        "sourceVersion": 0
+      },
+      "gamePass": {
+        "isGamePass": false
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-01-30T03:11:11.9420001Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "None"
+    },
+    {
       "titleId": "558797228",
       "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
       "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
@@ -18,11 +60,11 @@
       "modernTitleId": "558797228",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 42,
+        "currentAchievements": 46,
         "totalAchievements": 0,
-        "currentGamerscore": 1115,
+        "currentGamerscore": 1260,
         "totalGamerscore": 2200,
-        "progressPercentage": 51,
+        "progressPercentage": 57,
         "sourceVersion": 2
       },
       "stats": {
@@ -33,7 +75,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2026-01-03T01:49:49.2998114Z",
+        "lastTimePlayed": "2026-01-30T02:07:55.4809321Z",
         "visible": true,
         "canHide": false
       },
@@ -43,6 +85,182 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "1675325475",
+      "pfn": "DotEmu.DropDuchy_map6zyh9ym1xy",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-000063db7023",
+      "windowsPhoneProductId": null,
+      "name": "Drop Duchy - Complete Edition",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.43658.14488445922975122.1488f171-486a-4fe8-a1a2-81caa1fce1ef.32b29cf7-e84d-4baa-b7ef-4b1733816185",
+      "mediaItemType": "Application",
+      "modernTitleId": "1675325475",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 2,
+        "totalAchievements": 0,
+        "currentGamerscore": 20,
+        "totalGamerscore": 1000,
+        "progressPercentage": 2,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-01-29T20:55:12.1948955Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "1696147865",
+      "pfn": "miHoYo.ZenlessZoneZero_43wdbdsrrv52a",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-000065192999",
+      "windowsPhoneProductId": null,
+      "name": "Zenless Zone Zero",
+      "type": "Game",
+      "devices": [
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.48701.13974579424110118.4974d847-ebfc-46a6-9bb2-ec86dabce3d7.2e20a48b-015a-4a31-bf32-7c32f276d4fc",
+      "mediaItemType": "Application",
+      "modernTitleId": "1696147865",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 1540,
+        "progressPercentage": 0,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 3
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-01-26T23:24:40.9751008Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "267695549",
+      "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+      "bingId": null,
+      "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+      "windowsPhoneProductId": null,
+      "name": "Fortnite",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.12130.70702278257994163.7e7fd45b-c76f-41fc-bf64-898fcf582002.4588aac7-b666-4c6c-b60f-32b0a563dcf6",
+      "mediaItemType": "Application",
+      "modernTitleId": "267695549",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 0,
+        "totalAchievements": 0,
+        "currentGamerscore": 0,
+        "totalGamerscore": 1000,
+        "progressPercentage": 0,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-01-25T04:57:39.6479096Z",
+        "visible": true,
+        "canHide": true
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "2031971566",
+      "pfn": "rokapublish.AGameAboutDiggingAHole_6q4vfhsywtz4j",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-0000791d6cee",
+      "windowsPhoneProductId": null,
+      "name": "A Game About Digging A Hole™",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.8829.13643221603035245.ddde7541-3c1c-43b1-8b36-964427f91e73.551ddcff-9f2d-41cd-8802-52cbaaef2fd8",
+      "mediaItemType": "Application",
+      "modernTitleId": "2031971566",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 1,
+        "totalAchievements": 0,
+        "currentGamerscore": 50,
+        "totalGamerscore": 1000,
+        "progressPercentage": 5,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-01-19T06:53:12.6894121Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "2086897871",
@@ -433,48 +651,6 @@
       "xboxLiveTier": "None"
     },
     {
-      "titleId": "1820250788",
-      "pfn": null,
-      "bingId": null,
-      "serviceConfigId": "00000000-0000-0000-0000-00006c7ed2a4",
-      "windowsPhoneProductId": null,
-      "name": "Fortnite",
-      "type": "Game",
-      "devices": [
-        "Win32"
-      ],
-      "displayImage": "https://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1Wfo9HelqX94jEOqx0jaH_2eeVXbAXV8bqo6crneETvT.w--",
-      "mediaItemType": "Application",
-      "modernTitleId": null,
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 0,
-        "progressPercentage": 0,
-        "sourceVersion": 0
-      },
-      "stats": {
-        "sourceVersion": 0
-      },
-      "gamePass": {
-        "isGamePass": false
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-09-28T03:52:02.9080497Z",
-        "visible": true,
-        "canHide": true
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "None"
-    },
-    {
       "titleId": "2008767227",
       "pfn": "19886SeavenStudio.Brotato_fahzzgrzfd3xc",
       "bingId": null,
@@ -775,51 +951,6 @@
         "lastTimePlayed": "2025-09-04T07:13:13.1572974Z",
         "visible": true,
         "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
-    },
-    {
-      "titleId": "267695549",
-      "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-      "bingId": null,
-      "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-      "windowsPhoneProductId": null,
-      "name": "Fortnite",
-      "type": "Game",
-      "devices": [
-        "PC",
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.57100.70702278257994163.09357a7e-dc4a-4fb6-83d2-1e76499d3572.f70a26c9-d472-42f2-8b27-6fa1fffcdd02",
-      "mediaItemType": "Application",
-      "modernTitleId": "267695549",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 0,
-        "totalAchievements": 0,
-        "currentGamerscore": 0,
-        "totalGamerscore": 1000,
-        "progressPercentage": 0,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": true
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2025-08-15T18:16:10.4918562Z",
-        "visible": true,
-        "canHide": true
       },
       "titleRecord": null,
       "detail": null,
@@ -4364,7 +4495,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.543.14457219920156328.7d3b0a9f-c604-494c-88b1-9e91b9d1014c.46b432ba-4a69-468a-bece-c3fdc9608393",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.62946.14457219920156328.7d3b0a9f-c604-494c-88b1-9e91b9d1014c.5eb0ca1f-7fff-4c50-b7cb-3d670be515ae",
       "mediaItemType": "Application",
       "modernTitleId": "1935779345",
       "isBundle": false,
@@ -4955,7 +5086,8 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null,
-      "xboxLiveTier": "Full"
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "2020422759",
