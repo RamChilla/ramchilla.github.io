@@ -18,11 +18,11 @@
       "modernTitleId": "558797228",
       "isBundle": false,
       "achievement": {
-        "currentAchievements": 46,
+        "currentAchievements": 47,
         "totalAchievements": 0,
-        "currentGamerscore": 1260,
+        "currentGamerscore": 1270,
         "totalGamerscore": 2200,
-        "progressPercentage": 57,
+        "progressPercentage": 58,
         "sourceVersion": 2
       },
       "stats": {
@@ -33,7 +33,7 @@
       },
       "images": null,
       "titleHistory": {
-        "lastTimePlayed": "2026-02-24T05:45:31.9213118Z",
+        "lastTimePlayed": "2026-03-07T04:57:36.6777858Z",
         "visible": true,
         "canHide": false
       },
@@ -43,6 +43,139 @@
       "alternateTitleIds": null,
       "contentBoards": null,
       "xboxLiveTier": "Full"
+    },
+    {
+      "titleId": "183968596",
+      "pfn": "Ubisoft.8dc8b24c-1894-45fc-9d45-84b34e4c8b2a_ngz4m417e0mpw",
+      "bingId": null,
+      "serviceConfigId": "550a0100-5ea6-4b60-971f-070a0af72354",
+      "windowsPhoneProductId": null,
+      "name": "UNO™",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.12882.67582047191807640.1f6942f5-d7bc-46df-a9db-2fa15b28dfdf.5f4dad78-5dd6-4c01-ba28-e6837436b5a1",
+      "mediaItemType": "Application",
+      "modernTitleId": "183968596",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 1,
+        "totalAchievements": 0,
+        "currentGamerscore": 10,
+        "totalGamerscore": 1000,
+        "progressPercentage": 1,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-03-07T04:38:37.6850059Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "2010328709",
+      "pfn": "Ubisoft.AssassinsCreedRift_ngz4m417e0mpw",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-000077d32e85",
+      "windowsPhoneProductId": null,
+      "name": "Assassin's Creed® Mirage",
+      "type": "Game",
+      "devices": [
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5",
+      "mediaItemType": "Application",
+      "modernTitleId": "2010328709",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 18,
+        "totalAchievements": 0,
+        "currentGamerscore": 280,
+        "totalGamerscore": 1260,
+        "progressPercentage": 22,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 1
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-03-07T03:23:44.5212345Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
+    },
+    {
+      "titleId": "2001700854",
+      "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
+      "bingId": null,
+      "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
+      "windowsPhoneProductId": null,
+      "name": "Call of Duty®",
+      "type": "Game",
+      "devices": [
+        "PC",
+        "XboxOne",
+        "XboxSeries"
+      ],
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.54836.13966330883349940.11992bbd-8e09-48bd-a61d-26246908b0e0.8eef2f31-8299-430d-9b7f-e28f47b46c38",
+      "mediaItemType": "Application",
+      "modernTitleId": "2001700854",
+      "isBundle": false,
+      "achievement": {
+        "currentAchievements": 38,
+        "totalAchievements": 0,
+        "currentGamerscore": 950,
+        "totalGamerscore": 4000,
+        "progressPercentage": 24,
+        "sourceVersion": 2
+      },
+      "stats": {
+        "sourceVersion": 2
+      },
+      "gamePass": {
+        "isGamePass": true
+      },
+      "images": null,
+      "titleHistory": {
+        "lastTimePlayed": "2026-03-01T03:15:07.7203152Z",
+        "visible": true,
+        "canHide": false
+      },
+      "titleRecord": null,
+      "detail": null,
+      "friendsWhoPlayed": null,
+      "alternateTitleIds": null,
+      "contentBoards": null,
+      "xboxLiveTier": "Full",
+      "isStreamable": true
     },
     {
       "titleId": "1161890069",
@@ -101,7 +234,7 @@
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.14480.70702278257994163.f4bbf9e4-8ad8-4c75-bf7b-1d26c8074a46.99e60452-c47c-468e-b9b3-efde7804b227",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.55283.70702278257994163.de4fee3d-c0e1-45bc-b6fd-5787924ecee0.ba85b36f-61ec-41fd-b937-249a05322d59",
       "mediaItemType": "Application",
       "modernTitleId": "267695549",
       "isBundle": false,
@@ -215,51 +348,6 @@
       "friendsWhoPlayed": null,
       "alternateTitleIds": null,
       "contentBoards": null
-    },
-    {
-      "titleId": "2001700854",
-      "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
-      "bingId": null,
-      "serviceConfigId": "00000000-0000-0000-0000-0000774f87f6",
-      "windowsPhoneProductId": null,
-      "name": "Call of Duty®",
-      "type": "Game",
-      "devices": [
-        "PC",
-        "XboxOne",
-        "XboxSeries"
-      ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.54836.13966330883349940.11992bbd-8e09-48bd-a61d-26246908b0e0.8eef2f31-8299-430d-9b7f-e28f47b46c38",
-      "mediaItemType": "Application",
-      "modernTitleId": "2001700854",
-      "isBundle": false,
-      "achievement": {
-        "currentAchievements": 38,
-        "totalAchievements": 0,
-        "currentGamerscore": 950,
-        "totalGamerscore": 4000,
-        "progressPercentage": 24,
-        "sourceVersion": 2
-      },
-      "stats": {
-        "sourceVersion": 2
-      },
-      "gamePass": {
-        "isGamePass": true
-      },
-      "images": null,
-      "titleHistory": {
-        "lastTimePlayed": "2026-02-02T02:11:10.6388742Z",
-        "visible": true,
-        "canHide": false
-      },
-      "titleRecord": null,
-      "detail": null,
-      "friendsWhoPlayed": null,
-      "alternateTitleIds": null,
-      "contentBoards": null,
-      "xboxLiveTier": "Full",
-      "isStreamable": true
     },
     {
       "titleId": "1675325475",
@@ -5008,13 +5096,13 @@
       "bingId": "b0725d24-bc6d-4d63-9604-d3f17fe594ed",
       "serviceConfigId": "4c5b0100-b87d-4442-9d9b-cb81373d69b4",
       "windowsPhoneProductId": null,
-      "name": "Tom Clancy's Rainbow Six Siege X",
+      "name": "Tom Clancy's Rainbow Six Siege",
       "type": "Game",
       "devices": [
         "XboxOne",
         "XboxSeries"
       ],
-      "displayImage": "https://store-images.s-microsoft.com/image/apps.45900.65170969132831011.072ac0a2-2533-4800-9db3-16a25f017c7e.1cdbbbd1-2c27-4dfa-a6b4-62d8c271027f",
+      "displayImage": "https://store-images.s-microsoft.com/image/apps.48586.65170969132831011.a13a22f3-5325-489a-9982-552262e2f09b.dd7696e9-b093-40a5-a469-189d1d098444",
       "mediaItemType": "Application",
       "modernTitleId": "926771636",
       "isBundle": false,
@@ -7871,7 +7959,7 @@
       "titleId": "1778794320",
       "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
       "bingId": null,
-      "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
+      "windowsPhoneProductId": null,
       "name": "DUET",
       "type": "Game",
       "devices": [
@@ -13636,7 +13724,7 @@
       "titleId": "1414793259",
       "pfn": null,
       "bingId": "66acd000-77fe-1000-9115-d8025454082b",
-      "serviceConfigId": "1f620100-b3fd-4cd7-aaa7-69053a23f939",
+      "serviceConfigId": "00980100-2dfd-413d-bff9-3c31444ace9e",
       "windowsPhoneProductId": null,
       "name": "Red Dead Redemption",
       "type": "Game",
