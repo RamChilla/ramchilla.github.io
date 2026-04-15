@@ -1,4 +1,78 @@
 {
-  "content": {},
-  "code": 401
+  "content": {
+    "profileUsers": [
+      {
+        "id": "2533274804693417",
+        "hostId": "2533274804693417",
+        "settings": [
+          {
+            "id": "Gamertag",
+            "value": "Ramchilla101"
+          },
+          {
+            "id": "GameDisplayPicRaw",
+            "value": "https://images-eds-ssl.xboxlive.com/image?url=wHwbXKif8cus8csoZ03RW8ke8ralOdP9BGd4wzwl0MJ9z6QzuGwZjtvbE7sSsMVWKoyLEe8jrgQZHHCic7W_Bwu0_6tGsrlDBxjUnCH.RYxWHRnkVZ8fLx7nCbYKu78e1DUMA0wK15_17P7C9a2uOePIyUCDbyJCdKdzhXVmjNk-&format=webp"
+          },
+          {
+            "id": "Gamerscore",
+            "value": "57894"
+          },
+          {
+            "id": "AccountTier",
+            "value": "Gold"
+          },
+          {
+            "id": "XboxOneRep",
+            "value": "GoodPlayer"
+          },
+          {
+            "id": "PreferredColor",
+            "value": "https://dlassets-ssl.xboxlive.com/public/content/ppl/colors/00007.json"
+          },
+          {
+            "id": "RealName",
+            "value": ""
+          },
+          {
+            "id": "Bio",
+            "value": ""
+          },
+          {
+            "id": "Location",
+            "value": ""
+          },
+          {
+            "id": "ModernGamertag",
+            "value": "Ramchilla101"
+          },
+          {
+            "id": "ModernGamertagSuffix",
+            "value": ""
+          },
+          {
+            "id": "UniqueModernGamertag",
+            "value": "Ramchilla101"
+          },
+          {
+            "id": "RealNameOverride",
+            "value": ""
+          },
+          {
+            "id": "TenureLevel",
+            "value": "17"
+          },
+          {
+            "id": "Watermarks",
+            "value": "ba75b64a-9a80-47ea-8c3a-76d3e2ea1422"
+          },
+          {
+            "id": "IsQuarantined",
+            "value": "0"
+          }
+        ],
+        "isSponsoredUser": false
+      }
+    ]
+  },
+  "code": 200
 }
