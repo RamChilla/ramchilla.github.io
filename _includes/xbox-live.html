@@ -1,5 +1,5 @@
-{% assign oxbl_summary = site.data.oxbl.summary.people[0] %}
-{% assign oxbl_history = site.data.oxbl.history.titles | where_exp: "item", "item.devices.first != 'Win32'" %}
+{% assign oxbl_summary = site.data.oxbl.summary.content.people[0] %}
+{% assign oxbl_history = site.data.oxbl.history.content.titles | where_exp: "item", "item.devices.first != 'Win32'" %}
 
 <section class="xbl__summary pushed">
 
