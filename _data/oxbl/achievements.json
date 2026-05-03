@@ -18,11 +18,11 @@
         "modernTitleId": "558797228",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 50,
+          "currentAchievements": 51,
           "totalAchievements": 0,
-          "currentGamerscore": 1330,
+          "currentGamerscore": 1345,
           "totalGamerscore": 2200,
-          "progressPercentage": 60,
+          "progressPercentage": 61,
           "sourceVersion": 2
         },
         "stats": {
@@ -31,7 +31,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-14T18:54:17.5427959Z",
+          "lastTimePlayed": "2026-05-03T02:49:31.5016379Z",
           "visible": true,
           "canHide": true
         },
@@ -43,27 +43,68 @@
         "xboxLiveTier": "Full"
       },
       {
-        "titleId": "1619790969",
-        "pfn": "19886SeavenStudio.MinishootAdventures_fahzzgrzfd3xc",
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Minishoot' Adventures",
+        "name": "Fortnite",
         "type": "Game",
         "devices": [
           "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.21673.14034134777008506.7f93c2af-ec4e-4905-a864-90af002fd3aa.284e8269-ba02-44e2-a240-3c9266046974",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.41659.70702278257994163.69677d4c-f0b7-4b9d-9b9a-a607bc348656.ab252be1-1e36-4985-a32f-a11b84f682e7",
         "mediaItemType": "Application",
-        "modernTitleId": "1619790969",
+        "modernTitleId": "267695549",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 34,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 1000,
+          "currentGamerscore": 0,
           "totalGamerscore": 1000,
-          "progressPercentage": 100,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-02T17:39:04.3999116Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1615644955",
+        "pfn": "Microsoft.Limitless_8wekyb3d8bbwe",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Microsoft Flight Simulator 2024",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.35992.14546949033229931.f4e841b6-7779-427d-8821-1b81b953e7fb.3683c779-ba7f-41c6-9dbf-911b653baa05",
+        "mediaItemType": "Application",
+        "modernTitleId": "1615644955",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 120,
+          "totalGamerscore": 1000,
+          "progressPercentage": 12,
           "sourceVersion": 2
         },
         "stats": {
@@ -72,7 +113,49 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-14T02:46:34.1961008Z",
+          "lastTimePlayed": "2026-04-27T02:15:44.972325Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1972063516",
+        "pfn": "SLOCLAP.Sifu_cse8z5zpmcvkt",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Sifu",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.23720.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.fbcfe294-0dd4-45af-96e1-5138e8897a57",
+        "mediaItemType": "Application",
+        "modernTitleId": "1972063516",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 15,
+          "totalAchievements": 0,
+          "currentGamerscore": 220,
+          "totalGamerscore": 1720,
+          "progressPercentage": 13,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-24T01:24:08.2202669Z",
           "visible": true,
           "canHide": true
         },
@@ -113,7 +196,132 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-04-11T19:28:37.0433214Z",
+          "lastTimePlayed": "2026-04-20T22:24:12.1533287Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2010328709",
+        "pfn": "Ubisoft.AssassinsCreedRift_ngz4m417e0mpw",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Assassin's Creed® Mirage",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5",
+        "mediaItemType": "Application",
+        "modernTitleId": "2010328709",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 21,
+          "totalAchievements": 0,
+          "currentGamerscore": 340,
+          "totalGamerscore": 1260,
+          "progressPercentage": 27,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-20T21:35:35.7370958Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2001700854",
+        "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Call of Duty®",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.19485.13966330883349940.8c9ea467-652a-4b13-9319-9621a0ac161f.5b9b17db-caf6-4d50-9b10-ddadb115a6f1",
+        "mediaItemType": "Application",
+        "modernTitleId": "2001700854",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 41,
+          "totalAchievements": 0,
+          "currentGamerscore": 980,
+          "totalGamerscore": 4000,
+          "progressPercentage": 24,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-18T18:04:03.7990528Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1619790969",
+        "pfn": "19886SeavenStudio.MinishootAdventures_fahzzgrzfd3xc",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Minishoot' Adventures",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.21673.14034134777008506.7f93c2af-ec4e-4905-a864-90af002fd3aa.284e8269-ba02-44e2-a240-3c9266046974",
+        "mediaItemType": "Application",
+        "modernTitleId": "1619790969",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 34,
+          "totalAchievements": 0,
+          "currentGamerscore": 1000,
+          "totalGamerscore": 1000,
+          "progressPercentage": 100,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-04-14T02:46:34.1961008Z",
           "visible": true,
           "canHide": true
         },
@@ -165,131 +373,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.32875.70702278257994163.da11a2a0-7f23-43ea-aac6-ba1692468838.6805cffe-3b12-4c03-bdf0-accba8e70764",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-05T07:28:21.3232588Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2001700854",
-        "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Call of Duty®",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.19485.13966330883349940.8c9ea467-652a-4b13-9319-9621a0ac161f.5b9b17db-caf6-4d50-9b10-ddadb115a6f1",
-        "mediaItemType": "Application",
-        "modernTitleId": "2001700854",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 38,
-          "totalAchievements": 0,
-          "currentGamerscore": 950,
-          "totalGamerscore": 4000,
-          "progressPercentage": 24,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-05T05:44:46.1492396Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "2010328709",
-        "pfn": "Ubisoft.AssassinsCreedRift_ngz4m417e0mpw",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Assassin's Creed® Mirage",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5",
-        "mediaItemType": "Application",
-        "modernTitleId": "2010328709",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 19,
-          "totalAchievements": 0,
-          "currentGamerscore": 300,
-          "totalGamerscore": 1260,
-          "progressPercentage": 24,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-05T02:03:46.0262594Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "1813184195",
@@ -813,8 +896,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1746263328",
@@ -913,7 +995,7 @@
           "currentAchievements": 26,
           "totalAchievements": 0,
           "currentGamerscore": 165,
-          "totalGamerscore": 1465,
+          "totalGamerscore": 1480,
           "progressPercentage": 11,
           "sourceVersion": 2
         },
@@ -1172,47 +1254,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2025-07-27T03:18:06.8113801Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1615644955",
-        "pfn": "Microsoft.Limitless_8wekyb3d8bbwe",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Microsoft Flight Simulator 2024",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.35992.14546949033229931.f4e841b6-7779-427d-8821-1b81b953e7fb.3683c779-ba7f-41c6-9dbf-911b653baa05",
-        "mediaItemType": "Application",
-        "modernTitleId": "1615644955",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 120,
-          "totalGamerscore": 1000,
-          "progressPercentage": 12,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2025-07-27T02:29:29.1711628Z",
           "visible": true,
           "canHide": true
         },
@@ -1488,7 +1529,7 @@
           "currentAchievements": 0,
           "totalAchievements": 0,
           "currentGamerscore": 0,
-          "totalGamerscore": 1475,
+          "totalGamerscore": 1725,
           "progressPercentage": 0,
           "sourceVersion": 2
         },
@@ -2275,48 +2316,6 @@
         "isStreamable": true
       },
       {
-        "titleId": "1972063516",
-        "pfn": "SLOCLAP.Sifu_cse8z5zpmcvkt",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Sifu",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.23720.14108092972231485.130f8f79-218a-4318-83ee-72f0213be0dd.fbcfe294-0dd4-45af-96e1-5138e8897a57",
-        "mediaItemType": "Application",
-        "modernTitleId": "1972063516",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 10,
-          "totalAchievements": 0,
-          "currentGamerscore": 95,
-          "totalGamerscore": 1720,
-          "progressPercentage": 6,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2024-11-03T06:47:20.8039532Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "1905856995",
         "pfn": "HappyVolcano.YouSuckatParking_sn7kpxmyf2k34",
         "bingId": null,
@@ -3069,7 +3068,7 @@
           "currentAchievements": 2,
           "totalAchievements": 0,
           "currentGamerscore": 40,
-          "totalGamerscore": 1650,
+          "totalGamerscore": 2300,
           "progressPercentage": 2,
           "sourceVersion": 2
         },
@@ -3851,8 +3850,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1749676903",
@@ -4096,7 +4094,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1814675537",
@@ -4216,8 +4215,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "2013672301",
@@ -8319,7 +8317,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.28345.69748098540497451.6fec5e29-270a-4d59-adb7-cc8b6f788b95.8dea05fe-9dfb-4132-a465-416607235dae",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.27892.69748098540497451.a03a4b64-603b-49b8-8644-4924ac7f3076.4c3bd7f3-03cb-4849-a68c-af72c31dda7d",
         "mediaItemType": "Application",
         "modernTitleId": "556718860",
         "isBundle": false,
