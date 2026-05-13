@@ -3,6 +3,47 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "1689241275",
+        "pfn": "SkystoneGames.BlackJacket_0jsrjq5sfw73t",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Black Jacket",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.35716.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.f605b1b5-a6e7-4c34-923d-dd93a181e71b",
+        "mediaItemType": "Application",
+        "modernTitleId": "1689241275",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 0,
+          "currentGamerscore": 50,
+          "totalGamerscore": 1000,
+          "progressPercentage": 5,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-13T03:34:01.4378814Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "558797228",
         "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
         "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
@@ -31,7 +72,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-06T19:50:13.3511929Z",
+          "lastTimePlayed": "2026-05-13T01:43:11.6390002Z",
           "visible": true,
           "canHide": true
         },
@@ -41,6 +82,47 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "1518572426",
+        "pfn": "Ubisoft.Trackmania_ngz4m417e0mpw",
+        "bingId": "03cd6e08-45af-4f2c-8838-963f2b8806f4",
+        "windowsPhoneProductId": null,
+        "name": "Trackmania® Turbo",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.57658.66795167581690331.6243694a-51d8-4e47-a669-9f75a7a2ae49.da825781-b6ff-422d-aa37-a3421589752c",
+        "mediaItemType": "Application",
+        "modernTitleId": "1518572426",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 50,
+          "totalGamerscore": 1000,
+          "progressPercentage": 5,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-05-12T03:16:54.5409559Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "267695549",
@@ -72,7 +154,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-02T17:39:04.3999116Z",
+          "lastTimePlayed": "2026-05-08T02:16:38.6339467Z",
           "visible": true,
           "canHide": true
         },
@@ -7540,7 +7622,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
         "name": "DUET",
         "type": "Game",
         "devices": [
@@ -8467,47 +8549,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "1518572426",
-        "pfn": "Ubisoft.Trackmania_ngz4m417e0mpw",
-        "bingId": "03cd6e08-45af-4f2c-8838-963f2b8806f4",
-        "windowsPhoneProductId": null,
-        "name": "Trackmania® Turbo",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.57658.66795167581690331.6243694a-51d8-4e47-a669-9f75a7a2ae49.da825781-b6ff-422d-aa37-a3421589752c",
-        "mediaItemType": "Application",
-        "modernTitleId": "1518572426",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 50,
-          "totalGamerscore": 1000,
-          "progressPercentage": 5,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2018-03-21T23:36:16.9588909Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "1480656961",
