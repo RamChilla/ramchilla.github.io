@@ -31,7 +31,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-23T23:21:58.1248177Z",
+          "lastTimePlayed": "2026-05-27T15:59:59.0563103Z",
           "visible": true,
           "canHide": true
         },
@@ -7622,7 +7622,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
         "name": "DUET",
         "type": "Game",
         "devices": [
