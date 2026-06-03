@@ -31,7 +31,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-05-27T15:59:59.0563103Z",
+          "lastTimePlayed": "2026-05-27T20:53:39.9811861Z",
           "visible": true,
           "canHide": true
         },
@@ -54,7 +54,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.52197.70702278257994163.68b869af-04bf-4393-8ae6-7bb15e154eea.b8cf9cd9-0fd7-4110-a538-3f7821fa950f",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.11692.70702278257994163.aa8c9424-8783-4ccc-a55a-a88472ec114e.41d0c1b2-b55e-4cb4-aa8e-4c6d1bf2e6db",
         "mediaItemType": "Application",
         "modernTitleId": "267695549",
         "isBundle": false,
@@ -4867,7 +4867,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "2076503823",
@@ -7622,7 +7623,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
+        "windowsPhoneProductId": null,
         "name": "DUET",
         "type": "Game",
         "devices": [
@@ -8181,7 +8182,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1480657777",
