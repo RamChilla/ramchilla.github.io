@@ -20,7 +20,7 @@
 				<i class="fa-solid fa-trophy fa-sm"></i>
 				<strong class="is-size-6">{{game.achievement.currentGamerscore }}/{{game.achievement.totalGamerscore }}</strong> - 
 			{% endunless %}
-			<small><strong>Played on {{ game.titleHistory.lastTimePlayed | date: "%B %-d, %Y" }}</strong></small>
+			<small><strong>Last played on {{ game.titleHistory.lastTimePlayed | date: "%B %-d, %Y" }}</strong></small>
 		</figcaption>
 	</figure>
 </div>
