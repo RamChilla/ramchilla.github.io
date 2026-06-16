@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-06-14T23:02:43.8187462Z",
+          "lastTimePlayed": "2026-06-15T20:59:59.1428427Z",
           "visible": true,
           "canHide": true
         },
@@ -2993,7 +2993,7 @@
           "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": true
+          "isGamePass": false
         },
         "images": null,
         "titleHistory": {
@@ -14037,7 +14037,7 @@
         "titleId": "1414793259",
         "pfn": null,
         "bingId": "66acd000-77fe-1000-9115-d8025454082b",
-        "serviceConfigId": "3f0d0100-b6c6-4cfc-b0dc-2c070f639296",
+        "serviceConfigId": "00980100-2dfd-413d-bff9-3c31444ace9e",
         "windowsPhoneProductId": null,
         "name": "Red Dead Redemption",
         "type": "Game",
@@ -15227,7 +15227,7 @@
         "titleId": "1297287154",
         "pfn": null,
         "bingId": "66acd000-77fe-1000-9115-d8024d5307f2",
-        "serviceConfigId": "4ece0100-7c96-451a-821f-e381359b1134",
+        "serviceConfigId": "5cb80100-e186-45c6-a9ec-ac5c4cd3f439",
         "windowsPhoneProductId": null,
         "name": "Viva Piñata",
         "type": "Game",
