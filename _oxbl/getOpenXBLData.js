@@ -52,7 +52,7 @@ axios
 	});
 
 axios
-	.get(`${url}/player/titleHistory/${XBL_XUID}`, {
+	.get(`${url}/titles/${XBL_XUID}`, {
 		headers: {
 			"x-authorization": OPENXBL_KEY,
 		},
