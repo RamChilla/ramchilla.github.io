@@ -19,11 +19,11 @@
         "modernTitleId": "558797228",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 54,
+          "currentAchievements": 55,
           "totalAchievements": 0,
-          "currentGamerscore": 1415,
+          "currentGamerscore": 1440,
           "totalGamerscore": 2200,
-          "progressPercentage": 64,
+          "progressPercentage": 65,
           "sourceVersion": 2
         },
         "stats": {
@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-06T00:44:20.5137979Z",
+          "lastTimePlayed": "2026-07-09T17:04:38.4815278Z",
           "visible": true,
           "canHide": true
         },
@@ -44,6 +44,51 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2094668331",
+        "pfn": "EDGLRD.Tamashika_12f8dba3xwvyj",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00007cda1a2b",
+        "windowsPhoneProductId": null,
+        "name": "Tamashika",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.22873.14600836934234842.a1fef063-58e5-4e0f-8578-d98cf1b258e2.d82d7d23-6000-4ed9-bb58-d1ba05983103",
+        "mediaItemType": "Application",
+        "modernTitleId": "2094668331",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 125,
+          "totalGamerscore": 1000,
+          "progressPercentage": 12,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-09T02:49:51.0147447Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "267695549",
@@ -15227,7 +15272,7 @@
         "titleId": "1297287154",
         "pfn": null,
         "bingId": "66acd000-77fe-1000-9115-d8024d5307f2",
-        "serviceConfigId": "5cb80100-e186-45c6-a9ec-ac5c4cd3f439",
+        "serviceConfigId": "4ece0100-7c96-451a-821f-e381359b1134",
         "windowsPhoneProductId": null,
         "name": "Viva Piñata",
         "type": "Game",
