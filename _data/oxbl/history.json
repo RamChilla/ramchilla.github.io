@@ -34,7 +34,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-09T17:04:38.4815278Z",
+          "lastTimePlayed": "2026-07-12T23:56:06.4854715Z",
           "visible": true,
           "canHide": true
         },
@@ -44,6 +44,51 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 45,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-11T03:44:08.9254314Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "2094668331",
@@ -79,51 +124,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-07-09T02:49:51.0147447Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 45,
-          "currentGamerscore": 0,
-          "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-05T23:09:45.8780206Z",
           "visible": true,
           "canHide": true
         },
@@ -8355,13 +8355,13 @@
         "bingId": "a279b8cf-9baf-4278-89d3-66adeda328a5",
         "serviceConfigId": "7e510100-2b7a-4ca2-b775-46ff14a9f9d8",
         "windowsPhoneProductId": null,
-        "name": "Tom Clancy’s Ghost Recon® Wildlands - Standard Edition",
+        "name": "Tom Clancy's Ghost Recon Wildlands",
         "type": "Game",
         "devices": [
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.35914.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.04f5f3e1-2dd4-4cfb-b1e6-add402749f0a",
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.40189.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cd208361-5bce-4225-b615-4b9771b2b8ec",
         "mediaItemType": "Application",
         "modernTitleId": "346683864",
         "isBundle": false,
@@ -15272,7 +15272,7 @@
         "titleId": "1297287154",
         "pfn": null,
         "bingId": "66acd000-77fe-1000-9115-d8024d5307f2",
-        "serviceConfigId": "4ece0100-7c96-451a-821f-e381359b1134",
+        "serviceConfigId": "5cb80100-e186-45c6-a9ec-ac5c4cd3f439",
         "windowsPhoneProductId": null,
         "name": "Viva Piñata",
         "type": "Game",
