@@ -3,6 +3,87 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "2106683993",
+        "pfn": "ElectronicArtsMobile.skateXBOX_q5ha1ztykcgvj",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "skate.™ (Game Preview)",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.60302.14232760941585178.17fc6d25-63eb-49b1-b78e-77cd60d478a5.d4c71071-614e-4cca-887f-10a980262a94",
+        "mediaItemType": "Application",
+        "modernTitleId": "2106683993",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 6,
+          "totalAchievements": 0,
+          "currentGamerscore": 105,
+          "totalGamerscore": 1000,
+          "progressPercentage": 10,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-27T02:19:59.0306833Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2079757188",
+        "pfn": "Microsoft.ForteBaseGame_8wekyb3d8bbwe",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Forza Horizon 6",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.47378.13758467164481545.c998f207-34a5-4a78-8843-178e2acdf371.a6be6fee-fc3c-4547-9b9a-478ba3fd0d81",
+        "mediaItemType": "Application",
+        "modernTitleId": "2079757188",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 50,
+          "totalGamerscore": 1000,
+          "progressPercentage": 5,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-07-27T01:31:47.141719Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "558797228",
         "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
         "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
@@ -31,7 +112,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-12T23:56:06.4854715Z",
+          "lastTimePlayed": "2026-07-27T00:55:12.8429964Z",
           "visible": true,
           "canHide": true
         },
@@ -54,7 +135,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.30243.70702278257994163.a192b10f-e44a-4746-afb2-c8d38dd3a4a0.9d63924a-301c-4076-b409-123a02fa2cdb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.7811.70702278257994163.67692708-b6a9-460d-95b2-3a2aa78a015f.9b96148d-f77c-496c-95ea-2c48571fcf69",
         "mediaItemType": "Application",
         "modernTitleId": "267695549",
         "isBundle": false,
@@ -72,7 +153,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-11T03:44:08.9254314Z",
+          "lastTimePlayed": "2026-07-26T14:10:44.6011411Z",
           "visible": true,
           "canHide": true
         },
@@ -125,46 +206,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "2106683993",
-        "pfn": "ElectronicArtsMobile.skateXBOX_q5ha1ztykcgvj",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "skate.™ (Game Preview)",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.60302.14232760941585178.17fc6d25-63eb-49b1-b78e-77cd60d478a5.d4c71071-614e-4cca-887f-10a980262a94",
-        "mediaItemType": "Application",
-        "modernTitleId": "2106683993",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 6,
-          "totalAchievements": 0,
-          "currentGamerscore": 105,
-          "totalGamerscore": 1000,
-          "progressPercentage": 10,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-07-02T02:10:31.9114262Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1096157210",
@@ -296,7 +337,7 @@
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.4206.14357431557516610.90b95e71-186d-4b35-805e-5e49418e3ccf.ee373e76-5b12-48e9-8523-cda422005ddb",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.3352.14212860962709000.df32da00-c18c-45f6-a4b4-4e82dfd43691.e6c970ca-7387-4135-b35c-d8da65348066",
         "mediaItemType": "Application",
         "modernTitleId": "1631010499",
         "isBundle": false,
@@ -585,7 +626,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.47651.13966330883349940.7e801daf-cb6c-41f0-a3e0-1e936806d387.abb0cf73-f7ac-45ac-ad95-b26d4767e3dc",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31044.13966330883349940.f1113d72-8f40-4997-86b8-20e5ec06976a.ba305113-2bb9-4cad-b153-3218bbe1f7f2",
         "mediaItemType": "Application",
         "modernTitleId": "2001700854",
         "isBundle": false,
@@ -6732,7 +6773,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "226054795",
@@ -7791,7 +7833,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.40189.65577870102127192.24a0a154-ded1-4a40-a91f-102019aaee70.cd208361-5bce-4225-b615-4b9771b2b8ec",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.54689.65577870102127192.cc211066-4ede-470b-9241-48c6083d347f.6085670e-8912-4d00-8ab3-6705011b8ac7",
         "mediaItemType": "Application",
         "modernTitleId": "346683864",
         "isBundle": false,
@@ -10977,7 +11019,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1464993832",
