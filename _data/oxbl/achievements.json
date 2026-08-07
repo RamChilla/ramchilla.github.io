@@ -3,35 +3,36 @@
     "xuid": "2533274804693417",
     "titles": [
       {
-        "titleId": "558797228",
-        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+        "titleId": "1797327516",
+        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
+        "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Rocket League®",
+        "name": "Palworld",
         "type": "Game",
         "devices": [
+          "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.1307.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.cc6b8c14-9d82-4a06-8d07-a71bdf05e136",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
         "mediaItemType": "Application",
-        "modernTitleId": "558797228",
+        "modernTitleId": "1797327516",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 55,
+          "currentAchievements": 3,
           "totalAchievements": 0,
-          "currentGamerscore": 1440,
-          "totalGamerscore": 2200,
-          "progressPercentage": 65,
+          "currentGamerscore": 230,
+          "totalGamerscore": 2820,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-03T14:23:19.1142814Z",
+          "lastTimePlayed": "2026-08-07T03:50:08.4622513Z",
           "visible": true,
           "canHide": true
         },
@@ -40,38 +41,39 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
-        "titleId": "2082978535",
-        "pfn": "Microsoft.198377053870B_8wekyb3d8bbwe",
+        "titleId": "2079757188",
+        "pfn": "Microsoft.ForteBaseGame_8wekyb3d8bbwe",
         "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Halo: Campaign Evolved",
+        "name": "Forza Horizon 6",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.60927.14018605831064250.443dafeb-7b4f-43fb-9452-0232c2810ba0.6c4e60ff-cf46-4b2e-8d42-13bd469e6840",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.47378.13758467164481545.c998f207-34a5-4a78-8843-178e2acdf371.a6be6fee-fc3c-4547-9b9a-478ba3fd0d81",
         "mediaItemType": "Application",
-        "modernTitleId": "2082978535",
+        "modernTitleId": "2079757188",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 20,
           "totalAchievements": 0,
-          "currentGamerscore": 40,
+          "currentGamerscore": 210,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 21,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 3
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-03T02:02:28.8631864Z",
+          "lastTimePlayed": "2026-08-07T01:10:04.3948905Z",
           "visible": true,
           "canHide": true
         },
@@ -113,7 +115,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-29T03:55:46.8131035Z",
+          "lastTimePlayed": "2026-08-07T00:32:57.4425603Z",
           "visible": true,
           "canHide": true
         },
@@ -126,35 +128,75 @@
         "isStreamable": true
       },
       {
-        "titleId": "2079757188",
-        "pfn": "Microsoft.ForteBaseGame_8wekyb3d8bbwe",
+        "titleId": "558797228",
+        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+        "windowsPhoneProductId": null,
+        "name": "Rocket League®",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.1307.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.cc6b8c14-9d82-4a06-8d07-a71bdf05e136",
+        "mediaItemType": "Application",
+        "modernTitleId": "558797228",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 55,
+          "totalAchievements": 0,
+          "currentGamerscore": 1440,
+          "totalGamerscore": 2200,
+          "progressPercentage": 65,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-06T23:06:48.8023572Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2082978535",
+        "pfn": "Microsoft.198377053870B_8wekyb3d8bbwe",
         "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Forza Horizon 6",
+        "name": "Halo: Campaign Evolved",
         "type": "Game",
         "devices": [
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.47378.13758467164481545.c998f207-34a5-4a78-8843-178e2acdf371.a6be6fee-fc3c-4547-9b9a-478ba3fd0d81",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.60927.14018605831064250.443dafeb-7b4f-43fb-9452-0232c2810ba0.6c4e60ff-cf46-4b2e-8d42-13bd469e6840",
         "mediaItemType": "Application",
-        "modernTitleId": "2079757188",
+        "modernTitleId": "2082978535",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 12,
+          "currentAchievements": 4,
           "totalAchievements": 0,
-          "currentGamerscore": 120,
+          "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-07-28T16:59:01.5663419Z",
+          "lastTimePlayed": "2026-08-03T02:02:28.8631864Z",
           "visible": true,
           "canHide": true
         },
@@ -6502,7 +6544,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45537.71371076658790719.0b25305d-ac29-41ea-97a3-5557afcf21eb.94c7d76f-1443-42bc-8846-0b083342cca0",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6205.71371076658790719.3dbfb588-82d5-4f2a-9c18-f4150199c9bb.9581935f-d4b3-43e7-ab50-e2fe9991001e",
         "mediaItemType": "Application",
         "modernTitleId": "175227487",
         "isBundle": false,
@@ -7950,7 +7992,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
         "name": "DUET",
         "type": "Game",
         "devices": [
