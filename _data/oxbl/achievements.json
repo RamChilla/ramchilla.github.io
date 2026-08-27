@@ -3,6 +3,48 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "1797327516",
+        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Palworld",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
+        "mediaItemType": "Application",
+        "modernTitleId": "1797327516",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 30,
+          "totalAchievements": 0,
+          "currentGamerscore": 1495,
+          "totalGamerscore": 2820,
+          "progressPercentage": 53,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-27T02:12:46.6087183Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "2140933132",
         "pfn": null,
         "bingId": null,
@@ -30,7 +72,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-21T03:17:32.480367Z",
+          "lastTimePlayed": "2026-08-26T20:32:21.1844066Z",
           "visible": true,
           "canHide": true
         },
@@ -40,48 +82,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "1797327516",
-        "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Palworld",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.45491.13654268679289325.ececb946-5639-4e77-b347-9d188d4e7e02.d4615c02-237f-4ec6-8ec6-a84aaeed586f",
-        "mediaItemType": "Application",
-        "modernTitleId": "1797327516",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 23,
-          "totalAchievements": 0,
-          "currentGamerscore": 1245,
-          "totalGamerscore": 2820,
-          "progressPercentage": 44,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-19T20:12:50.0020098Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "1820250788",
@@ -8073,7 +8073,7 @@
         "titleId": "1903007727",
         "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
         "bingId": null,
-        "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
+        "windowsPhoneProductId": null,
         "name": "Subway Surfers",
         "type": "Game",
         "devices": [
