@@ -3,6 +3,129 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "558797228",
+        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+        "windowsPhoneProductId": null,
+        "name": "Rocket League®",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.1307.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.cc6b8c14-9d82-4a06-8d07-a71bdf05e136",
+        "mediaItemType": "Application",
+        "modernTitleId": "558797228",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 55,
+          "totalAchievements": 77,
+          "currentGamerscore": 1440,
+          "totalGamerscore": 2200,
+          "progressPercentage": 71,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-16T22:03:02.1600793Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.62039.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.0b24b3ad-34d5-48da-9063-07b84ca7a0fa",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 45,
+          "currentGamerscore": 40,
+          "totalGamerscore": 1000,
+          "progressPercentage": 8,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-16T22:02:17.9551164Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1803410566",
+        "pfn": "tinyBuildGames.Speedrunners2KingofSpeed_3sz1pp2ynv2xe",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "SpeedRunners 2: King of Speed",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.25269.14327242010981927.a5495c37-2e09-4b3f-82a1-e015a8eb734a.9945ab02-07e9-4a94-b073-d0397a277c86",
+        "mediaItemType": "Application",
+        "modernTitleId": "1803410566",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 31,
+          "currentGamerscore": 20,
+          "totalGamerscore": 1000,
+          "progressPercentage": 6,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-04T02:23:17.7645876Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1797327516",
         "pfn": "PocketpairInc.Palworld_ad4psfrxyesvt",
         "bingId": null,
@@ -20,10 +143,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 30,
-          "totalAchievements": 0,
+          "totalAchievements": 75,
           "currentGamerscore": 1495,
           "totalGamerscore": 2820,
-          "progressPercentage": 53,
+          "progressPercentage": 40,
           "sourceVersion": 2
         },
         "stats": {
@@ -32,7 +155,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-27T02:12:46.6087183Z",
+          "lastTimePlayed": "2026-09-04T02:21:50.712665Z",
           "visible": true,
           "canHide": true
         },
@@ -43,45 +166,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "2140933132",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Rocket League",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-26T20:32:21.1844066Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
       },
       {
         "titleId": "1820250788",
@@ -111,7 +195,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-18T04:23:47.7784649Z",
+          "lastTimePlayed": "2026-09-04T02:08:10.8054885Z",
           "visible": true,
           "canHide": true
         },
@@ -123,27 +207,64 @@
         "xboxLiveTier": "None"
       },
       {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "titleId": "2140933132",
+        "pfn": null,
         "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Fortnite",
+        "name": "Rocket League",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.62039.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.0b24b3ad-34d5-48da-9063-07b84ca7a0fa",
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
         "mediaItemType": "Application",
-        "modernTitleId": "267695549",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-04T01:00:27.8936944Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
+        "titleId": "85494077",
+        "pfn": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Microsoft Solitaire Collection",
+        "type": "Game",
+        "devices": [
+          "PC"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10270.9007199266246761.cb02291f-d0d9-48a7-8735-9a5e71951992.75f57155-dfc3-407f-9a65-389c04749fb2",
+        "mediaItemType": "Application",
+        "modernTitleId": "85494077",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 16,
+          "totalAchievements": 76,
+          "currentGamerscore": 280,
+          "totalGamerscore": 1850,
+          "progressPercentage": 21,
           "sourceVersion": 2
         },
         "stats": {
@@ -152,7 +273,162 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-08-17T22:59:42.9670598Z",
+          "lastTimePlayed": "2026-09-02T02:05:29.2987197Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
+        "titleId": "2076696971",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Counter-Strike 2",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-02T01:59:52.3410789Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "1653768775",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Cities: Skylines",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKIXkv6D.ilHvAbWh.RaVqRrb.xDci7cAfmvkzEVBqXY9ZVGDU_lFq8JLorl4OrGc4pye_cvd_YNj47oFft7dGLw--",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-02T01:45:00.5161092Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
+        "titleId": "2086897871",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "One Finger Death Punch 2",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-02T00:54:09.1803697Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "1615644955",
+        "pfn": "Microsoft.Limitless_8wekyb3d8bbwe",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Microsoft Flight Simulator 2024",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.35992.14546949033229931.f4e841b6-7779-427d-8821-1b81b953e7fb.3683c779-ba7f-41c6-9dbf-911b653baa05",
+        "mediaItemType": "Application",
+        "modernTitleId": "1615644955",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 27,
+          "currentGamerscore": 120,
+          "totalGamerscore": 1000,
+          "progressPercentage": 18,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-08-28T20:31:56.0065936Z",
           "visible": true,
           "canHide": true
         },
@@ -163,46 +439,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "558797228",
-        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
-        "windowsPhoneProductId": null,
-        "name": "Rocket League®",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.1307.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.cc6b8c14-9d82-4a06-8d07-a71bdf05e136",
-        "mediaItemType": "Application",
-        "modernTitleId": "558797228",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 55,
-          "totalAchievements": 0,
-          "currentGamerscore": 1440,
-          "totalGamerscore": 2200,
-          "progressPercentage": 65,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-08-17T22:43:04.8370365Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1984127659",
@@ -262,10 +498,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 20,
-          "totalAchievements": 0,
+          "totalAchievements": 57,
           "currentGamerscore": 210,
           "totalGamerscore": 1000,
-          "progressPercentage": 21,
+          "progressPercentage": 35,
           "sourceVersion": 2
         },
         "stats": {
@@ -303,10 +539,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 58,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 6,
           "sourceVersion": 2
         },
         "stats": {
@@ -344,10 +580,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 21,
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
-          "progressPercentage": 10,
+          "progressPercentage": 28,
           "sourceVersion": 2
         },
         "stats": {
@@ -385,10 +621,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 14,
           "currentGamerscore": 125,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 28,
           "sourceVersion": 2
         },
         "stats": {
@@ -428,7 +664,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
-          "progressPercentage": 2,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -467,7 +703,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 910,
           "totalGamerscore": 1000,
-          "progressPercentage": 91,
+          "progressPercentage": 94,
           "sourceVersion": 1
         },
         "stats": {
@@ -545,10 +781,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 45,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -586,10 +822,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 42,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -627,10 +863,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 48,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -640,47 +876,6 @@
         "images": null,
         "titleHistory": {
           "lastTimePlayed": "2026-05-12T03:16:54.5409559Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
-        "titleId": "1615644955",
-        "pfn": "Microsoft.Limitless_8wekyb3d8bbwe",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Microsoft Flight Simulator 2024",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.35992.14546949033229931.f4e841b6-7779-427d-8821-1b81b953e7fb.3683c779-ba7f-41c6-9dbf-911b653baa05",
-        "mediaItemType": "Application",
-        "modernTitleId": "1615644955",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 5,
-          "totalAchievements": 0,
-          "currentGamerscore": 120,
-          "totalGamerscore": 1000,
-          "progressPercentage": 12,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-27T02:15:44.972325Z",
           "visible": true,
           "canHide": true
         },
@@ -710,10 +905,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 15,
-          "totalAchievements": 0,
+          "totalAchievements": 61,
           "currentGamerscore": 220,
           "totalGamerscore": 1720,
-          "progressPercentage": 12,
+          "progressPercentage": 24,
           "sourceVersion": 2
         },
         "stats": {
@@ -751,10 +946,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 36,
           "currentGamerscore": 125,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 22,
           "sourceVersion": 2
         },
         "stats": {
@@ -792,10 +987,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 21,
-          "totalAchievements": 0,
+          "totalAchievements": 61,
           "currentGamerscore": 340,
           "totalGamerscore": 1260,
-          "progressPercentage": 26,
+          "progressPercentage": 34,
           "sourceVersion": 2
         },
         "stats": {
@@ -834,10 +1029,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 41,
-          "totalAchievements": 0,
+          "totalAchievements": 157,
           "currentGamerscore": 980,
           "totalGamerscore": 4000,
-          "progressPercentage": 24,
+          "progressPercentage": 26,
           "sourceVersion": 2
         },
         "stats": {
@@ -876,7 +1071,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 34,
-          "totalAchievements": 0,
+          "totalAchievements": 34,
           "currentGamerscore": 1000,
           "totalGamerscore": 1000,
           "progressPercentage": 100,
@@ -921,7 +1116,7 @@
           "totalAchievements": 53,
           "currentGamerscore": 150,
           "totalGamerscore": 1150,
-          "progressPercentage": 13,
+          "progressPercentage": 22,
           "sourceVersion": 1
         },
         "stats": {
@@ -959,10 +1154,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 11,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 9,
           "sourceVersion": 2
         },
         "stats": {
@@ -1000,10 +1195,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 12,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -1079,10 +1274,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 47,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -1114,15 +1309,15 @@
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.58752.13974579424110118.a7c4bc1b-04b3-4177-85c0-1252f18d6f9c.91e6633b-1ba4-4bda-9a09-fdc53c5e6a7e",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.28577.13974579424110118.c5a91c87-b857-4a17-add3-fc6ba76c3f74.5bbb6b0c-cc25-4abe-bf01-c00408e6e3fa",
         "mediaItemType": "Application",
         "modernTitleId": "1696147865",
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 125,
+          "totalAchievements": 132,
           "currentGamerscore": 0,
-          "totalGamerscore": 1730,
+          "totalGamerscore": 1810,
           "progressPercentage": 0,
           "sourceVersion": 2
         },
@@ -1162,10 +1357,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 10,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -1187,44 +1382,6 @@
         "isStreamable": true
       },
       {
-        "titleId": "2086897871",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "One Finger Death Punch 2",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2025-12-16T00:33:21.6271091Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
-      },
-      {
         "titleId": "1702731390",
         "pfn": "18814NAISU.SupermarketSimulator_79azw0v9jg4wg",
         "bingId": null,
@@ -1241,10 +1398,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 14,
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
-          "progressPercentage": 10,
+          "progressPercentage": 14,
           "sourceVersion": 2
         },
         "stats": {
@@ -1282,7 +1439,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 63,
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
@@ -1323,7 +1480,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 20,
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
@@ -1364,10 +1521,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 52,
           "currentGamerscore": 50,
           "totalGamerscore": 2750,
-          "progressPercentage": 1,
+          "progressPercentage": 3,
           "sourceVersion": 2
         },
         "stats": {
@@ -1404,10 +1561,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 13,
-          "totalAchievements": 0,
+          "totalAchievements": 77,
           "currentGamerscore": 205,
           "totalGamerscore": 1750,
-          "progressPercentage": 11,
+          "progressPercentage": 16,
           "sourceVersion": 2
         },
         "stats": {
@@ -1483,10 +1640,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 26,
-          "totalAchievements": 0,
+          "totalAchievements": 115,
           "currentGamerscore": 165,
           "totalGamerscore": 1480,
-          "progressPercentage": 11,
+          "progressPercentage": 22,
           "sourceVersion": 2
         },
         "stats": {
@@ -1524,7 +1681,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 13,
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
@@ -1607,10 +1764,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 37,
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
-          "progressPercentage": 2,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -1648,10 +1805,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 31,
           "currentGamerscore": 140,
           "totalGamerscore": 1000,
-          "progressPercentage": 14,
+          "progressPercentage": 22,
           "sourceVersion": 2
         },
         "stats": {
@@ -1689,10 +1846,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 56,
           "currentGamerscore": 90,
           "totalGamerscore": 1250,
-          "progressPercentage": 7,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -1731,7 +1888,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 58,
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
           "progressPercentage": 13,
@@ -1772,10 +1929,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 27,
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 22,
           "sourceVersion": 2
         },
         "stats": {
@@ -1797,45 +1954,6 @@
         "isStreamable": true
       },
       {
-        "titleId": "1653768775",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Cities: Skylines",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKIXkv6D.ilHvAbWh.RaVqRrb.xDci7cAfmvkzEVBqXY9ZVGDU_lFq8JLorl4OrGc4pye_cvd_YNj47oFft7dGLw--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2025-06-28T02:59:20.1159971Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
-      },
-      {
         "titleId": "1903313113",
         "pfn": "3435robotentertainment.OrcsMustDieDeathtrap_s3rxhkmynr4z0",
         "bingId": null,
@@ -1852,10 +1970,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 30,
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
-          "progressPercentage": 3,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -1893,10 +2011,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 20,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -1934,10 +2052,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 92,
           "currentGamerscore": 50,
           "totalGamerscore": 2110,
-          "progressPercentage": 2,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -1976,10 +2094,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 61,
           "currentGamerscore": 30,
           "totalGamerscore": 1300,
-          "progressPercentage": 2,
+          "progressPercentage": 3,
           "sourceVersion": 2
         },
         "stats": {
@@ -2058,10 +2176,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 35,
           "currentGamerscore": 210,
           "totalGamerscore": 1450,
-          "progressPercentage": 14,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
@@ -2099,10 +2217,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 54,
           "currentGamerscore": 90,
           "totalGamerscore": 3000,
-          "progressPercentage": 3,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -2124,45 +2242,6 @@
         "isStreamable": true
       },
       {
-        "titleId": "85494077",
-        "pfn": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Microsoft Solitaire Collection",
-        "type": "Game",
-        "devices": [
-          "PC"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10270.9007199266246761.cb02291f-d0d9-48a7-8735-9a5e71951992.75f57155-dfc3-407f-9a65-389c04749fb2",
-        "mediaItemType": "Application",
-        "modernTitleId": "85494077",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 16,
-          "totalAchievements": 0,
-          "currentGamerscore": 280,
-          "totalGamerscore": 1850,
-          "progressPercentage": 15,
-          "sourceVersion": 2
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2025-03-25T05:15:53.8314883Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full"
-      },
-      {
         "titleId": "2067022016",
         "pfn": "AvalancheStudios.Tortoise_m0byj0nmrybdr",
         "bingId": null,
@@ -2180,10 +2259,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 13,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 300,
           "totalGamerscore": 1800,
-          "progressPercentage": 16,
+          "progressPercentage": 26,
           "sourceVersion": 2
         },
         "stats": {
@@ -2297,10 +2376,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 20,
-          "totalAchievements": 0,
+          "totalAchievements": 60,
           "currentGamerscore": 300,
           "totalGamerscore": 1000,
-          "progressPercentage": 30,
+          "progressPercentage": 33,
           "sourceVersion": 2
         },
         "stats": {
@@ -2416,10 +2495,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 10,
-          "totalAchievements": 0,
+          "totalAchievements": 38,
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
-          "progressPercentage": 20,
+          "progressPercentage": 26,
           "sourceVersion": 2
         },
         "stats": {
@@ -2500,7 +2579,7 @@
           "totalAchievements": 20,
           "currentGamerscore": 35,
           "totalGamerscore": 200,
-          "progressPercentage": 17,
+          "progressPercentage": 15,
           "sourceVersion": 1
         },
         "stats": {
@@ -2539,7 +2618,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
-          "progressPercentage": 33,
+          "progressPercentage": 40,
           "sourceVersion": 1
         },
         "stats": {
@@ -2578,7 +2657,7 @@
           "totalAchievements": 49,
           "currentGamerscore": 750,
           "totalGamerscore": 1000,
-          "progressPercentage": 75,
+          "progressPercentage": 73,
           "sourceVersion": 1
         },
         "stats": {
@@ -2617,7 +2696,7 @@
           "totalAchievements": 59,
           "currentGamerscore": 375,
           "totalGamerscore": 1000,
-          "progressPercentage": 37,
+          "progressPercentage": 52,
           "sourceVersion": 1
         },
         "stats": {
@@ -2742,7 +2821,7 @@
           "totalAchievements": 68,
           "currentGamerscore": 535,
           "totalGamerscore": 1500,
-          "progressPercentage": 35,
+          "progressPercentage": 42,
           "sourceVersion": 1
         },
         "stats": {
@@ -2781,7 +2860,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 10,
           "currentGamerscore": 400,
           "totalGamerscore": 1000,
           "progressPercentage": 40,
@@ -2823,10 +2902,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 25,
           "currentGamerscore": 100,
           "totalGamerscore": 1325,
-          "progressPercentage": 7,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -2865,7 +2944,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 44,
           "currentGamerscore": 0,
           "totalGamerscore": 1195,
           "progressPercentage": 0,
@@ -2946,10 +3025,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 9,
-          "totalAchievements": 0,
+          "totalAchievements": 41,
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
-          "progressPercentage": 13,
+          "progressPercentage": 21,
           "sourceVersion": 2
         },
         "stats": {
@@ -2991,7 +3070,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 16,
           "sourceVersion": 1
         },
         "stats": {
@@ -3067,10 +3146,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 12,
-          "totalAchievements": 0,
+          "totalAchievements": 30,
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
-          "progressPercentage": 33,
+          "progressPercentage": 40,
           "sourceVersion": 2
         },
         "stats": {
@@ -3109,7 +3188,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 58,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
@@ -3154,7 +3233,7 @@
           "totalAchievements": 47,
           "currentGamerscore": 780,
           "totalGamerscore": 1250,
-          "progressPercentage": 62,
+          "progressPercentage": 61,
           "sourceVersion": 1
         },
         "stats": {
@@ -3190,10 +3269,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 53,
           "currentGamerscore": 40,
           "totalGamerscore": 1135,
-          "progressPercentage": 3,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -3230,10 +3309,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 85,
           "currentGamerscore": 165,
           "totalGamerscore": 2375,
-          "progressPercentage": 6,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -3272,7 +3351,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 64,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
@@ -3314,10 +3393,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 40,
           "currentGamerscore": 20,
           "totalGamerscore": 1800,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -3354,10 +3433,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 18,
-          "totalAchievements": 0,
+          "totalAchievements": 93,
           "currentGamerscore": 300,
           "totalGamerscore": 1850,
-          "progressPercentage": 16,
+          "progressPercentage": 19,
           "sourceVersion": 2
         },
         "stats": {
@@ -3435,10 +3514,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 114,
           "currentGamerscore": 75,
           "totalGamerscore": 3730,
-          "progressPercentage": 2,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -3474,10 +3553,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 37,
-          "totalAchievements": 0,
+          "totalAchievements": 133,
           "currentGamerscore": 640,
           "totalGamerscore": 2980,
-          "progressPercentage": 21,
+          "progressPercentage": 27,
           "sourceVersion": 2
         },
         "stats": {
@@ -3509,7 +3588,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.28763.63381296256995371.c90350dc-f7ef-4c1a-a158-a8de2f5a7725.4e32662f-ea9b-46db-abdf-c5d3071ee3cc",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
         "mediaItemType": "Application",
         "modernTitleId": "171869406",
         "isBundle": false,
@@ -3556,10 +3635,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 45,
           "currentGamerscore": 40,
           "totalGamerscore": 2300,
-          "progressPercentage": 1,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -3636,7 +3715,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 90,
           "currentGamerscore": 0,
           "totalGamerscore": 1585,
           "progressPercentage": 0,
@@ -3719,7 +3798,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 68,
           "currentGamerscore": 0,
           "totalGamerscore": 1845,
           "progressPercentage": 0,
@@ -3760,10 +3839,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 34,
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -3801,10 +3880,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 44,
           "currentGamerscore": 80,
           "totalGamerscore": 1350,
-          "progressPercentage": 5,
+          "progressPercentage": 9,
           "sourceVersion": 2
         },
         "stats": {
@@ -3919,10 +3998,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 71,
           "currentGamerscore": 65,
           "totalGamerscore": 1250,
-          "progressPercentage": 5,
+          "progressPercentage": 9,
           "sourceVersion": 2
         },
         "stats": {
@@ -4116,10 +4195,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 10,
-          "totalAchievements": 0,
+          "totalAchievements": 35,
           "currentGamerscore": 150,
           "totalGamerscore": 1000,
-          "progressPercentage": 15,
+          "progressPercentage": 28,
           "sourceVersion": 2
         },
         "stats": {
@@ -4157,10 +4236,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 43,
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
-          "progressPercentage": 10,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
@@ -4197,10 +4276,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -4236,10 +4315,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 35,
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
-          "progressPercentage": 7,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -4277,10 +4356,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 41,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 9,
           "sourceVersion": 2
         },
         "stats": {
@@ -4319,10 +4398,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 9,
-          "totalAchievements": 0,
+          "totalAchievements": 48,
           "currentGamerscore": 135,
           "totalGamerscore": 1000,
-          "progressPercentage": 13,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
@@ -4360,7 +4439,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 48,
           "currentGamerscore": 0,
           "totalGamerscore": 1445,
           "progressPercentage": 0,
@@ -4439,10 +4518,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 40,
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 12,
           "sourceVersion": 2
         },
         "stats": {
@@ -4481,10 +4560,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 18,
-          "totalAchievements": 0,
+          "totalAchievements": 59,
           "currentGamerscore": 200,
           "totalGamerscore": 1500,
-          "progressPercentage": 13,
+          "progressPercentage": 30,
           "sourceVersion": 2
         },
         "stats": {
@@ -4522,10 +4601,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 12,
-          "totalAchievements": 0,
+          "totalAchievements": 114,
           "currentGamerscore": 125,
           "totalGamerscore": 3730,
-          "progressPercentage": 3,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -4563,10 +4642,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 27,
           "currentGamerscore": 230,
           "totalGamerscore": 1050,
-          "progressPercentage": 21,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
@@ -4604,10 +4683,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 34,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -4644,7 +4723,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 70,
           "currentGamerscore": 20,
           "totalGamerscore": 1500,
           "progressPercentage": 1,
@@ -4684,10 +4763,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 77,
           "currentGamerscore": 45,
           "totalGamerscore": 1750,
-          "progressPercentage": 2,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -4725,10 +4804,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 17,
           "currentGamerscore": 325,
           "totalGamerscore": 1000,
-          "progressPercentage": 32,
+          "progressPercentage": 41,
           "sourceVersion": 2
         },
         "stats": {
@@ -4770,7 +4849,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 20,
           "totalGamerscore": 200,
-          "progressPercentage": 10,
+          "progressPercentage": 25,
           "sourceVersion": 1
         },
         "stats": {
@@ -4808,10 +4887,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 11,
-          "totalAchievements": 0,
+          "totalAchievements": 44,
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
-          "progressPercentage": 13,
+          "progressPercentage": 25,
           "sourceVersion": 2
         },
         "stats": {
@@ -4850,10 +4929,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 14,
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
-          "progressPercentage": 25,
+          "progressPercentage": 28,
           "sourceVersion": 2
         },
         "stats": {
@@ -4892,10 +4971,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 26,
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
-          "progressPercentage": 7,
+          "progressPercentage": 15,
           "sourceVersion": 2
         },
         "stats": {
@@ -4933,10 +5012,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 40,
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
@@ -5051,10 +5130,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
-          "progressPercentage": 10,
+          "progressPercentage": 17,
           "sourceVersion": 2
         },
         "stats": {
@@ -5093,7 +5172,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 37,
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
@@ -5173,7 +5252,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 9,
-          "totalAchievements": 0,
+          "totalAchievements": 42,
           "currentGamerscore": 215,
           "totalGamerscore": 1000,
           "progressPercentage": 21,
@@ -5214,10 +5293,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 35,
           "totalGamerscore": 1000,
-          "progressPercentage": 3,
+          "progressPercentage": 6,
           "sourceVersion": 2
         },
         "stats": {
@@ -5254,10 +5333,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
-          "progressPercentage": 10,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
@@ -5294,10 +5373,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 24,
           "sourceVersion": 2
         },
         "stats": {
@@ -5375,10 +5454,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 48,
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -5416,7 +5495,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 0,
-          "totalAchievements": 0,
+          "totalAchievements": 38,
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
@@ -5458,10 +5537,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -5538,10 +5617,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 42,
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -5579,10 +5658,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 11,
           "currentGamerscore": 110,
           "totalGamerscore": 1000,
-          "progressPercentage": 11,
+          "progressPercentage": 27,
           "sourceVersion": 2
         },
         "stats": {
@@ -5623,7 +5702,7 @@
           "totalAchievements": 59,
           "currentGamerscore": 30,
           "totalGamerscore": 1090,
-          "progressPercentage": 2,
+          "progressPercentage": 3,
           "sourceVersion": 1
         },
         "stats": {
@@ -5661,10 +5740,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 73,
           "totalGamerscore": 1545,
-          "progressPercentage": 4,
+          "progressPercentage": 6,
           "sourceVersion": 2
         },
         "stats": {
@@ -5701,10 +5780,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 13,
-          "totalAchievements": 0,
+          "totalAchievements": 60,
           "currentGamerscore": 185,
           "totalGamerscore": 1000,
-          "progressPercentage": 18,
+          "progressPercentage": 21,
           "sourceVersion": 2
         },
         "stats": {
@@ -5741,10 +5820,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 29,
-          "totalAchievements": 0,
+          "totalAchievements": 84,
           "currentGamerscore": 715,
           "totalGamerscore": 2000,
-          "progressPercentage": 35,
+          "progressPercentage": 34,
           "sourceVersion": 2
         },
         "stats": {
@@ -5782,10 +5861,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 20,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -5803,7 +5882,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1734069370",
@@ -5860,10 +5940,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 13,
           "currentGamerscore": 650,
           "totalGamerscore": 1000,
-          "progressPercentage": 65,
+          "progressPercentage": 61,
           "sourceVersion": 2
         },
         "stats": {
@@ -5940,10 +6020,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 67,
           "currentGamerscore": 130,
           "totalGamerscore": 1650,
-          "progressPercentage": 7,
+          "progressPercentage": 11,
           "sourceVersion": 2
         },
         "stats": {
@@ -6024,10 +6104,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 38,
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 15,
           "sourceVersion": 2
         },
         "stats": {
@@ -6104,10 +6184,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 306,
           "currentGamerscore": 65,
           "totalGamerscore": 6310,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -6145,10 +6225,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 59,
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -6226,10 +6306,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 10,
           "currentGamerscore": 650,
           "totalGamerscore": 1000,
-          "progressPercentage": 65,
+          "progressPercentage": 80,
           "sourceVersion": 2
         },
         "stats": {
@@ -6267,10 +6347,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 27,
-          "totalAchievements": 0,
+          "totalAchievements": 65,
           "currentGamerscore": 630,
           "totalGamerscore": 1420,
-          "progressPercentage": 44,
+          "progressPercentage": 41,
           "sourceVersion": 2
         },
         "stats": {
@@ -6308,10 +6388,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 10,
-          "totalAchievements": 0,
+          "totalAchievements": 49,
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
@@ -6388,10 +6468,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 17,
-          "totalAchievements": 0,
+          "totalAchievements": 123,
           "currentGamerscore": 175,
           "totalGamerscore": 1400,
-          "progressPercentage": 12,
+          "progressPercentage": 13,
           "sourceVersion": 2
         },
         "stats": {
@@ -6468,10 +6548,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 11,
-          "totalAchievements": 0,
+          "totalAchievements": 143,
           "currentGamerscore": 100,
           "totalGamerscore": 2250,
-          "progressPercentage": 4,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -6551,10 +6631,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 22,
-          "totalAchievements": 0,
+          "totalAchievements": 42,
           "currentGamerscore": 380,
           "totalGamerscore": 1000,
-          "progressPercentage": 38,
+          "progressPercentage": 52,
           "sourceVersion": 2
         },
         "stats": {
@@ -6591,10 +6671,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 12,
           "currentGamerscore": 550,
           "totalGamerscore": 1000,
-          "progressPercentage": 55,
+          "progressPercentage": 58,
           "sourceVersion": 2
         },
         "stats": {
@@ -6632,10 +6712,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 27,
           "currentGamerscore": 15,
           "totalGamerscore": 1030,
-          "progressPercentage": 1,
+          "progressPercentage": 3,
           "sourceVersion": 2
         },
         "stats": {
@@ -6674,10 +6754,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 82,
           "currentGamerscore": 95,
           "totalGamerscore": 2230,
-          "progressPercentage": 4,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -6715,10 +6795,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 11,
-          "totalAchievements": 0,
+          "totalAchievements": 49,
           "currentGamerscore": 65,
           "totalGamerscore": 1000,
-          "progressPercentage": 6,
+          "progressPercentage": 22,
           "sourceVersion": 2
         },
         "stats": {
@@ -6755,10 +6835,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 49,
           "currentGamerscore": 20,
           "totalGamerscore": 1000,
-          "progressPercentage": 2,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -6795,10 +6875,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 10,
-          "totalAchievements": 0,
+          "totalAchievements": 22,
           "currentGamerscore": 380,
           "totalGamerscore": 1000,
-          "progressPercentage": 38,
+          "progressPercentage": 45,
           "sourceVersion": 2
         },
         "stats": {
@@ -6836,10 +6916,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 37,
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
-          "progressPercentage": 7,
+          "progressPercentage": 16,
           "sourceVersion": 2
         },
         "stats": {
@@ -6877,7 +6957,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 20,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
@@ -6918,10 +6998,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 98,
           "currentGamerscore": 10,
           "totalGamerscore": 2000,
-          "progressPercentage": 0,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -6958,7 +7038,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 115,
           "currentGamerscore": 10,
           "totalGamerscore": 2430,
           "progressPercentage": 0,
@@ -6999,10 +7079,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 43,
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 13,
           "sourceVersion": 2
         },
         "stats": {
@@ -7039,10 +7119,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 48,
           "currentGamerscore": 20,
           "totalGamerscore": 1000,
-          "progressPercentage": 2,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -7079,10 +7159,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 4,
-          "totalAchievements": 0,
+          "totalAchievements": 31,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 12,
           "sourceVersion": 2
         },
         "stats": {
@@ -7119,10 +7199,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 37,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 580,
           "totalGamerscore": 1000,
-          "progressPercentage": 57,
+          "progressPercentage": 74,
           "sourceVersion": 2
         },
         "stats": {
@@ -7159,10 +7239,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 32,
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 25,
           "sourceVersion": 2
         },
         "stats": {
@@ -7239,10 +7319,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 10,
-          "totalAchievements": 0,
+          "totalAchievements": 23,
           "currentGamerscore": 520,
           "totalGamerscore": 1240,
-          "progressPercentage": 41,
+          "progressPercentage": 43,
           "sourceVersion": 2
         },
         "stats": {
@@ -7279,10 +7359,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 68,
           "currentGamerscore": 45,
           "totalGamerscore": 1390,
-          "progressPercentage": 3,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -7320,10 +7400,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
-          "progressPercentage": 3,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -7360,10 +7440,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 26,
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 23,
           "sourceVersion": 2
         },
         "stats": {
@@ -7400,10 +7480,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 29,
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 17,
           "sourceVersion": 2
         },
         "stats": {
@@ -7479,10 +7559,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 23,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 2
         },
         "stats": {
@@ -7519,7 +7599,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 9,
-          "totalAchievements": 0,
+          "totalAchievements": 102,
           "currentGamerscore": 150,
           "totalGamerscore": 1825,
           "progressPercentage": 8,
@@ -7559,10 +7639,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 16,
-          "totalAchievements": 0,
+          "totalAchievements": 47,
           "currentGamerscore": 375,
           "totalGamerscore": 1400,
-          "progressPercentage": 26,
+          "progressPercentage": 34,
           "sourceVersion": 2
         },
         "stats": {
@@ -7600,10 +7680,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 22,
-          "totalAchievements": 0,
+          "totalAchievements": 90,
           "currentGamerscore": 400,
           "totalGamerscore": 3000,
-          "progressPercentage": 13,
+          "progressPercentage": 24,
           "sourceVersion": 2
         },
         "stats": {
@@ -7640,10 +7720,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 98,
           "currentGamerscore": 110,
           "totalGamerscore": 1950,
-          "progressPercentage": 5,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -7680,10 +7760,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 11,
           "currentGamerscore": 51,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 18,
           "sourceVersion": 2
         },
         "stats": {
@@ -7721,10 +7801,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 139,
           "currentGamerscore": 90,
           "totalGamerscore": 4360,
-          "progressPercentage": 2,
+          "progressPercentage": 3,
           "sourceVersion": 2
         },
         "stats": {
@@ -7764,7 +7844,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 20,
           "totalGamerscore": 400,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -7801,10 +7881,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 21,
-          "totalAchievements": 0,
+          "totalAchievements": 47,
           "currentGamerscore": 365,
           "totalGamerscore": 1000,
-          "progressPercentage": 36,
+          "progressPercentage": 44,
           "sourceVersion": 2
         },
         "stats": {
@@ -7841,10 +7921,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 16,
-          "totalAchievements": 0,
+          "totalAchievements": 130,
           "currentGamerscore": 140,
           "totalGamerscore": 2885,
-          "progressPercentage": 4,
+          "progressPercentage": 12,
           "sourceVersion": 2
         },
         "stats": {
@@ -7923,10 +8003,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 18,
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
-          "progressPercentage": 2,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -7964,10 +8044,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 22,
-          "totalAchievements": 0,
+          "totalAchievements": 57,
           "currentGamerscore": 445,
           "totalGamerscore": 1500,
-          "progressPercentage": 29,
+          "progressPercentage": 38,
           "sourceVersion": 2
         },
         "stats": {
@@ -8005,10 +8085,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 36,
           "currentGamerscore": 75,
           "totalGamerscore": 1000,
-          "progressPercentage": 7,
+          "progressPercentage": 13,
           "sourceVersion": 2
         },
         "stats": {
@@ -8033,7 +8113,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
         "name": "DUET",
         "type": "Game",
         "devices": [
@@ -8126,10 +8206,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 2,
-          "totalAchievements": 0,
+          "totalAchievements": 85,
           "currentGamerscore": 20,
           "totalGamerscore": 1850,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 2
         },
         "stats": {
@@ -8210,7 +8290,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 140,
           "totalGamerscore": 1000,
-          "progressPercentage": 14,
+          "progressPercentage": 18,
           "sourceVersion": 1
         },
         "stats": {
@@ -8268,7 +8348,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "826545257",
@@ -8288,10 +8369,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 30,
-          "totalAchievements": 0,
+          "totalAchievements": 51,
           "currentGamerscore": 675,
           "totalGamerscore": 1000,
-          "progressPercentage": 67,
+          "progressPercentage": 58,
           "sourceVersion": 2
         },
         "stats": {
@@ -8329,7 +8410,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 5,
-          "totalAchievements": 0,
+          "totalAchievements": 73,
           "currentGamerscore": 85,
           "totalGamerscore": 1250,
           "progressPercentage": 6,
@@ -8371,10 +8452,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 15,
-          "totalAchievements": 0,
+          "totalAchievements": 200,
           "currentGamerscore": 230,
           "totalGamerscore": 4000,
-          "progressPercentage": 5,
+          "progressPercentage": 7,
           "sourceVersion": 2
         },
         "stats": {
@@ -8412,10 +8493,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 51,
           "currentGamerscore": 85,
           "totalGamerscore": 1000,
-          "progressPercentage": 8,
+          "progressPercentage": 13,
           "sourceVersion": 2
         },
         "stats": {
@@ -8452,10 +8533,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 7,
-          "totalAchievements": 0,
+          "totalAchievements": 69,
           "currentGamerscore": 115,
           "totalGamerscore": 1360,
-          "progressPercentage": 8,
+          "progressPercentage": 10,
           "sourceVersion": 2
         },
         "stats": {
@@ -8532,10 +8613,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 8,
-          "totalAchievements": 0,
+          "totalAchievements": 12,
           "currentGamerscore": 525,
           "totalGamerscore": 1000,
-          "progressPercentage": 52,
+          "progressPercentage": 66,
           "sourceVersion": 2
         },
         "stats": {
@@ -8577,7 +8658,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 30,
           "totalGamerscore": 400,
-          "progressPercentage": 7,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -8618,7 +8699,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 320,
           "totalGamerscore": 400,
-          "progressPercentage": 80,
+          "progressPercentage": 66,
           "sourceVersion": 1
         },
         "stats": {
@@ -8659,7 +8740,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 12,
           "sourceVersion": 1
         },
         "stats": {
@@ -8779,10 +8860,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 70,
           "currentGamerscore": 10,
           "totalGamerscore": 1250,
-          "progressPercentage": 0,
+          "progressPercentage": 1,
           "sourceVersion": 2
         },
         "stats": {
@@ -8901,10 +8982,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 32,
-          "totalAchievements": 0,
+          "totalAchievements": 50,
           "currentGamerscore": 570,
           "totalGamerscore": 1000,
-          "progressPercentage": 56,
+          "progressPercentage": 64,
           "sourceVersion": 2
         },
         "stats": {
@@ -8945,7 +9026,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 20,
           "totalGamerscore": 200,
-          "progressPercentage": 10,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -9027,7 +9108,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 165,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 30,
           "sourceVersion": 1
         },
         "stats": {
@@ -9064,7 +9145,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 110,
           "currentGamerscore": 15,
           "totalGamerscore": 2510,
           "progressPercentage": 0,
@@ -9105,10 +9186,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 12,
-          "totalAchievements": 0,
+          "totalAchievements": 60,
           "currentGamerscore": 130,
           "totalGamerscore": 1225,
-          "progressPercentage": 10,
+          "progressPercentage": 20,
           "sourceVersion": 2
         },
         "stats": {
@@ -9186,10 +9267,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 3,
-          "totalAchievements": 0,
+          "totalAchievements": 57,
           "currentGamerscore": 50,
           "totalGamerscore": 1300,
-          "progressPercentage": 3,
+          "progressPercentage": 5,
           "sourceVersion": 2
         },
         "stats": {
@@ -9231,7 +9312,7 @@
           "totalAchievements": 90,
           "currentGamerscore": 515,
           "totalGamerscore": 2000,
-          "progressPercentage": 25,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -9272,7 +9353,7 @@
           "totalAchievements": 15,
           "currentGamerscore": 55,
           "totalGamerscore": 250,
-          "progressPercentage": 22,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -9313,7 +9394,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 330,
           "totalGamerscore": 1250,
-          "progressPercentage": 26,
+          "progressPercentage": 32,
           "sourceVersion": 1
         },
         "stats": {
@@ -9354,7 +9435,7 @@
           "totalAchievements": 67,
           "currentGamerscore": 20,
           "totalGamerscore": 1360,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 1
         },
         "stats": {
@@ -9393,7 +9474,7 @@
           "totalAchievements": 58,
           "currentGamerscore": 360,
           "totalGamerscore": 1250,
-          "progressPercentage": 28,
+          "progressPercentage": 43,
           "sourceVersion": 1
         },
         "stats": {
@@ -9434,7 +9515,7 @@
           "totalAchievements": 48,
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
-          "progressPercentage": 20,
+          "progressPercentage": 31,
           "sourceVersion": 1
         },
         "stats": {
@@ -9475,7 +9556,7 @@
           "totalAchievements": 59,
           "currentGamerscore": 65,
           "totalGamerscore": 1345,
-          "progressPercentage": 4,
+          "progressPercentage": 11,
           "sourceVersion": 1
         },
         "stats": {
@@ -9517,7 +9598,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 30,
           "totalGamerscore": 200,
-          "progressPercentage": 15,
+          "progressPercentage": 25,
           "sourceVersion": 1
         },
         "stats": {
@@ -9558,7 +9639,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -9599,7 +9680,7 @@
           "totalAchievements": 49,
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
-          "progressPercentage": 25,
+          "progressPercentage": 36,
           "sourceVersion": 1
         },
         "stats": {
@@ -9635,7 +9716,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 6,
-          "totalAchievements": 0,
+          "totalAchievements": 491,
           "currentGamerscore": 55,
           "totalGamerscore": 4935,
           "progressPercentage": 1,
@@ -9717,10 +9798,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 12,
-          "totalAchievements": 0,
+          "totalAchievements": 35,
           "currentGamerscore": 280,
           "totalGamerscore": 1000,
-          "progressPercentage": 28,
+          "progressPercentage": 34,
           "sourceVersion": 2
         },
         "stats": {
@@ -9757,7 +9838,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 56,
           "currentGamerscore": 15,
           "totalGamerscore": 1200,
           "progressPercentage": 1,
@@ -9797,7 +9878,7 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 51,
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
@@ -9837,10 +9918,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 13,
-          "totalAchievements": 0,
+          "totalAchievements": 132,
           "currentGamerscore": 245,
           "totalGamerscore": 1925,
-          "progressPercentage": 12,
+          "progressPercentage": 9,
           "sourceVersion": 2
         },
         "stats": {
@@ -9878,10 +9959,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 1,
-          "totalAchievements": 0,
+          "totalAchievements": 23,
           "currentGamerscore": 5,
           "totalGamerscore": 1210,
-          "progressPercentage": 0,
+          "progressPercentage": 4,
           "sourceVersion": 2
         },
         "stats": {
@@ -9955,10 +10036,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 17,
-          "totalAchievements": 0,
+          "totalAchievements": 60,
           "currentGamerscore": 350,
           "totalGamerscore": 1500,
-          "progressPercentage": 23,
+          "progressPercentage": 28,
           "sourceVersion": 2
         },
         "stats": {
@@ -9999,7 +10080,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 20,
           "totalGamerscore": 1250,
-          "progressPercentage": 1,
+          "progressPercentage": 3,
           "sourceVersion": 1
         },
         "stats": {
@@ -10040,7 +10121,7 @@
           "totalAchievements": 70,
           "currentGamerscore": 190,
           "totalGamerscore": 1200,
-          "progressPercentage": 15,
+          "progressPercentage": 17,
           "sourceVersion": 1
         },
         "stats": {
@@ -10079,7 +10160,7 @@
           "totalAchievements": 15,
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
-          "progressPercentage": 5,
+          "progressPercentage": 6,
           "sourceVersion": 1
         },
         "stats": {
@@ -10120,7 +10201,7 @@
           "totalAchievements": 82,
           "currentGamerscore": 70,
           "totalGamerscore": 2000,
-          "progressPercentage": 3,
+          "progressPercentage": 9,
           "sourceVersion": 1
         },
         "stats": {
@@ -10158,10 +10239,10 @@
         "isBundle": false,
         "achievement": {
           "currentAchievements": 16,
-          "totalAchievements": 0,
+          "totalAchievements": 73,
           "currentGamerscore": 180,
           "totalGamerscore": 1500,
-          "progressPercentage": 12,
+          "progressPercentage": 21,
           "sourceVersion": 2
         },
         "stats": {
@@ -10201,7 +10282,7 @@
           "totalAchievements": 37,
           "currentGamerscore": 5,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
+          "progressPercentage": 2,
           "sourceVersion": 1
         },
         "stats": {
@@ -10284,7 +10365,7 @@
           "totalAchievements": 48,
           "currentGamerscore": 40,
           "totalGamerscore": 600,
-          "progressPercentage": 6,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -10325,7 +10406,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 50,
           "totalGamerscore": 1250,
-          "progressPercentage": 4,
+          "progressPercentage": 5,
           "sourceVersion": 1
         },
         "stats": {
@@ -10444,7 +10525,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 40,
           "totalGamerscore": 200,
-          "progressPercentage": 20,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -10485,7 +10566,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 10,
           "totalGamerscore": 200,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -10526,7 +10607,7 @@
           "totalAchievements": 67,
           "currentGamerscore": 170,
           "totalGamerscore": 1500,
-          "progressPercentage": 11,
+          "progressPercentage": 19,
           "sourceVersion": 1
         },
         "stats": {
@@ -10565,7 +10646,7 @@
           "totalAchievements": 45,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 6,
           "sourceVersion": 1
         },
         "stats": {
@@ -10647,7 +10728,7 @@
           "totalAchievements": 41,
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
-          "progressPercentage": 16,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -10688,7 +10769,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 330,
           "totalGamerscore": 1000,
-          "progressPercentage": 33,
+          "progressPercentage": 38,
           "sourceVersion": 1
         },
         "stats": {
@@ -10727,7 +10808,7 @@
           "totalAchievements": 51,
           "currentGamerscore": 320,
           "totalGamerscore": 1250,
-          "progressPercentage": 25,
+          "progressPercentage": 31,
           "sourceVersion": 1
         },
         "stats": {
@@ -10768,7 +10849,7 @@
           "totalAchievements": 80,
           "currentGamerscore": 5,
           "totalGamerscore": 1695,
-          "progressPercentage": 0,
+          "progressPercentage": 1,
           "sourceVersion": 1
         },
         "stats": {
@@ -10809,7 +10890,7 @@
           "totalAchievements": 64,
           "currentGamerscore": 140,
           "totalGamerscore": 1350,
-          "progressPercentage": 10,
+          "progressPercentage": 12,
           "sourceVersion": 1
         },
         "stats": {
@@ -10889,7 +10970,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 10,
           "totalGamerscore": 1250,
-          "progressPercentage": 0,
+          "progressPercentage": 1,
           "sourceVersion": 1
         },
         "stats": {
@@ -10928,7 +11009,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 25,
           "totalGamerscore": 500,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -10969,7 +11050,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
-          "progressPercentage": 20,
+          "progressPercentage": 30,
           "sourceVersion": 1
         },
         "stats": {
@@ -11047,7 +11128,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 235,
           "totalGamerscore": 1000,
-          "progressPercentage": 23,
+          "progressPercentage": 32,
           "sourceVersion": 1
         },
         "stats": {
@@ -11251,7 +11332,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 890,
           "totalGamerscore": 1000,
-          "progressPercentage": 89,
+          "progressPercentage": 84,
           "sourceVersion": 1
         },
         "stats": {
@@ -11292,7 +11373,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 220,
           "totalGamerscore": 500,
-          "progressPercentage": 44,
+          "progressPercentage": 52,
           "sourceVersion": 1
         },
         "stats": {
@@ -11372,7 +11453,7 @@
           "totalAchievements": 58,
           "currentGamerscore": 70,
           "totalGamerscore": 1250,
-          "progressPercentage": 5,
+          "progressPercentage": 6,
           "sourceVersion": 1
         },
         "stats": {
@@ -11413,7 +11494,7 @@
           "totalAchievements": 30,
           "currentGamerscore": 15,
           "totalGamerscore": 400,
-          "progressPercentage": 3,
+          "progressPercentage": 10,
           "sourceVersion": 1
         },
         "stats": {
@@ -11454,7 +11535,7 @@
           "totalAchievements": 91,
           "currentGamerscore": 710,
           "totalGamerscore": 2000,
-          "progressPercentage": 35,
+          "progressPercentage": 39,
           "sourceVersion": 1
         },
         "stats": {
@@ -11493,7 +11574,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 10,
           "totalGamerscore": 200,
-          "progressPercentage": 5,
+          "progressPercentage": 16,
           "sourceVersion": 1
         },
         "stats": {
@@ -11532,7 +11613,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 35,
           "totalGamerscore": 500,
-          "progressPercentage": 7,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -11571,7 +11652,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 370,
           "totalGamerscore": 1000,
-          "progressPercentage": 37,
+          "progressPercentage": 44,
           "sourceVersion": 1
         },
         "stats": {
@@ -11612,7 +11693,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 655,
           "totalGamerscore": 1000,
-          "progressPercentage": 65,
+          "progressPercentage": 80,
           "sourceVersion": 1
         },
         "stats": {
@@ -11651,7 +11732,7 @@
           "totalAchievements": 45,
           "currentGamerscore": 365,
           "totalGamerscore": 1000,
-          "progressPercentage": 36,
+          "progressPercentage": 42,
           "sourceVersion": 1
         },
         "stats": {
@@ -11692,7 +11773,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 480,
           "totalGamerscore": 1000,
-          "progressPercentage": 48,
+          "progressPercentage": 60,
           "sourceVersion": 1
         },
         "stats": {
@@ -11733,7 +11814,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 160,
           "totalGamerscore": 1250,
-          "progressPercentage": 12,
+          "progressPercentage": 20,
           "sourceVersion": 1
         },
         "stats": {
@@ -11772,7 +11853,7 @@
           "totalAchievements": 36,
           "currentGamerscore": 255,
           "totalGamerscore": 1000,
-          "progressPercentage": 25,
+          "progressPercentage": 36,
           "sourceVersion": 1
         },
         "stats": {
@@ -11811,7 +11892,7 @@
           "totalAchievements": 45,
           "currentGamerscore": 95,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 13,
           "sourceVersion": 1
         },
         "stats": {
@@ -11930,7 +12011,7 @@
           "totalAchievements": 80,
           "currentGamerscore": 390,
           "totalGamerscore": 1300,
-          "progressPercentage": 30,
+          "progressPercentage": 23,
           "sourceVersion": 1
         },
         "stats": {
@@ -11969,7 +12050,7 @@
           "totalAchievements": 46,
           "currentGamerscore": 550,
           "totalGamerscore": 1000,
-          "progressPercentage": 55,
+          "progressPercentage": 71,
           "sourceVersion": 1
         },
         "stats": {
@@ -12008,7 +12089,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 14,
           "sourceVersion": 1
         },
         "stats": {
@@ -12049,7 +12130,7 @@
           "totalAchievements": 86,
           "currentGamerscore": 60,
           "totalGamerscore": 2000,
-          "progressPercentage": 3,
+          "progressPercentage": 5,
           "sourceVersion": 1
         },
         "stats": {
@@ -12088,7 +12169,7 @@
           "totalAchievements": 49,
           "currentGamerscore": 465,
           "totalGamerscore": 1000,
-          "progressPercentage": 46,
+          "progressPercentage": 44,
           "sourceVersion": 1
         },
         "stats": {
@@ -12129,7 +12210,7 @@
           "totalAchievements": 46,
           "currentGamerscore": 220,
           "totalGamerscore": 1000,
-          "progressPercentage": 22,
+          "progressPercentage": 30,
           "sourceVersion": 1
         },
         "stats": {
@@ -12170,7 +12251,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 510,
           "totalGamerscore": 1250,
-          "progressPercentage": 40,
+          "progressPercentage": 41,
           "sourceVersion": 1
         },
         "stats": {
@@ -12209,7 +12290,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 4,
           "sourceVersion": 1
         },
         "stats": {
@@ -12250,7 +12331,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 70,
           "totalGamerscore": 200,
-          "progressPercentage": 35,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -12290,7 +12371,7 @@
           "totalAchievements": 80,
           "currentGamerscore": 20,
           "totalGamerscore": 1640,
-          "progressPercentage": 1,
+          "progressPercentage": 3,
           "sourceVersion": 1
         },
         "stats": {
@@ -12329,7 +12410,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 150,
           "totalGamerscore": 1000,
-          "progressPercentage": 15,
+          "progressPercentage": 16,
           "sourceVersion": 1
         },
         "stats": {
@@ -12368,7 +12449,7 @@
           "totalAchievements": 54,
           "currentGamerscore": 200,
           "totalGamerscore": 1100,
-          "progressPercentage": 18,
+          "progressPercentage": 29,
           "sourceVersion": 1
         },
         "stats": {
@@ -12489,7 +12570,7 @@
           "totalAchievements": 71,
           "currentGamerscore": 670,
           "totalGamerscore": 1700,
-          "progressPercentage": 39,
+          "progressPercentage": 46,
           "sourceVersion": 1
         },
         "stats": {
@@ -12530,7 +12611,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 230,
           "totalGamerscore": 1250,
-          "progressPercentage": 18,
+          "progressPercentage": 30,
           "sourceVersion": 1
         },
         "stats": {
@@ -12571,7 +12652,7 @@
           "totalAchievements": 72,
           "currentGamerscore": 40,
           "totalGamerscore": 1550,
-          "progressPercentage": 2,
+          "progressPercentage": 4,
           "sourceVersion": 1
         },
         "stats": {
@@ -12611,7 +12692,7 @@
           "totalAchievements": 65,
           "currentGamerscore": 5,
           "totalGamerscore": 1500,
-          "progressPercentage": 0,
+          "progressPercentage": 1,
           "sourceVersion": 1
         },
         "stats": {
@@ -12650,7 +12731,7 @@
           "totalAchievements": 56,
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 5,
           "sourceVersion": 1
         },
         "stats": {
@@ -12691,7 +12772,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -12771,7 +12852,7 @@
           "totalAchievements": 76,
           "currentGamerscore": 540,
           "totalGamerscore": 1610,
-          "progressPercentage": 33,
+          "progressPercentage": 39,
           "sourceVersion": 1
         },
         "stats": {
@@ -12851,7 +12932,7 @@
           "totalAchievements": 70,
           "currentGamerscore": 280,
           "totalGamerscore": 1500,
-          "progressPercentage": 18,
+          "progressPercentage": 24,
           "sourceVersion": 1
         },
         "stats": {
@@ -12892,7 +12973,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
-          "progressPercentage": 20,
+          "progressPercentage": 28,
           "sourceVersion": 1
         },
         "stats": {
@@ -12931,7 +13012,7 @@
           "totalAchievements": 43,
           "currentGamerscore": 520,
           "totalGamerscore": 1000,
-          "progressPercentage": 52,
+          "progressPercentage": 67,
           "sourceVersion": 1
         },
         "stats": {
@@ -13013,7 +13094,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 690,
           "totalGamerscore": 1250,
-          "progressPercentage": 55,
+          "progressPercentage": 56,
           "sourceVersion": 1
         },
         "stats": {
@@ -13054,7 +13135,7 @@
           "totalAchievements": 59,
           "currentGamerscore": 130,
           "totalGamerscore": 1250,
-          "progressPercentage": 10,
+          "progressPercentage": 18,
           "sourceVersion": 1
         },
         "stats": {
@@ -13095,7 +13176,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 300,
           "totalGamerscore": 1500,
-          "progressPercentage": 20,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -13134,7 +13215,7 @@
           "totalAchievements": 30,
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
-          "progressPercentage": 25,
+          "progressPercentage": 30,
           "sourceVersion": 1
         },
         "stats": {
@@ -13173,7 +13254,7 @@
           "totalAchievements": 31,
           "currentGamerscore": 360,
           "totalGamerscore": 1000,
-          "progressPercentage": 36,
+          "progressPercentage": 48,
           "sourceVersion": 1
         },
         "stats": {
@@ -13214,7 +13295,7 @@
           "totalAchievements": 66,
           "currentGamerscore": 660,
           "totalGamerscore": 1350,
-          "progressPercentage": 48,
+          "progressPercentage": 50,
           "sourceVersion": 1
         },
         "stats": {
@@ -13297,7 +13378,7 @@
           "totalAchievements": 60,
           "currentGamerscore": 780,
           "totalGamerscore": 1250,
-          "progressPercentage": 62,
+          "progressPercentage": 60,
           "sourceVersion": 1
         },
         "stats": {
@@ -13339,7 +13420,7 @@
           "totalAchievements": 95,
           "currentGamerscore": 610,
           "totalGamerscore": 1500,
-          "progressPercentage": 40,
+          "progressPercentage": 27,
           "sourceVersion": 1
         },
         "stats": {
@@ -13380,7 +13461,7 @@
           "totalAchievements": 65,
           "currentGamerscore": 350,
           "totalGamerscore": 1500,
-          "progressPercentage": 23,
+          "progressPercentage": 32,
           "sourceVersion": 1
         },
         "stats": {
@@ -13419,7 +13500,7 @@
           "totalAchievements": 43,
           "currentGamerscore": 750,
           "totalGamerscore": 1000,
-          "progressPercentage": 75,
+          "progressPercentage": 67,
           "sourceVersion": 1
         },
         "stats": {
@@ -13460,7 +13541,7 @@
           "totalAchievements": 70,
           "currentGamerscore": 240,
           "totalGamerscore": 1250,
-          "progressPercentage": 19,
+          "progressPercentage": 38,
           "sourceVersion": 1
         },
         "stats": {
@@ -13499,7 +13580,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 55,
           "totalGamerscore": 200,
-          "progressPercentage": 27,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -13540,7 +13621,7 @@
           "totalAchievements": 38,
           "currentGamerscore": 175,
           "totalGamerscore": 1000,
-          "progressPercentage": 17,
+          "progressPercentage": 21,
           "sourceVersion": 1
         },
         "stats": {
@@ -13581,7 +13662,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 760,
           "totalGamerscore": 1000,
-          "progressPercentage": 76,
+          "progressPercentage": 82,
           "sourceVersion": 1
         },
         "stats": {
@@ -13620,7 +13701,7 @@
           "totalAchievements": 48,
           "currentGamerscore": 740,
           "totalGamerscore": 1000,
-          "progressPercentage": 74,
+          "progressPercentage": 91,
           "sourceVersion": 1
         },
         "stats": {
@@ -13661,7 +13742,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 65,
           "totalGamerscore": 200,
-          "progressPercentage": 32,
+          "progressPercentage": 50,
           "sourceVersion": 1
         },
         "stats": {
@@ -13700,7 +13781,7 @@
           "totalAchievements": 58,
           "currentGamerscore": 405,
           "totalGamerscore": 1250,
-          "progressPercentage": 32,
+          "progressPercentage": 34,
           "sourceVersion": 1
         },
         "stats": {
@@ -13741,7 +13822,7 @@
           "totalAchievements": 66,
           "currentGamerscore": 785,
           "totalGamerscore": 1500,
-          "progressPercentage": 52,
+          "progressPercentage": 56,
           "sourceVersion": 1
         },
         "stats": {
@@ -13780,7 +13861,7 @@
           "totalAchievements": 39,
           "currentGamerscore": 170,
           "totalGamerscore": 1250,
-          "progressPercentage": 13,
+          "progressPercentage": 12,
           "sourceVersion": 1
         },
         "stats": {
@@ -13819,7 +13900,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 30,
           "totalGamerscore": 200,
-          "progressPercentage": 15,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -13860,7 +13941,7 @@
           "totalAchievements": 65,
           "currentGamerscore": 355,
           "totalGamerscore": 1500,
-          "progressPercentage": 23,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -13901,7 +13982,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 140,
           "totalGamerscore": 200,
-          "progressPercentage": 70,
+          "progressPercentage": 66,
           "sourceVersion": 1
         },
         "stats": {
@@ -13940,7 +14021,7 @@
           "totalAchievements": 49,
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
-          "progressPercentage": 7,
+          "progressPercentage": 14,
           "sourceVersion": 1
         },
         "stats": {
@@ -13979,7 +14060,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 15,
           "totalGamerscore": 200,
-          "progressPercentage": 7,
+          "progressPercentage": 16,
           "sourceVersion": 1
         },
         "stats": {
@@ -14057,7 +14138,7 @@
           "totalAchievements": 8,
           "currentGamerscore": 900,
           "totalGamerscore": 1000,
-          "progressPercentage": 90,
+          "progressPercentage": 87,
           "sourceVersion": 1
         },
         "stats": {
@@ -14098,7 +14179,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 100,
           "totalGamerscore": 200,
-          "progressPercentage": 50,
+          "progressPercentage": 58,
           "sourceVersion": 1
         },
         "stats": {
@@ -14176,7 +14257,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 165,
           "totalGamerscore": 200,
-          "progressPercentage": 82,
+          "progressPercentage": 83,
           "sourceVersion": 1
         },
         "stats": {
@@ -14215,7 +14296,7 @@
           "totalAchievements": 46,
           "currentGamerscore": 60,
           "totalGamerscore": 1000,
-          "progressPercentage": 6,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -14256,7 +14337,7 @@
           "totalAchievements": 24,
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -14297,7 +14378,7 @@
           "totalAchievements": 79,
           "currentGamerscore": 765,
           "totalGamerscore": 1750,
-          "progressPercentage": 43,
+          "progressPercentage": 29,
           "sourceVersion": 1
         },
         "stats": {
@@ -14338,7 +14419,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 10,
           "totalGamerscore": 200,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -14377,7 +14458,7 @@
           "totalAchievements": 49,
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
-          "progressPercentage": 12,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -14418,7 +14499,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 90,
           "totalGamerscore": 200,
-          "progressPercentage": 45,
+          "progressPercentage": 58,
           "sourceVersion": 1
         },
         "stats": {
@@ -14499,7 +14580,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 40,
           "totalGamerscore": 200,
-          "progressPercentage": 20,
+          "progressPercentage": 33,
           "sourceVersion": 1
         },
         "stats": {
@@ -14538,7 +14619,7 @@
           "totalAchievements": 32,
           "currentGamerscore": 35,
           "totalGamerscore": 1000,
-          "progressPercentage": 3,
+          "progressPercentage": 9,
           "sourceVersion": 1
         },
         "stats": {
@@ -14577,7 +14658,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 325,
           "totalGamerscore": 1000,
-          "progressPercentage": 32,
+          "progressPercentage": 26,
           "sourceVersion": 1
         },
         "stats": {
@@ -14616,7 +14697,7 @@
           "totalAchievements": 42,
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
-          "progressPercentage": 33,
+          "progressPercentage": 38,
           "sourceVersion": 1
         },
         "stats": {
@@ -14655,7 +14736,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 15,
           "totalGamerscore": 200,
-          "progressPercentage": 7,
+          "progressPercentage": 16,
           "sourceVersion": 1
         },
         "stats": {
@@ -14696,7 +14777,7 @@
           "totalAchievements": 12,
           "currentGamerscore": 10,
           "totalGamerscore": 200,
-          "progressPercentage": 5,
+          "progressPercentage": 8,
           "sourceVersion": 1
         },
         "stats": {
@@ -14735,7 +14816,7 @@
           "totalAchievements": 50,
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
-          "progressPercentage": 1,
+          "progressPercentage": 2,
           "sourceVersion": 1
         },
         "stats": {
@@ -14774,7 +14855,7 @@
           "totalAchievements": 25,
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
-          "progressPercentage": 9,
+          "progressPercentage": 12,
           "sourceVersion": 1
         },
         "stats": {
