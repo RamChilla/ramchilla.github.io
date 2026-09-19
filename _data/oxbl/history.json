@@ -3,6 +3,51 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.43050.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.c3fabac6-6fa0-4bcf-8279-dca7002ac7e9",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 45,
+          "currentGamerscore": 40,
+          "totalGamerscore": 1000,
+          "progressPercentage": 4,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-19T12:43:17.2192348Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "558797228",
         "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
         "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
@@ -34,7 +79,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-16T22:03:02.1600793Z",
+          "lastTimePlayed": "2026-09-19T11:51:58.9705753Z",
           "visible": true,
           "canHide": true
         },
@@ -46,28 +91,27 @@
         "xboxLiveTier": "Full"
       },
       {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "titleId": "1730755212",
+        "pfn": "WarnerBros.Interactive.K1Codename_ktmk1xygcecda",
         "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "serviceConfigId": "00000000-0000-0000-0000-000067293a8c",
         "windowsPhoneProductId": null,
-        "name": "Fortnite",
+        "name": "Mortal Kombat™ 1",
         "type": "Game",
         "devices": [
           "PC",
-          "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.62039.70702278257994163.7867c110-12f5-414d-88b4-e851aea24391.0b24b3ad-34d5-48da-9063-07b84ca7a0fa",
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.62634.14007497573636681.4ee0da90-8866-4e78-bc18-31395aa61837.ff3ca5b6-0163-4c09-b045-8a24552e743a",
         "mediaItemType": "Application",
-        "modernTitleId": "267695549",
+        "modernTitleId": "1730755212",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 45,
-          "currentGamerscore": 40,
+          "currentAchievements": 1,
+          "totalAchievements": 50,
+          "currentGamerscore": 15,
           "totalGamerscore": 1000,
-          "progressPercentage": 4,
+          "progressPercentage": 1,
           "sourceVersion": 2
         },
         "stats": {
@@ -78,7 +122,139 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-16T22:02:17.9551164Z",
+          "lastTimePlayed": "2026-09-19T03:15:55.7046852Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1833503116",
+        "pfn": "DotEmu.Poutine_map6zyh9ym1xy",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-00006d49098c",
+        "windowsPhoneProductId": null,
+        "name": "MARVEL Cosmic Invasion",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.5112.14072829118255167.0099a79e-4a74-4c53-8d36-ab9b73befa43.8dd16f42-92f5-4dc7-ba7d-f3c3bd6fb94b",
+        "mediaItemType": "Application",
+        "modernTitleId": "1833503116",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 2,
+          "totalAchievements": 35,
+          "currentGamerscore": 35,
+          "totalGamerscore": 1000,
+          "progressPercentage": 3,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-19T02:57:19.0861147Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2038093666",
+        "pfn": "CascadeInteractive.MAVRIX_amdnfty3c9vb6",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-0000797ad762",
+        "windowsPhoneProductId": null,
+        "name": "MAVRIX by Matt Jones",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.47253.14471845286194830.862a71b4-09f3-4930-9ea1-0cbf86f000ed.03dec34c-305c-43a9-a4b7-4c97aa3c640b",
+        "mediaItemType": "Application",
+        "modernTitleId": "2038093666",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 30,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-17T03:12:45.3476249Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "1959830280",
+        "pfn": "SEGAofAmericaInc.a9115ca5cs_s751p9cej88mt",
+        "bingId": null,
+        "serviceConfigId": "00000000-0000-0000-0000-000074d0a308",
+        "windowsPhoneProductId": null,
+        "name": "Virtua Fighter 5 R.E.V.O. World Stage",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.22152.14360936962313275.d5800ab2-f5c2-4ca4-b20f-b66ceccc1330.89de29c2-55d6-4095-be26-b5d1eab6abf2",
+        "mediaItemType": "Application",
+        "modernTitleId": "1959830280",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 18,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": true
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-17T02:47:22.8201046Z",
           "visible": true,
           "canHide": true
         },
@@ -1097,7 +1273,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.31044.13966330883349940.f1113d72-8f40-4997-86b8-20e5ec06976a.ba305113-2bb9-4cad-b153-3218bbe1f7f2",
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.54291.13966330883349940.4a39fabf-a215-4498-b8be-1b8fd688a7e8.7ef0d78a-dbc7-4b75-b095-2aa088d16725",
         "mediaItemType": "Application",
         "modernTitleId": "2001700854",
         "isBundle": false,
@@ -8706,7 +8882,7 @@
         "titleId": "1778794320",
         "pfn": "2483TMSALSOFT.DUET_39hezpxmxzaey",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "7e5fc963-4716-429d-b0ff-cdddd2967cc7",
         "name": "DUET",
         "type": "Game",
         "devices": [
