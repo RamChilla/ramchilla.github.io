@@ -3,35 +3,39 @@
     "xuid": "2533274804693417",
     "titles": [
       {
-        "titleId": "871098991",
-        "pfn": "ElectronicArtsMobile.c341275a-b49d-4940-a531-46dbf_q5ha1ztykcgvj",
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
         "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "STAR WARS™: Squadrons",
+        "name": "Fortnite",
         "type": "Game",
         "devices": [
+          "PC",
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.49564.71371953440216666.508e0708-a814-4f11-8420-5f620fd8ce09.6a0698b5-ba6b-4f01-8338-015ad9537a91",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.20392.70702278257994163.6d75301b-59c3-4a73-b70c-5901ae9cbb44.24e2eab9-1b75-4157-ba8b-006f4624d839",
         "mediaItemType": "Application",
-        "modernTitleId": "871098991",
+        "modernTitleId": "267695549",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 47,
-          "currentGamerscore": 0,
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 40,
           "totalGamerscore": 1000,
-          "progressPercentage": 0,
-          "sourceVersion": 2
+          "progressPercentage": 4,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
-          "sourceVersion": 3
+          "sourceVersion": 2
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-23T04:16:59.9052159Z",
+          "lastTimePlayed": "2026-10-06T17:51:44.2027574Z",
           "visible": true,
           "canHide": true
         },
@@ -54,7 +58,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.1307.65187692735347017.6779cc69-c491-4e54-8aee-77ef6d129aea.cc6b8c14-9d82-4a06-8d07-a71bdf05e136",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.42368.65187692735347017.3990a461-2db8-41ef-8bf8-33d50ff2e82a.c3b82bee-c39d-4e94-b239-2ab0170c2551",
         "mediaItemType": "Application",
         "modernTitleId": "558797228",
         "isBundle": false,
@@ -64,7 +68,10 @@
           "currentGamerscore": 1440,
           "totalGamerscore": 2200,
           "progressPercentage": 65,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -72,7 +79,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-23T02:38:53.1397724Z",
+          "lastTimePlayed": "2026-10-06T15:42:23.1070289Z",
           "visible": true,
           "canHide": true
         },
@@ -84,36 +91,204 @@
         "xboxLiveTier": "Full"
       },
       {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "titleId": "1687429694",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Schedule I",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-30T06:25:14.3285776Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "1820250788",
+        "pfn": null,
         "bingId": null,
         "windowsPhoneProductId": null,
         "name": "Fortnite",
         "type": "Game",
         "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
+          "Win32"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.43050.70702278257994163.7f7e49d8-bf13-4838-8f72-548542e51d08.c3fabac6-6fa0-4bcf-8279-dca7002ac7e9",
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1WfNUYdjHmblkTD8GaYMsEuMrxRkx0nFUU3i1eJPWI77uA--",
         "mediaItemType": "Application",
-        "modernTitleId": "267695549",
+        "modernTitleId": null,
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 4,
+          "currentAchievements": 0,
           "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
-          "sourceVersion": 2
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 0
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-09-22T22:01:51.4430786Z",
+          "lastTimePlayed": "2026-09-30T05:38:53.0611172Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
+        "titleId": "2140933132",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Rocket League",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-30T03:56:12.7411728Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
+        "titleId": "2086897871",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "One Finger Death Punch 2",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-30T00:47:50.2702641Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null
+      },
+      {
+        "titleId": "871098991",
+        "pfn": "ElectronicArtsMobile.c341275a-b49d-4940-a531-46dbf_q5ha1ztykcgvj",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "STAR WARS™: Squadrons",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.49564.71371953440216666.508e0708-a814-4f11-8420-5f620fd8ce09.6a0698b5-ba6b-4f01-8338-015ad9537a91",
+        "mediaItemType": "Application",
+        "modernTitleId": "871098991",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 47,
+          "currentGamerscore": 0,
+          "totalGamerscore": 1000,
+          "progressPercentage": 0,
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 3
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-09-24T22:24:26.2401414Z",
           "visible": true,
           "canHide": true
         },
@@ -146,7 +321,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -187,7 +365,10 @@
           "currentGamerscore": 35,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -228,7 +409,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -269,7 +453,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -310,7 +497,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -352,7 +542,10 @@
           "currentGamerscore": 1495,
           "totalGamerscore": 2820,
           "progressPercentage": 53,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 1,
+          "isMythic": true
         },
         "stats": {
           "sourceVersion": 1
@@ -371,84 +564,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1820250788",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKCB3alJytYHGIZsLUJrmN8QT_2ohWBE_lG5Og8nsh1WfNUYdjHmblkTD8GaYMsEuMrxRkx0nFUU3i1eJPWI77uA--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-04T02:08:10.8054885Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "2140933132",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Rocket League",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-04T01:00:27.8936944Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
       },
       {
         "titleId": "85494077",
@@ -470,7 +585,10 @@
           "currentGamerscore": 280,
           "totalGamerscore": 1850,
           "progressPercentage": 15,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -509,7 +627,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -547,7 +668,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -565,44 +689,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "2086897871",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "One Finger Death Punch 2",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-09-02T00:54:09.1803697Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       },
       {
         "titleId": "1615644955",
@@ -625,7 +711,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -666,7 +755,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -707,7 +799,10 @@
           "currentGamerscore": 210,
           "totalGamerscore": 1000,
           "progressPercentage": 21,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -748,7 +843,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -789,7 +887,10 @@
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -830,7 +931,10 @@
           "currentGamerscore": 125,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -870,7 +974,10 @@
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -909,7 +1016,10 @@
           "currentGamerscore": 910,
           "totalGamerscore": 1000,
           "progressPercentage": 91,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -949,7 +1059,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -990,7 +1103,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1031,7 +1147,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1072,7 +1191,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1114,7 +1236,10 @@
           "currentGamerscore": 220,
           "totalGamerscore": 1720,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1155,7 +1280,10 @@
           "currentGamerscore": 125,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -1196,7 +1324,10 @@
           "currentGamerscore": 340,
           "totalGamerscore": 1260,
           "progressPercentage": 26,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1238,7 +1369,10 @@
           "currentGamerscore": 980,
           "totalGamerscore": 4000,
           "progressPercentage": 24,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1280,7 +1414,10 @@
           "currentGamerscore": 1000,
           "totalGamerscore": 1000,
           "progressPercentage": 100,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 1,
+          "isMythic": true
         },
         "stats": {
           "sourceVersion": 1
@@ -1322,7 +1459,10 @@
           "currentGamerscore": 150,
           "totalGamerscore": 1150,
           "progressPercentage": 13,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -1363,7 +1503,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1404,7 +1547,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1423,44 +1569,6 @@
         "contentBoards": null,
         "xboxLiveTier": "Full",
         "isStreamable": true
-      },
-      {
-        "titleId": "1687429694",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Schedule I",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-02-06T04:10:26.4340675Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null
       },
       {
         "titleId": "1675325475",
@@ -1483,7 +1591,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1524,7 +1635,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1810,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -1566,7 +1680,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1607,7 +1724,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1648,7 +1768,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1689,7 +1812,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1730,7 +1856,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 2750,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1770,7 +1899,10 @@
           "currentGamerscore": 205,
           "totalGamerscore": 1750,
           "progressPercentage": 11,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -1809,7 +1941,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -1849,7 +1984,10 @@
           "currentGamerscore": 165,
           "totalGamerscore": 1480,
           "progressPercentage": 11,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1880,7 +2018,7 @@
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.28857.13628462776883363.4ce215b9-ddc3-4532-97df-f15c3a95e667.56594ac4-97bd-4bd5-8fac-c104d8a32431",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.43711.13628462776883363.b5671ab7-c80f-40e6-93ba-83e5efc0e1a5.ec42daf2-e2ea-4298-922b-b4d9c26e7b10",
         "mediaItemType": "Application",
         "modernTitleId": "1744726864",
         "isBundle": false,
@@ -1890,7 +2028,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -1932,7 +2073,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -1963,7 +2107,7 @@
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.10507.14036668029170653.4554f7c2-4515-49d2-8ebb-f9d385d870e2.0252f76e-c2dd-4a4d-aa5d-51556a6baafd",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.6707.14036668029170653.6510dadb-d349-4a75-b762-95e6550fdd9b.d5b36e28-53c0-460b-b8bb-7b97e3335433",
         "mediaItemType": "Application",
         "modernTitleId": "1634930870",
         "isBundle": false,
@@ -1973,7 +2117,10 @@
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2014,7 +2161,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 1000,
           "progressPercentage": 14,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2055,7 +2205,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1250,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -2097,7 +2250,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -2138,7 +2294,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -2179,7 +2338,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2220,7 +2382,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2261,7 +2426,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 2110,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -2303,7 +2471,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 1300,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2344,7 +2515,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1725,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2385,7 +2559,10 @@
           "currentGamerscore": 210,
           "totalGamerscore": 1450,
           "progressPercentage": 14,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2426,7 +2603,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 3000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2468,7 +2648,10 @@
           "currentGamerscore": 300,
           "totalGamerscore": 1800,
           "progressPercentage": 16,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2508,7 +2691,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2546,7 +2732,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2585,7 +2774,10 @@
           "currentGamerscore": 300,
           "totalGamerscore": 1000,
           "progressPercentage": 30,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -2625,7 +2817,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -2664,7 +2859,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2704,7 +2902,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
           "progressPercentage": 20,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2744,7 +2945,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2785,7 +2989,10 @@
           "currentGamerscore": 35,
           "totalGamerscore": 200,
           "progressPercentage": 17,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2824,7 +3031,10 @@
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
           "progressPercentage": 33,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2863,7 +3073,10 @@
           "currentGamerscore": 750,
           "totalGamerscore": 1000,
           "progressPercentage": 75,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2902,7 +3115,10 @@
           "currentGamerscore": 375,
           "totalGamerscore": 1000,
           "progressPercentage": 37,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -2943,7 +3159,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -2985,7 +3204,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 2110,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -3027,7 +3249,10 @@
           "currentGamerscore": 535,
           "totalGamerscore": 1500,
           "progressPercentage": 35,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -3069,7 +3294,10 @@
           "currentGamerscore": 400,
           "totalGamerscore": 1000,
           "progressPercentage": 40,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3111,7 +3339,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1325,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -3153,7 +3384,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1195,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -3193,7 +3427,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 2895,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3234,7 +3471,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3276,7 +3516,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -3315,7 +3558,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -3355,7 +3601,10 @@
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
           "progressPercentage": 33,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3397,7 +3646,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3439,7 +3691,10 @@
           "currentGamerscore": 780,
           "totalGamerscore": 1250,
           "progressPercentage": 62,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -3478,7 +3733,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1135,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3518,7 +3776,10 @@
           "currentGamerscore": 165,
           "totalGamerscore": 2375,
           "progressPercentage": 6,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3560,7 +3821,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3602,7 +3866,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1800,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3642,7 +3909,10 @@
           "currentGamerscore": 300,
           "totalGamerscore": 1850,
           "progressPercentage": 16,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3683,7 +3953,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1390,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3723,7 +3996,10 @@
           "currentGamerscore": 75,
           "totalGamerscore": 3730,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3762,7 +4038,10 @@
           "currentGamerscore": 640,
           "totalGamerscore": 2980,
           "progressPercentage": 21,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3803,7 +4082,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3844,7 +4126,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 2300,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3883,7 +4168,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1945,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -3924,7 +4212,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1585,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -3966,7 +4257,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -4007,7 +4301,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1845,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4048,7 +4345,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4089,7 +4389,10 @@
           "currentGamerscore": 80,
           "totalGamerscore": 1350,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -4129,7 +4432,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4168,7 +4474,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4207,7 +4516,10 @@
           "currentGamerscore": 65,
           "totalGamerscore": 1250,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4247,7 +4559,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4288,7 +4603,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 2000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -4327,7 +4645,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4365,7 +4686,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4404,7 +4728,10 @@
           "currentGamerscore": 150,
           "totalGamerscore": 1000,
           "progressPercentage": 15,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -4445,7 +4772,10 @@
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -4485,7 +4815,10 @@
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4524,7 +4857,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -4565,7 +4901,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -4607,7 +4946,10 @@
           "currentGamerscore": 135,
           "totalGamerscore": 1000,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4648,7 +4990,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1445,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -4687,7 +5032,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -4727,7 +5075,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4769,7 +5120,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1500,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4810,7 +5164,10 @@
           "currentGamerscore": 125,
           "totalGamerscore": 3730,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4851,7 +5208,10 @@
           "currentGamerscore": 230,
           "totalGamerscore": 1050,
           "progressPercentage": 21,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4892,7 +5252,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4932,7 +5295,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1500,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -4972,7 +5338,10 @@
           "currentGamerscore": 45,
           "totalGamerscore": 1750,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5013,7 +5382,10 @@
           "currentGamerscore": 325,
           "totalGamerscore": 1000,
           "progressPercentage": 32,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -5055,7 +5427,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 200,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5096,7 +5471,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1000,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5138,7 +5516,10 @@
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
           "progressPercentage": 25,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -5180,7 +5561,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5221,7 +5605,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5260,7 +5647,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5298,7 +5688,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5339,7 +5732,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5381,7 +5777,10 @@
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5421,7 +5820,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5461,7 +5863,10 @@
           "currentGamerscore": 215,
           "totalGamerscore": 1000,
           "progressPercentage": 21,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5502,7 +5907,10 @@
           "currentGamerscore": 35,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -5542,7 +5950,10 @@
           "currentGamerscore": 105,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5582,7 +5993,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -5623,7 +6037,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 200,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5663,7 +6080,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5704,7 +6124,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5746,7 +6169,10 @@
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5770,7 +6196,7 @@
         "titleId": "600509688",
         "pfn": "DroolLLC.Thumper_4a0z1ykhafvhy",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "ad61eaa8-9542-4b58-a866-3a6c5a00d169",
         "name": "Thumper",
         "type": "Game",
         "devices": [
@@ -5786,7 +6212,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5826,7 +6255,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5867,7 +6299,10 @@
           "currentGamerscore": 110,
           "totalGamerscore": 1000,
           "progressPercentage": 11,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -5908,7 +6343,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 1090,
           "progressPercentage": 2,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -5949,7 +6387,10 @@
           "currentGamerscore": 73,
           "totalGamerscore": 1545,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -5989,7 +6430,10 @@
           "currentGamerscore": 185,
           "totalGamerscore": 1000,
           "progressPercentage": 18,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6029,7 +6473,10 @@
           "currentGamerscore": 715,
           "totalGamerscore": 2000,
           "progressPercentage": 35,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6070,7 +6517,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6110,7 +6560,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6149,7 +6602,10 @@
           "currentGamerscore": 650,
           "totalGamerscore": 1000,
           "progressPercentage": 65,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6189,7 +6645,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6229,7 +6688,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1650,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6271,7 +6733,10 @@
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -6313,7 +6778,10 @@
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 1
@@ -6353,7 +6821,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -6393,7 +6864,10 @@
           "currentGamerscore": 65,
           "totalGamerscore": 6310,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6434,7 +6908,10 @@
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6474,7 +6951,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6515,7 +6995,10 @@
           "currentGamerscore": 650,
           "totalGamerscore": 1000,
           "progressPercentage": 65,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6556,7 +7039,10 @@
           "currentGamerscore": 630,
           "totalGamerscore": 1420,
           "progressPercentage": 44,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6597,7 +7083,10 @@
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
           "progressPercentage": 16,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6637,7 +7126,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1750,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6677,7 +7169,10 @@
           "currentGamerscore": 175,
           "totalGamerscore": 1400,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6717,7 +7212,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 2000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6757,7 +7255,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 2250,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6799,7 +7300,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1690,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6840,7 +7344,10 @@
           "currentGamerscore": 380,
           "totalGamerscore": 1000,
           "progressPercentage": 38,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6880,7 +7387,10 @@
           "currentGamerscore": 550,
           "totalGamerscore": 1000,
           "progressPercentage": 55,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -6921,7 +7431,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1030,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -6963,7 +7476,10 @@
           "currentGamerscore": 95,
           "totalGamerscore": 2230,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7004,7 +7520,10 @@
           "currentGamerscore": 65,
           "totalGamerscore": 1000,
           "progressPercentage": 6,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7044,7 +7563,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7084,7 +7606,10 @@
           "currentGamerscore": 380,
           "totalGamerscore": 1000,
           "progressPercentage": 38,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7125,7 +7650,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7166,7 +7694,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7207,7 +7738,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 2000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7247,7 +7781,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 2430,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7288,7 +7825,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7328,7 +7868,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7368,7 +7911,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7408,7 +7954,10 @@
           "currentGamerscore": 580,
           "totalGamerscore": 1000,
           "progressPercentage": 57,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7448,7 +7997,10 @@
           "currentGamerscore": 80,
           "totalGamerscore": 1000,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7488,7 +8040,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1450,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7528,7 +8083,10 @@
           "currentGamerscore": 520,
           "totalGamerscore": 1240,
           "progressPercentage": 41,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7568,7 +8126,10 @@
           "currentGamerscore": 45,
           "totalGamerscore": 1390,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7609,7 +8170,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7649,7 +8213,10 @@
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
           "progressPercentage": 16,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7689,7 +8256,10 @@
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
           "progressPercentage": 16,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7728,7 +8298,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -7768,7 +8341,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 3
@@ -7808,7 +8384,10 @@
           "currentGamerscore": 150,
           "totalGamerscore": 1825,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7848,7 +8427,10 @@
           "currentGamerscore": 375,
           "totalGamerscore": 1400,
           "progressPercentage": 26,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7889,7 +8471,10 @@
           "currentGamerscore": 400,
           "totalGamerscore": 3000,
           "progressPercentage": 13,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7929,7 +8514,10 @@
           "currentGamerscore": 110,
           "totalGamerscore": 1950,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -7969,7 +8557,10 @@
           "currentGamerscore": 51,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8010,7 +8601,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 4360,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8050,7 +8644,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 400,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8090,7 +8687,10 @@
           "currentGamerscore": 365,
           "totalGamerscore": 1000,
           "progressPercentage": 36,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8130,7 +8730,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 2885,
           "progressPercentage": 4,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8171,7 +8774,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8212,7 +8818,10 @@
           "currentGamerscore": 25,
           "totalGamerscore": 1000,
           "progressPercentage": 2,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8253,7 +8862,10 @@
           "currentGamerscore": 445,
           "totalGamerscore": 1500,
           "progressPercentage": 29,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8294,7 +8906,10 @@
           "currentGamerscore": 75,
           "totalGamerscore": 1000,
           "progressPercentage": 7,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8335,7 +8950,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8375,7 +8993,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8415,7 +9036,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1850,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8455,7 +9079,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8496,7 +9123,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 1000,
           "progressPercentage": 14,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8536,7 +9166,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 5000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8578,7 +9211,10 @@
           "currentGamerscore": 675,
           "totalGamerscore": 1000,
           "progressPercentage": 67,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8619,7 +9255,10 @@
           "currentGamerscore": 85,
           "totalGamerscore": 1250,
           "progressPercentage": 6,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8661,7 +9300,10 @@
           "currentGamerscore": 230,
           "totalGamerscore": 4000,
           "progressPercentage": 5,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8702,7 +9344,10 @@
           "currentGamerscore": 85,
           "totalGamerscore": 1000,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8742,7 +9387,10 @@
           "currentGamerscore": 115,
           "totalGamerscore": 1360,
           "progressPercentage": 8,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8782,7 +9430,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8822,7 +9473,10 @@
           "currentGamerscore": 525,
           "totalGamerscore": 1000,
           "progressPercentage": 52,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -8864,7 +9518,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 400,
           "progressPercentage": 7,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8905,7 +9562,10 @@
           "currentGamerscore": 320,
           "totalGamerscore": 400,
           "progressPercentage": 80,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8946,7 +9606,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -8987,7 +9650,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9028,7 +9694,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1500,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9069,7 +9738,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1250,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9111,7 +9783,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9151,7 +9826,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9191,7 +9869,10 @@
           "currentGamerscore": 570,
           "totalGamerscore": 1000,
           "progressPercentage": 56,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9232,7 +9913,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 200,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9273,7 +9957,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 200,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9314,7 +10001,10 @@
           "currentGamerscore": 165,
           "totalGamerscore": 1000,
           "progressPercentage": 16,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9354,7 +10044,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 2510,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9395,7 +10088,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1225,
           "progressPercentage": 10,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9436,7 +10132,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1750,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9476,7 +10175,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1300,
           "progressPercentage": 3,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9518,7 +10220,10 @@
           "currentGamerscore": 515,
           "totalGamerscore": 2000,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9559,7 +10264,10 @@
           "currentGamerscore": 55,
           "totalGamerscore": 250,
           "progressPercentage": 22,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9600,7 +10308,10 @@
           "currentGamerscore": 330,
           "totalGamerscore": 1250,
           "progressPercentage": 26,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9641,7 +10352,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1360,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9680,7 +10394,10 @@
           "currentGamerscore": 360,
           "totalGamerscore": 1250,
           "progressPercentage": 28,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9721,7 +10438,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9762,7 +10482,10 @@
           "currentGamerscore": 65,
           "totalGamerscore": 1345,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9804,7 +10527,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 200,
           "progressPercentage": 15,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9845,7 +10571,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9886,7 +10615,10 @@
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -9925,7 +10657,10 @@
           "currentGamerscore": 55,
           "totalGamerscore": 4935,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -9966,7 +10701,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10007,7 +10745,10 @@
           "currentGamerscore": 280,
           "totalGamerscore": 1000,
           "progressPercentage": 28,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10047,7 +10788,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1200,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10087,7 +10831,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10127,7 +10874,10 @@
           "currentGamerscore": 245,
           "totalGamerscore": 1925,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10168,7 +10918,10 @@
           "currentGamerscore": 5,
           "totalGamerscore": 1210,
           "progressPercentage": 0,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10205,7 +10958,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 0,
           "progressPercentage": 0,
-          "sourceVersion": 0
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10245,7 +11001,10 @@
           "currentGamerscore": 350,
           "totalGamerscore": 1500,
           "progressPercentage": 23,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10286,7 +11045,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1250,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10327,7 +11089,10 @@
           "currentGamerscore": 190,
           "totalGamerscore": 1200,
           "progressPercentage": 15,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10366,7 +11131,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1000,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10407,7 +11175,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 2000,
           "progressPercentage": 3,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10448,7 +11219,10 @@
           "currentGamerscore": 180,
           "totalGamerscore": 1500,
           "progressPercentage": 12,
-          "sourceVersion": 2
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 2
@@ -10488,7 +11262,10 @@
           "currentGamerscore": 5,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10529,7 +11306,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10571,7 +11351,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 600,
           "progressPercentage": 6,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10612,7 +11395,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 1250,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10651,7 +11437,10 @@
           "currentGamerscore": 50,
           "totalGamerscore": 200,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10690,7 +11479,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 25,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10731,7 +11523,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 200,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10772,7 +11567,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 200,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10813,7 +11611,10 @@
           "currentGamerscore": 170,
           "totalGamerscore": 1500,
           "progressPercentage": 11,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10852,7 +11653,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10893,7 +11697,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 300,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10934,7 +11741,10 @@
           "currentGamerscore": 160,
           "totalGamerscore": 1000,
           "progressPercentage": 16,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -10975,7 +11785,10 @@
           "currentGamerscore": 330,
           "totalGamerscore": 1000,
           "progressPercentage": 33,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11014,7 +11827,10 @@
           "currentGamerscore": 320,
           "totalGamerscore": 1250,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11055,7 +11871,10 @@
           "currentGamerscore": 5,
           "totalGamerscore": 1695,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11096,7 +11915,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 1350,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11137,7 +11959,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11176,7 +12001,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1250,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11215,7 +12043,10 @@
           "currentGamerscore": 25,
           "totalGamerscore": 500,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11256,7 +12087,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11295,7 +12129,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 200,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11334,7 +12171,10 @@
           "currentGamerscore": 235,
           "totalGamerscore": 1000,
           "progressPercentage": 23,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11375,7 +12215,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 250,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11416,7 +12259,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 400,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11458,7 +12304,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1300,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11497,7 +12346,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 400,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11538,7 +12390,10 @@
           "currentGamerscore": 890,
           "totalGamerscore": 1000,
           "progressPercentage": 89,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11579,7 +12434,10 @@
           "currentGamerscore": 220,
           "totalGamerscore": 500,
           "progressPercentage": 44,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11620,7 +12478,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1300,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11659,7 +12520,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 1250,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11700,7 +12564,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 400,
           "progressPercentage": 3,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11741,7 +12608,10 @@
           "currentGamerscore": 710,
           "totalGamerscore": 2000,
           "progressPercentage": 35,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11780,7 +12650,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 200,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11819,7 +12692,10 @@
           "currentGamerscore": 35,
           "totalGamerscore": 500,
           "progressPercentage": 7,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11858,7 +12734,10 @@
           "currentGamerscore": 370,
           "totalGamerscore": 1000,
           "progressPercentage": 37,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11899,7 +12778,10 @@
           "currentGamerscore": 655,
           "totalGamerscore": 1000,
           "progressPercentage": 65,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11938,7 +12820,10 @@
           "currentGamerscore": 365,
           "totalGamerscore": 1000,
           "progressPercentage": 36,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -11979,7 +12864,10 @@
           "currentGamerscore": 480,
           "totalGamerscore": 1000,
           "progressPercentage": 48,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12020,7 +12908,10 @@
           "currentGamerscore": 160,
           "totalGamerscore": 1250,
           "progressPercentage": 12,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12059,7 +12950,10 @@
           "currentGamerscore": 255,
           "totalGamerscore": 1000,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12098,7 +12992,10 @@
           "currentGamerscore": 95,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12137,7 +13034,10 @@
           "currentGamerscore": 55,
           "totalGamerscore": 400,
           "progressPercentage": 13,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12176,7 +13076,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12217,7 +13120,10 @@
           "currentGamerscore": 390,
           "totalGamerscore": 1300,
           "progressPercentage": 30,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12256,7 +13162,10 @@
           "currentGamerscore": 550,
           "totalGamerscore": 1000,
           "progressPercentage": 55,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12295,7 +13204,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12336,7 +13248,10 @@
           "currentGamerscore": 60,
           "totalGamerscore": 2000,
           "progressPercentage": 3,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12375,7 +13290,10 @@
           "currentGamerscore": 465,
           "totalGamerscore": 1000,
           "progressPercentage": 46,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12416,7 +13334,10 @@
           "currentGamerscore": 220,
           "totalGamerscore": 1000,
           "progressPercentage": 22,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12457,7 +13378,10 @@
           "currentGamerscore": 510,
           "totalGamerscore": 1250,
           "progressPercentage": 40,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12496,7 +13420,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12537,7 +13464,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 200,
           "progressPercentage": 35,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12577,7 +13507,10 @@
           "currentGamerscore": 20,
           "totalGamerscore": 1640,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12616,7 +13549,10 @@
           "currentGamerscore": 150,
           "totalGamerscore": 1000,
           "progressPercentage": 15,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12655,7 +13591,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1100,
           "progressPercentage": 18,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12696,7 +13635,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 1205,
           "progressPercentage": 11,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12735,7 +13677,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12776,7 +13721,10 @@
           "currentGamerscore": 670,
           "totalGamerscore": 1700,
           "progressPercentage": 39,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12817,7 +13765,10 @@
           "currentGamerscore": 230,
           "totalGamerscore": 1250,
           "progressPercentage": 18,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12858,7 +13809,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1550,
           "progressPercentage": 2,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12898,7 +13852,10 @@
           "currentGamerscore": 5,
           "totalGamerscore": 1500,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12937,7 +13894,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -12978,7 +13938,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13017,7 +13980,10 @@
           "currentGamerscore": 0,
           "totalGamerscore": 1000,
           "progressPercentage": 0,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13058,7 +14024,10 @@
           "currentGamerscore": 540,
           "totalGamerscore": 1610,
           "progressPercentage": 33,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13099,7 +14068,10 @@
           "currentGamerscore": 370,
           "totalGamerscore": 1490,
           "progressPercentage": 24,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13138,7 +14110,10 @@
           "currentGamerscore": 280,
           "totalGamerscore": 1500,
           "progressPercentage": 18,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13179,7 +14154,10 @@
           "currentGamerscore": 200,
           "totalGamerscore": 1000,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13218,7 +14196,10 @@
           "currentGamerscore": 520,
           "totalGamerscore": 1000,
           "progressPercentage": 52,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13259,7 +14240,10 @@
           "currentGamerscore": 150,
           "totalGamerscore": 1000,
           "progressPercentage": 15,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13300,7 +14284,10 @@
           "currentGamerscore": 690,
           "totalGamerscore": 1250,
           "progressPercentage": 55,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13341,7 +14328,10 @@
           "currentGamerscore": 130,
           "totalGamerscore": 1250,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13382,7 +14372,10 @@
           "currentGamerscore": 300,
           "totalGamerscore": 1500,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13421,7 +14414,10 @@
           "currentGamerscore": 250,
           "totalGamerscore": 1000,
           "progressPercentage": 25,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13460,7 +14456,10 @@
           "currentGamerscore": 360,
           "totalGamerscore": 1000,
           "progressPercentage": 36,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13501,7 +14500,10 @@
           "currentGamerscore": 660,
           "totalGamerscore": 1350,
           "progressPercentage": 48,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13543,7 +14545,10 @@
           "currentGamerscore": 1000,
           "totalGamerscore": 1000,
           "progressPercentage": 100,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 1,
+          "isMythic": true
         },
         "stats": {
           "sourceVersion": 0
@@ -13584,7 +14589,10 @@
           "currentGamerscore": 780,
           "totalGamerscore": 1250,
           "progressPercentage": 62,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13626,7 +14634,10 @@
           "currentGamerscore": 610,
           "totalGamerscore": 1500,
           "progressPercentage": 40,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13667,7 +14678,10 @@
           "currentGamerscore": 350,
           "totalGamerscore": 1500,
           "progressPercentage": 23,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13706,7 +14720,10 @@
           "currentGamerscore": 750,
           "totalGamerscore": 1000,
           "progressPercentage": 75,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13747,7 +14764,10 @@
           "currentGamerscore": 240,
           "totalGamerscore": 1250,
           "progressPercentage": 19,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13786,7 +14806,10 @@
           "currentGamerscore": 55,
           "totalGamerscore": 200,
           "progressPercentage": 27,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13827,7 +14850,10 @@
           "currentGamerscore": 175,
           "totalGamerscore": 1000,
           "progressPercentage": 17,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13868,7 +14894,10 @@
           "currentGamerscore": 760,
           "totalGamerscore": 1000,
           "progressPercentage": 76,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13907,7 +14936,10 @@
           "currentGamerscore": 740,
           "totalGamerscore": 1000,
           "progressPercentage": 74,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13948,7 +14980,10 @@
           "currentGamerscore": 65,
           "totalGamerscore": 200,
           "progressPercentage": 32,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -13987,7 +15022,10 @@
           "currentGamerscore": 405,
           "totalGamerscore": 1250,
           "progressPercentage": 32,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14028,7 +15066,10 @@
           "currentGamerscore": 785,
           "totalGamerscore": 1500,
           "progressPercentage": 52,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14067,7 +15108,10 @@
           "currentGamerscore": 170,
           "totalGamerscore": 1250,
           "progressPercentage": 13,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14106,7 +15150,10 @@
           "currentGamerscore": 30,
           "totalGamerscore": 200,
           "progressPercentage": 15,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14147,7 +15194,10 @@
           "currentGamerscore": 355,
           "totalGamerscore": 1500,
           "progressPercentage": 23,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14188,7 +15238,10 @@
           "currentGamerscore": 140,
           "totalGamerscore": 200,
           "progressPercentage": 70,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14227,7 +15280,10 @@
           "currentGamerscore": 70,
           "totalGamerscore": 1000,
           "progressPercentage": 7,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14266,7 +15322,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 200,
           "progressPercentage": 7,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14305,7 +15364,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14344,7 +15406,10 @@
           "currentGamerscore": 900,
           "totalGamerscore": 1000,
           "progressPercentage": 90,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14385,7 +15450,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 200,
           "progressPercentage": 50,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14424,7 +15492,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14463,7 +15534,10 @@
           "currentGamerscore": 165,
           "totalGamerscore": 200,
           "progressPercentage": 82,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14502,7 +15576,10 @@
           "currentGamerscore": 60,
           "totalGamerscore": 1000,
           "progressPercentage": 6,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14543,7 +15620,10 @@
           "currentGamerscore": 45,
           "totalGamerscore": 1000,
           "progressPercentage": 4,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14584,7 +15664,10 @@
           "currentGamerscore": 765,
           "totalGamerscore": 1750,
           "progressPercentage": 43,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14625,7 +15708,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 200,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14664,7 +15750,10 @@
           "currentGamerscore": 120,
           "totalGamerscore": 1000,
           "progressPercentage": 12,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14705,7 +15794,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 200,
           "progressPercentage": 45,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14746,7 +15838,10 @@
           "currentGamerscore": 100,
           "totalGamerscore": 1000,
           "progressPercentage": 10,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14786,7 +15881,10 @@
           "currentGamerscore": 40,
           "totalGamerscore": 200,
           "progressPercentage": 20,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14825,7 +15923,10 @@
           "currentGamerscore": 35,
           "totalGamerscore": 1000,
           "progressPercentage": 3,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14864,7 +15965,10 @@
           "currentGamerscore": 325,
           "totalGamerscore": 1000,
           "progressPercentage": 32,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14903,7 +16007,10 @@
           "currentGamerscore": 335,
           "totalGamerscore": 1000,
           "progressPercentage": 33,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14942,7 +16049,10 @@
           "currentGamerscore": 15,
           "totalGamerscore": 200,
           "progressPercentage": 7,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -14983,7 +16093,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 200,
           "progressPercentage": 5,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -15022,7 +16135,10 @@
           "currentGamerscore": 10,
           "totalGamerscore": 1000,
           "progressPercentage": 1,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -15061,7 +16177,10 @@
           "currentGamerscore": 90,
           "totalGamerscore": 1000,
           "progressPercentage": 9,
-          "sourceVersion": 1
+          "sourceVersion": 1,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
         },
         "stats": {
           "sourceVersion": 0
@@ -15080,7 +16199,11 @@
         "contentBoards": null,
         "xboxLiveTier": "Full"
       }
-    ]
+    ],
+    "achievementSummary": {
+      "mythicsUnlocked": 3,
+      "totalAchievementsUnlocked": 3074
+    }
   },
   "code": 200
 }
