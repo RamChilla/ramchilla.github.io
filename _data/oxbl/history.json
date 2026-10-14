@@ -38,7 +38,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-06T17:51:44.2027574Z",
+          "lastTimePlayed": "2026-10-14T14:30:52.3824994Z",
           "visible": true,
           "canHide": true
         },
@@ -85,7 +85,7 @@
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-10-06T15:42:23.1070289Z",
+          "lastTimePlayed": "2026-10-14T13:38:14.8799198Z",
           "visible": true,
           "canHide": true
         },
@@ -4250,7 +4250,7 @@
         "bingId": null,
         "serviceConfigId": "00000000-0000-0000-0000-00006bada674",
         "windowsPhoneProductId": null,
-        "name": "theHunter: Call of the Wild™ - Windows 10",
+        "name": "theHunter: Call of the Wild™",
         "type": "Game",
         "devices": [
           "PC"
@@ -6618,7 +6618,7 @@
         "pfn": "DroolLLC.Thumper_4a0z1ykhafvhy",
         "bingId": null,
         "serviceConfigId": "d36f0100-43c9-47c9-93f9-8cef23cb0cf8",
-        "windowsPhoneProductId": "ad61eaa8-9542-4b58-a866-3a6c5a00d169",
+        "windowsPhoneProductId": null,
         "name": "Thumper",
         "type": "Game",
         "devices": [
@@ -9586,7 +9586,7 @@
         "titleId": "1903007727",
         "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
         "bingId": null,
-        "windowsPhoneProductId": null,
+        "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
         "name": "Subway Surfers",
         "type": "Game",
         "devices": [
