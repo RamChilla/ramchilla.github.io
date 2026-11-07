@@ -3,6 +3,49 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "558797228",
+        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
+        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+        "windowsPhoneProductId": null,
+        "name": "Rocket League®",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.42368.65187692735347017.3990a461-2db8-41ef-8bf8-33d50ff2e82a.c3b82bee-c39d-4e94-b239-2ab0170c2551",
+        "mediaItemType": "Application",
+        "modernTitleId": "558797228",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 55,
+          "totalAchievements": 0,
+          "currentGamerscore": 1440,
+          "totalGamerscore": 2200,
+          "progressPercentage": 65,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-06T19:11:49.2313694Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full"
+      },
+      {
         "titleId": "1820250788",
         "pfn": null,
         "bingId": null,
@@ -33,49 +76,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-04T04:53:48.9698328Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "2140933132",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Rocket League",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-04T03:23:13.0325906Z",
+          "lastTimePlayed": "2026-11-06T17:50:01.1788039Z",
           "visible": true,
           "canHide": true
         },
@@ -119,7 +120,7 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-03T21:11:41.0894569Z",
+          "lastTimePlayed": "2026-11-06T00:03:39.5088486Z",
           "visible": true,
           "canHide": true
         },
@@ -132,38 +133,38 @@
         "isStreamable": true
       },
       {
-        "titleId": "558797228",
-        "pfn": "PsyonixInc.RocketLeague_24yhbbr7hv30r",
-        "bingId": "233becfb-c914-4ef4-9a73-398e8195f00a",
+        "titleId": "1615991113",
+        "pfn": "Ubisoft.MonopolyHermes_ngz4m417e0mpw",
+        "bingId": null,
         "windowsPhoneProductId": null,
-        "name": "Rocket League®",
+        "name": "New MONOPOLY®",
         "type": "Game",
         "devices": [
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.42368.65187692735347017.3990a461-2db8-41ef-8bf8-33d50ff2e82a.c3b82bee-c39d-4e94-b239-2ab0170c2551",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.24248.14087884600963538.c4b454e8-46a3-41fd-988e-e14516455c66.f7ddc886-8618-4140-a3d3-531c248ab0cc",
         "mediaItemType": "Application",
-        "modernTitleId": "558797228",
+        "modernTitleId": "1615991113",
         "isBundle": false,
         "achievement": {
-          "currentAchievements": 55,
+          "currentAchievements": 3,
           "totalAchievements": 0,
-          "currentGamerscore": 1440,
-          "totalGamerscore": 2200,
-          "progressPercentage": 65,
+          "currentGamerscore": 30,
+          "totalGamerscore": 1000,
+          "progressPercentage": 3,
           "sourceVersion": 2,
           "baseGameCount": 1,
           "baseGameCompleted": 0,
           "isMythic": false
         },
         "stats": {
-          "sourceVersion": 2
+          "sourceVersion": 1
         },
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-03T20:28:35.0809019Z",
+          "lastTimePlayed": "2026-11-05T02:37:56.9521614Z",
           "visible": true,
           "canHide": true
         },
@@ -172,7 +173,50 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2140933132",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Rocket League",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-04T18:47:52.4337505Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
       },
       {
         "titleId": "816351210",
@@ -1403,7 +1447,7 @@
           "XboxOne",
           "XboxSeries"
         ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.16540.13966330883349940.4dd14557-7da0-410c-be6f-a8a48bf42283.024ce1ae-5177-4554-b058-86ab8f466a5d",
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.1874.13966330883349940.086b5b1f-f39e-4568-98a0-f4528f85932f.484f4dfd-283a-4be9-b55d-1d744583b3e0",
         "mediaItemType": "Application",
         "modernTitleId": "2001700854",
         "isBundle": false,
@@ -16203,7 +16247,7 @@
     ],
     "achievementSummary": {
       "mythicsUnlocked": 3,
-      "totalAchievementsUnlocked": 3074
+      "totalAchievementsUnlocked": 3077
     }
   },
   "code": 200
