@@ -3,6 +3,49 @@
     "xuid": "2533274804693417",
     "titles": [
       {
+        "titleId": "2035456122",
+        "pfn": "RockstarGamesInc.28872443D20A7_k2ss7vbb13xte",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Grand Theft Auto VI",
+        "type": "Game",
+        "devices": [
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.10572.13714795037479433.563e5346-29e4-492a-a767-4bdeeb012f4d.9f55138a-ed59-46cc-89ad-752f07cc4613",
+        "mediaItemType": "Application",
+        "modernTitleId": "2035456122",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 40,
+          "totalGamerscore": 1000,
+          "progressPercentage": 4,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-24T04:58:45.3938481Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
         "titleId": "1820250788",
         "pfn": null,
         "bingId": null,
@@ -33,7 +76,138 @@
         "gamePass": null,
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-12T14:27:27.9447996Z",
+          "lastTimePlayed": "2026-11-19T03:15:11.3291116Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "None"
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 4,
+          "totalAchievements": 0,
+          "currentGamerscore": 40,
+          "totalGamerscore": 1000,
+          "progressPercentage": 4,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-18T11:09:33.3675312Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2010328709",
+        "pfn": "Ubisoft.AssassinsCreedRift_ngz4m417e0mpw",
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Assassin's Creed® Mirage",
+        "type": "Game",
+        "devices": [
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "http://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5",
+        "mediaItemType": "Application",
+        "modernTitleId": "2010328709",
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 21,
+          "totalAchievements": 0,
+          "currentGamerscore": 340,
+          "totalGamerscore": 1260,
+          "progressPercentage": 26,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 1
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-18T11:07:50.6567925Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "2140933132",
+        "pfn": null,
+        "bingId": null,
+        "windowsPhoneProductId": null,
+        "name": "Rocket League",
+        "type": "Game",
+        "devices": [
+          "Win32"
+        ],
+        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
+        "mediaItemType": "Application",
+        "modernTitleId": null,
+        "isBundle": false,
+        "achievement": {
+          "currentAchievements": 0,
+          "totalAchievements": 0,
+          "currentGamerscore": 0,
+          "totalGamerscore": 0,
+          "progressPercentage": 0,
+          "sourceVersion": 0,
+          "baseGameCount": 0,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 0
+        },
+        "gamePass": null,
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-18T02:04:56.6931165Z",
           "visible": true,
           "canHide": true
         },
@@ -85,93 +259,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "Full"
-      },
-      {
-        "titleId": "2140933132",
-        "pfn": null,
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Rocket League",
-        "type": "Game",
-        "devices": [
-          "Win32"
-        ],
-        "displayImage": "https://images-eds-ssl.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToBAInhxUS6pI0HjtmvshPyKDkVHrUDhZKzJcwW3NjVPQbsnBbwZuLVYoY1egdGD7FkJS4ToBe4ySI21eRMMlIG6aPnaVZHHYFP8sF6Tv33Y6Q--",
-        "mediaItemType": "Application",
-        "modernTitleId": null,
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 0,
-          "totalAchievements": 0,
-          "currentGamerscore": 0,
-          "totalGamerscore": 0,
-          "progressPercentage": 0,
-          "sourceVersion": 0,
-          "baseGameCount": 0,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 0
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-12T03:45:03.7825967Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-12T01:19:29.6339479Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "558797228",
@@ -1392,50 +1479,6 @@
         "isStreamable": true
       },
       {
-        "titleId": "2010328709",
-        "pfn": "Ubisoft.AssassinsCreedRift_ngz4m417e0mpw",
-        "bingId": null,
-        "windowsPhoneProductId": null,
-        "name": "Assassin's Creed® Mirage",
-        "type": "Game",
-        "devices": [
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "http://store-images.s-microsoft.com/image/apps.54416.13997063802651619.ce2fcc13-4f7a-4470-bbf8-0ffe7839f884.ea326d42-29af-48f6-9de2-64d2115d7ae5",
-        "mediaItemType": "Application",
-        "modernTitleId": "2010328709",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 21,
-          "totalAchievements": 0,
-          "currentGamerscore": 340,
-          "totalGamerscore": 1260,
-          "progressPercentage": 26,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 1
-        },
-        "gamePass": null,
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-04-20T21:35:35.7370958Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
-      },
-      {
         "titleId": "2001700854",
         "pfn": "38985CA0.COREBase_5bkah9njm3e9g",
         "bingId": null,
@@ -2535,8 +2578,7 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
+        "xboxLiveTier": "Full"
       },
       {
         "titleId": "1777786002",
@@ -11416,7 +11458,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1161890190",
@@ -13830,7 +13873,8 @@
         "friendsWhoPlayed": null,
         "alternateTitleIds": null,
         "contentBoards": null,
-        "xboxLiveTier": "Full"
+        "xboxLiveTier": "Full",
+        "isStreamable": true
       },
       {
         "titleId": "1112737749",
@@ -16247,7 +16291,7 @@
     ],
     "achievementSummary": {
       "mythicsUnlocked": 3,
-      "totalAchievementsUnlocked": 3077
+      "totalAchievementsUnlocked": 3081
     }
   },
   "code": 200
