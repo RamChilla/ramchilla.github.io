@@ -18,6 +18,54 @@
         "modernTitleId": "2035456122",
         "isBundle": false,
         "achievement": {
+          "currentAchievements": 5,
+          "totalAchievements": 0,
+          "currentGamerscore": 60,
+          "totalGamerscore": 1000,
+          "progressPercentage": 6,
+          "sourceVersion": 2,
+          "baseGameCount": 1,
+          "baseGameCompleted": 0,
+          "isMythic": false
+        },
+        "stats": {
+          "sourceVersion": 2
+        },
+        "gamePass": {
+          "isGamePass": false
+        },
+        "images": null,
+        "titleHistory": {
+          "lastTimePlayed": "2026-11-26T08:56:00.9777409Z",
+          "visible": true,
+          "canHide": true
+        },
+        "titleRecord": null,
+        "detail": null,
+        "friendsWhoPlayed": null,
+        "alternateTitleIds": null,
+        "contentBoards": null,
+        "xboxLiveTier": "Full",
+        "isStreamable": true
+      },
+      {
+        "titleId": "267695549",
+        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
+        "bingId": null,
+        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
+        "windowsPhoneProductId": null,
+        "name": "Fortnite",
+        "type": "Game",
+        "devices": [
+          "PC",
+          "XboxOne",
+          "XboxSeries"
+        ],
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
+        "mediaItemType": "Application",
+        "modernTitleId": "267695549",
+        "isBundle": false,
+        "achievement": {
           "currentAchievements": 4,
           "totalAchievements": 0,
           "currentGamerscore": 40,
@@ -32,11 +80,11 @@
           "sourceVersion": 2
         },
         "gamePass": {
-          "isGamePass": false
+          "isGamePass": true
         },
         "images": null,
         "titleHistory": {
-          "lastTimePlayed": "2026-11-24T04:58:45.3938481Z",
+          "lastTimePlayed": "2026-11-26T00:12:58.1309103Z",
           "visible": true,
           "canHide": true
         },
@@ -92,54 +140,6 @@
         "alternateTitleIds": null,
         "contentBoards": null,
         "xboxLiveTier": "None"
-      },
-      {
-        "titleId": "267695549",
-        "pfn": "436609B6.FortniteClient_9ncxwbgmmv7m8",
-        "bingId": null,
-        "serviceConfigId": "93ac0100-efec-488c-af85-e5850ff4b5bd",
-        "windowsPhoneProductId": null,
-        "name": "Fortnite",
-        "type": "Game",
-        "devices": [
-          "PC",
-          "XboxOne",
-          "XboxSeries"
-        ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.31130.70702278257994163.f7265b8a-f10e-49c4-8115-73c4d800af63.641ad74a-edd4-40c9-8049-3bb73387d09a",
-        "mediaItemType": "Application",
-        "modernTitleId": "267695549",
-        "isBundle": false,
-        "achievement": {
-          "currentAchievements": 4,
-          "totalAchievements": 0,
-          "currentGamerscore": 40,
-          "totalGamerscore": 1000,
-          "progressPercentage": 4,
-          "sourceVersion": 2,
-          "baseGameCount": 1,
-          "baseGameCompleted": 0,
-          "isMythic": false
-        },
-        "stats": {
-          "sourceVersion": 2
-        },
-        "gamePass": {
-          "isGamePass": true
-        },
-        "images": null,
-        "titleHistory": {
-          "lastTimePlayed": "2026-11-18T11:09:33.3675312Z",
-          "visible": true,
-          "canHide": true
-        },
-        "titleRecord": null,
-        "detail": null,
-        "friendsWhoPlayed": null,
-        "alternateTitleIds": null,
-        "contentBoards": null,
-        "xboxLiveTier": "Full",
-        "isStreamable": true
       },
       {
         "titleId": "2010328709",
@@ -5130,7 +5130,7 @@
           "PC",
           "XboxSeries"
         ],
-        "displayImage": "https://store-images.s-microsoft.com/image/apps.12627.13979077126806036.a2655d57-9f8b-422e-a646-07fca70ec826.44420f18-88a4-4936-877b-48f92b3f1c10",
+        "displayImage": "https://store-images.s-microsoft.com/image/apps.8639.13979077126806036.3351b2d6-bd43-4651-928e-398dc7688ad9.7a64e412-d563-4f80-a933-114f1b308f29",
         "mediaItemType": "Application",
         "modernTitleId": "1931911684",
         "isBundle": false,
@@ -9678,7 +9678,7 @@
         "titleId": "1903007727",
         "pfn": "Kiloo.SubwaySurfers_qfx47yxzeb82a",
         "bingId": null,
-        "windowsPhoneProductId": "bedff828-2697-4cc5-8661-1206d15e3e0c",
+        "windowsPhoneProductId": null,
         "name": "Subway Surfers",
         "type": "Game",
         "devices": [
@@ -17351,7 +17351,7 @@
     ],
     "achievementSummary": {
       "mythicsUnlocked": 3,
-      "totalAchievementsUnlocked": 3081
+      "totalAchievementsUnlocked": 3082
     }
   },
   "code": 200
